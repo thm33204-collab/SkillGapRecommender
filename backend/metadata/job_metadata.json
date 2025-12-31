@@ -1,0 +1,247 @@
+[
+  {
+    "job_id": "db63df5b-6bcb-4cb8-9c84-d6ba6ee863c6",
+    "title": "Frontend Developer",
+    "text": "Job title: Frontend Developer. Company: Shopee. Location: Hà Nội. Description: Frontend Developer chịu trách nhiệm phát triển giao diện người dùng cho các hệ thống web thương mại điện tử.. Required skills: JavaScript, React, HTML, CSS, Git. Nice to have skills: TypeScript, Next.js."
+  },
+  {
+    "job_id": "2b2ee4a9-a35f-4848-806b-9110251b89b9",
+    "title": "Frontend Developer",
+    "text": "Job title: Frontend Developer. Company: VNG. Location: Đà Nẵng. Description: Xây dựng và tối ưu giao diện người dùng cho các sản phẩm số của VNG.. Required skills: JavaScript, React, HTML, CSS, Communication. Nice to have skills: Figma, UI/UX cơ bản."
+  },
+  {
+    "job_id": "e504ccaa-3388-48ac-a63a-499feb8958c9",
+    "title": "UI/UX Designer",
+    "text": "Job title: UI/UX Designer. Company: Tiki. Location: Hà Nội. Description: Thiết kế giao diện và trải nghiệm người dùng cho nền tảng thương mại điện tử.. Required skills: UI Design, UX Research, Figma, Communication, Problem Solving. Nice to have skills: Design System, A/B Testing."
+  },
+  {
+    "job_id": "a9714916-3c47-4d9d-af77-a9a6b2443de2",
+    "title": "UI/UX Designer",
+    "text": "Job title: UI/UX Designer. Company: FPT. Location: Remote. Description: Thiết kế trải nghiệm người dùng cho các sản phẩm phần mềm doanh nghiệp.. Required skills: UI Design, UX Research, Figma, Wireframing, Communication. Nice to have skills: Usability Testing."
+  },
+  {
+    "job_id": "39042b46-4606-4e2a-9740-a80408ea97db",
+    "title": "QA Engineer",
+    "text": "Job title: QA Engineer. Company: VNPT. Location: Remote. Description: QA Engineer chịu trách nhiệm đảm bảo chất lượng phần mềm.. Required skills: Software Testing, Test Case Design, Bug Tracking, Excel, Communication. Nice to have skills: Automation Test."
+  },
+  {
+    "job_id": "4ba725b8-ccd1-449f-a548-7d2ad68f5e54",
+    "title": "QA Engineer",
+    "text": "Job title: QA Engineer. Company: Tiki. Location: Đà Nẵng. Description: Đảm bảo chất lượng cho các hệ thống thương mại điện tử.. Required skills: Software Testing, Test Planning, Problem Solving, Communication, SQL. Nice to have skills: Automation Testing."
+  },
+  {
+    "job_id": "55a028c2-6298-4a0e-9c3c-6aeb9fb62f81",
+    "title": "UI/UX Designer",
+    "text": "Job title: UI/UX Designer. Company: VNG. Location: Hà Nội. Description: Thiết kế trải nghiệm người dùng cho các sản phẩm game và ứng dụng số.. Required skills: UI Design, UX Research, Figma, Communication, Creativity. Nice to have skills: Game Design."
+  },
+  {
+    "job_id": "48b3a31c-65ae-4f28-a58e-326a913aef37",
+    "title": "Data Analyst",
+    "text": "Job title: Data Analyst. Company: FPT. Location: Hà Nội. Description: Phân tích dữ liệu và xây dựng báo cáo phục vụ kinh doanh.. Required skills: SQL, Excel, Power BI, Data Analysis, Communication. Nice to have skills: Python."
+  },
+  {
+    "job_id": "c13eb04a-f9e2-4152-a93d-24dcbbd265f1",
+    "title": "Data Analyst",
+    "text": "Job title: Data Analyst. Company: VNPT. Location: Đà Nẵng. Description: Hỗ trợ phân tích dữ liệu và báo cáo kinh doanh.. Required skills: Excel, SQL, Data Analysis, Problem Solving, Communication. Nice to have skills: Power BI."
+  },
+  {
+    "job_id": "9f76149a-8ea4-49a9-95fd-b9237f5eaeb7",
+    "title": "Data Analyst",
+    "text": "Job title: Data Analyst. Company: Tiki. Location: Hồ Chí Minh. Description: Phân tích dữ liệu kinh doanh, hành vi người dùng nhằm hỗ trợ các quyết định chiến lược.. Required skills: SQL, Excel, Data Analysis, Power BI, Communication. Nice to have skills: Python."
+  },
+  {
+    "job_id": "21259633-cfb8-4a20-bcfb-e522d3c69357",
+    "title": "Cloud Engineer",
+    "text": "Job title: Cloud Engineer. Company: Momo. Location: Hà Nội. Description: Vận hành và tối ưu hệ thống cloud cho các sản phẩm tài chính số.. Required skills: AWS, Cloud Computing, Docker, Linux, Monitoring. Nice to have skills: Kubernetes."
+  },
+  {
+    "job_id": "df3b8488-0c12-4314-9e7c-580fec15ea3f",
+    "title": "Cloud Engineer",
+    "text": "Job title: Cloud Engineer. Company: Momo. Location: Remote. Description: Hỗ trợ triển khai và vận hành hệ thống cloud cho các dịch vụ online.. Required skills: Cloud Computing, AWS, Docker, Linux, Git. Nice to have skills: Terraform."
+  },
+  {
+    "job_id": "571af73c-7759-47f8-966f-513da8bf7917",
+    "title": "Backend Developer",
+    "text": "Job title: Backend Developer. Company: FPT. Location: Remote. Description: Phát triển các dịch vụ backend cho hệ thống phần mềm doanh nghiệp.. Required skills: Node.js, SQL, Docker, Git, Problem Solving. Nice to have skills: Microservices."
+  },
+  {
+    "job_id": "1d06cc89-e9b5-499d-a589-866aa322890b",
+    "title": "Cloud Engineer",
+    "text": "Job title: Cloud Engineer. Company: VNPT. Location: Remote. Description: Quản lý và tối ưu hạ tầng cloud cho các hệ thống viễn thông.. Required skills: AWS, Cloud Computing, Linux, Monitoring, Security. Nice to have skills: DevOps."
+  },
+  {
+    "job_id": "720b2b80-56c1-453b-9a5c-6db9316197df",
+    "title": "Business Analyst",
+    "text": "Job title: Business Analyst. Company: FPT. Location: Hồ Chí Minh. Description: Thu thập và phân tích yêu cầu nghiệp vụ cho các dự án phần mềm.. Required skills: Business Analysis, Communication, Documentation, Problem Solving, SQL. Nice to have skills: Agile/Scrum."
+  },
+  {
+    "job_id": "ec85ff2b-d3a4-4a01-a701-859382bde841",
+    "title": "QA Engineer",
+    "text": "Job title: QA Engineer. Company: VNPT. Location: Đà Nẵng. Description: Thực hiện kiểm thử phần mềm cho các hệ thống nội bộ.. Required skills: Software Testing, Excel, Problem Solving, Communication, Attention to Detail. Nice to have skills: Automation Testing."
+  },
+  {
+    "job_id": "acc58d96-4c49-4279-8743-af8914681c89",
+    "title": "Backend Developer",
+    "text": "Job title: Backend Developer. Company: Momo. Location: Remote. Description: Phát triển backend cho hệ thống thanh toán và tài chính số.. Required skills: Java, SQL, Docker, AWS, Git. Nice to have skills: Microservices."
+  },
+  {
+    "job_id": "6945b123-5d45-4d24-b52f-4b37b9b64d44",
+    "title": "Business Analyst",
+    "text": "Job title: Business Analyst. Company: VNPT. Location: Hybrid. Description: Phân tích nghiệp vụ và đề xuất giải pháp cho các dự án CNTT.. Required skills: Business Analysis, Communication, SQL, Problem Solving, Documentation. Nice to have skills: Agile."
+  },
+  {
+    "job_id": "7f43dd1f-65dc-40c4-878d-8d5ce146de82",
+    "title": "Business Analyst",
+    "text": "Job title: Business Analyst. Company: FPT. Location: Hà Nội. Description: Hỗ trợ phân tích nghiệp vụ cho các dự án phần mềm.. Required skills: Communication, Documentation, Problem Solving, SQL, Teamwork. Nice to have skills: BA Tools."
+  },
+  {
+    "job_id": "796c19be-56a0-40e2-9b40-480bd6ff8d63",
+    "title": "Business Analyst",
+    "text": "Job title: Business Analyst. Company: VNPT. Location: Hồ Chí Minh. Description: Phân tích nghiệp vụ và đề xuất giải pháp cho các hệ thống CNTT doanh nghiệp.. Required skills: Business Analysis, SQL, Communication, Problem Solving, Documentation. Nice to have skills: Agile/Scrum."
+  },
+  {
+    "job_id": "2b2ee4a9-a35f-4848-806b-9110251b89b9-2",
+    "title": "Frontend Developer",
+    "text": "Job title: Frontend Developer. Company: VNG. Location: Remote. Description: Phát triển giao diện người dùng cho các sản phẩm số quy mô lớn.. Required skills: JavaScript, React, HTML, CSS, Git. Nice to have skills: TypeScript."
+  },
+  {
+    "job_id": "dfa89a87-76ef-4718-939c-0a18a8532856",
+    "title": "UI/UX Designer",
+    "text": "Job title: UI/UX Designer. Company: VNPT. Location: Hybrid. Description: Thiết kế trải nghiệm người dùng cho các hệ thống dịch vụ số.. Required skills: UI Design, UX Research, Figma, Problem Solving, Communication. Nice to have skills: Design System."
+  },
+  {
+    "job_id": "5c061594-c16a-47a1-8d41-e2bd299cd037",
+    "title": "QA Engineer",
+    "text": "Job title: QA Engineer. Company: Shopee. Location: Remote. Description: Đảm bảo chất lượng phần mềm cho các hệ thống thương mại điện tử.. Required skills: Software Testing, Test Case Design, Excel, Problem Solving, Communication. Nice to have skills: Automation Test."
+  },
+  {
+    "job_id": "94056a2b-79fc-4a14-a23a-a4f8267b5c98",
+    "title": "Backend Developer",
+    "text": "Job title: Backend Developer. Company: VNG. Location: Hybrid. Description: Phát triển backend cho các hệ thống dịch vụ trực tuyến.. Required skills: Node.js, SQL, Docker, AWS, Git. Nice to have skills: Microservices."
+  },
+  {
+    "job_id": "cecd0641-9acc-4ecb-8ea6-f750eaee879b",
+    "title": "Cloud Engineer",
+    "text": "Job title: Cloud Engineer. Company: FPT. Location: Hà Nội. Description: Triển khai và vận hành hệ thống cloud cho các dự án doanh nghiệp.. Required skills: AWS, Cloud Computing, Linux, Docker, Git. Nice to have skills: CI/CD."
+  },
+  {
+    "job_id": "d860154a-ddcf-41bb-b81d-215a47fa4758",
+    "title": "Marketing Specialist",
+    "text": "Job title: Marketing Specialist. Company: Shopee. Location: Hồ Chí Minh. Description: Triển khai các chiến dịch marketing nhằm tăng trưởng người dùng.. Required skills: Digital Marketing, Communication, Data Analysis, Creativity, Content Creation. Nice to have skills: Performance Marketing."
+  },
+  {
+    "job_id": "627fb572-74be-4a25-8b6c-71fa701c1e42",
+    "title": "Cloud Engineer",
+    "text": "Job title: Cloud Engineer. Company: VNG. Location: Đà Nẵng. Description: Vận hành hệ thống cloud cho các nền tảng số quy mô lớn.. Required skills: AWS, Cloud Computing, Linux, Monitoring, Docker. Nice to have skills: Kubernetes."
+  },
+  {
+    "job_id": "21255427-40da-4b78-8461-06ac8b5d013a",
+    "title": "Data Analyst",
+    "text": "Job title: Data Analyst. Company: Shopee. Location: Đà Nẵng. Description: Hỗ trợ phân tích dữ liệu vận hành và kinh doanh.. Required skills: Excel, SQL, Data Analysis, Problem Solving, Communication. Nice to have skills: Power BI."
+  },
+  {
+    "job_id": "57ae83d0-dcca-4973-8c18-5dec46812f76",
+    "title": "UI/UX Designer",
+    "text": "Job title: UI/UX Designer. Company: VNG. Location: Remote. Description: Thiết kế trải nghiệm người dùng cho các sản phẩm số.. Required skills: UI Design, UX Research, Figma, Communication, Problem Solving. Nice to have skills: Design Thinking."
+  },
+  {
+    "job_id": "7c111903-cd0a-49ff-ae39-3245134c1dcc",
+    "title": "UI/UX Designer",
+    "text": "Job title: UI/UX Designer. Company: VNG. Location: Remote. Description: Thiết kế giao diện và trải nghiệm người dùng cho các sản phẩm số quy mô lớn.. Required skills: UI Design, UX Research, Figma, Communication, Problem Solving. Nice to have skills: Design System."
+  },
+  {
+    "job_id": "00b0e54b-9077-47d8-8f41-dd3dd5ee9f26",
+    "title": "Marketing Specialist",
+    "text": "Job title: Marketing Specialist. Company: VNG. Location: Remote. Description: Triển khai các chiến dịch marketing nhằm tăng trưởng người dùng và thương hiệu.. Required skills: Digital Marketing, Content Creation, Communication, Data Analysis, Creativity. Nice to have skills: SEO/SEM."
+  },
+  {
+    "job_id": "8cac9464-a62d-405a-98b6-b10fa8d88587",
+    "title": "QA Engineer",
+    "text": "Job title: QA Engineer. Company: FPT. Location: Remote. Description: Đảm bảo chất lượng phần mềm cho các dự án CNTT.. Required skills: Software Testing, Excel, Problem Solving, Communication, Attention to Detail. Nice to have skills: Automation Testing."
+  },
+  {
+    "job_id": "62869116-9e40-49e6-8019-b2367d6c2f8e",
+    "title": "UI/UX Designer",
+    "text": "Job title: UI/UX Designer. Company: Shopee. Location: Hybrid. Description: Thiết kế giao diện người dùng cho các sản phẩm thương mại điện tử.. Required skills: Figma, UI Design, UX Research, Communication, Creativity. Nice to have skills: A/B Testing."
+  },
+  {
+    "job_id": "9584c1c8-2037-4aaa-a174-62a06641fbe6",
+    "title": "Backend Developer",
+    "text": "Job title: Backend Developer. Company: VNPT. Location: Hồ Chí Minh. Description: Phát triển backend cho các hệ thống dịch vụ CNTT.. Required skills: Java, SQL, Docker, Git, Problem Solving. Nice to have skills: Microservices."
+  },
+  {
+    "job_id": "e3ee2c72-ba5b-48dd-b523-9b4533540753",
+    "title": "Marketing Specialist",
+    "text": "Job title: Marketing Specialist. Company: FPT. Location: Remote. Description: Thực hiện các chiến dịch marketing cho sản phẩm và dịch vụ CNTT.. Required skills: Content Creation, Communication, Digital Marketing, Teamwork, Creativity. Nice to have skills: Performance Marketing."
+  },
+  {
+    "job_id": "6bab15f5-64cb-4516-a2bf-9ce007d08e63",
+    "title": "Data Analyst",
+    "text": "Job title: Data Analyst. Company: VNPT. Location: Hybrid. Description: Phân tích dữ liệu vận hành và kinh doanh cho các hệ thống viễn thông.. Required skills: SQL, Python, Power BI, Data Analysis, Communication. Nice to have skills: Big Data."
+  },
+  {
+    "job_id": "db63df5b-6bcb-4cb8-9c84-d6ba6ee863c6-2",
+    "title": "Frontend Developer",
+    "text": "Job title: Frontend Developer. Company: Shopee. Location: Remote. Description: Phát triển giao diện web cho các nền tảng thương mại điện tử.. Required skills: JavaScript, React, HTML, CSS, Git. Nice to have skills: Next.js."
+  },
+  {
+    "job_id": "571af73c-7759-47f8-966f-513da8bf7917-2",
+    "title": "Backend Developer",
+    "text": "Job title: Backend Developer. Company: FPT. Location: Hà Nội. Description: Dẫn dắt phát triển backend cho các hệ thống doanh nghiệp.. Required skills: Java, Spring Boot, SQL, Docker, AWS. Nice to have skills: Microservices Architecture."
+  },
+  {
+    "job_id": "21259633-cfb8-4a20-bcfb-e522d3c69357-2",
+    "title": "Cloud Engineer",
+    "text": "Job title: Cloud Engineer. Company: Momo. Location: Hồ Chí Minh. Description: Dẫn dắt triển khai và tối ưu hệ thống cloud cho nền tảng fintech.. Required skills: AWS, Cloud Architecture, Docker, Kubernetes, Security. Nice to have skills: Fintech Experience."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0001",
+    "title": "Data Scientist",
+    "text": "Job title: Data Scientist. Company: Momo. Location: Hồ Chí Minh. Description: Phân tích dữ liệu lớn và xây dựng mô hình machine learning phục vụ sản phẩm fintech.. Required skills: Python, Machine Learning, SQL, Data Analysis, Statistics. Nice to have skills: Deep Learning."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0002",
+    "title": "DevOps Engineer",
+    "text": "Job title: DevOps Engineer. Company: FPT. Location: Hà Nội. Description: Xây dựng và vận hành hệ thống CI/CD cho các dự án doanh nghiệp.. Required skills: Docker, Kubernetes, Linux, CI/CD, AWS. Nice to have skills: Terraform."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0003",
+    "title": "Product Manager",
+    "text": "Job title: Product Manager. Company: Shopee. Location: Hồ Chí Minh. Description: Quản lý và phát triển sản phẩm thương mại điện tử.. Required skills: Product Management, Communication, Data Analysis, Problem Solving, Agile. Nice to have skills: E-commerce."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0004",
+    "title": "AI Engineer",
+    "text": "Job title: AI Engineer. Company: VNG. Location: Hà Nội. Description: Phát triển các hệ thống AI cho sản phẩm giải trí và dịch vụ số.. Required skills: Python, Machine Learning, Deep Learning, Data Analysis, Problem Solving. Nice to have skills: NLP."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0005",
+    "title": "System Administrator",
+    "text": "Job title: System Administrator. Company: VNPT. Location: Hà Nội. Description: Quản trị và vận hành hệ thống máy chủ doanh nghiệp.. Required skills: Linux, Networking, Security, Monitoring, Problem Solving. Nice to have skills: Cloud Computing."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0006",
+    "title": "Mobile App Developer",
+    "text": "Job title: Mobile App Developer. Company: Momo. Location: Hồ Chí Minh. Description: Phát triển ứng dụng mobile cho nền tảng fintech.. Required skills: Android, iOS, Flutter, Problem Solving, Git. Nice to have skills: Fintech Experience."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0007",
+    "title": "IT Support Engineer",
+    "text": "Job title: IT Support Engineer. Company: FPT. Location: Đà Nẵng. Description: Hỗ trợ kỹ thuật CNTT cho người dùng nội bộ.. Required skills: IT Support, Communication, Problem Solving, Windows, Networking. Nice to have skills: Helpdesk Experience."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0008",
+    "title": "Security Engineer",
+    "text": "Job title: Security Engineer. Company: VNPT. Location: Remote. Description: Đảm bảo an toàn thông tin cho hệ thống CNTT.. Required skills: Cyber Security, Networking, Linux, Monitoring, Problem Solving. Nice to have skills: CEH, Security+."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0009",
+    "title": "Technical Writer",
+    "text": "Job title: Technical Writer. Company: VNG. Location: Remote. Description: Viết tài liệu kỹ thuật cho sản phẩm và hệ thống.. Required skills: Technical Writing, Communication, Documentation, Problem Solving, English. Nice to have skills: API Documentation."
+  },
+  {
+    "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0010",
+    "title": "AI Product Owner",
+    "text": "Job title: AI Product Owner. Company: FPT. Location: Hà Nội. Description: Quản lý sản phẩm AI và định hướng phát triển chiến lược.. Required skills: Product Management, AI Knowledge, Communication, Data Analysis, Leadership. Nice to have skills: AI Project Experience."
+  }
+]

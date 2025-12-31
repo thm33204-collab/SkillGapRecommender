@@ -1,0 +1,502 @@
+[
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000001",
+    "name": "Lập trình Python cơ bản",
+    "text": "Course name: Lập trình Python cơ bản. Description: Nền tảng lập trình Python cho người mới.. Skills outcomes: Python, Programming Basics, Problem Solving. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000002",
+    "name": "Python nâng cao cho Backend",
+    "text": "Course name: Python nâng cao cho Backend. Description: Xây dựng hệ thống backend chuyên sâu với Python.. Skills outcomes: Python, Backend Development, API. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000003",
+    "name": "Flask REST API",
+    "text": "Course name: Flask REST API. Description: Thiết kế REST API bằng Flask.. Skills outcomes: Flask, REST API, Python. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000004",
+    "name": "Django cho Backend Developer",
+    "text": "Course name: Django cho Backend Developer. Description: Xây dựng backend với Django Framework.. Skills outcomes: Django, Python, Backend. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000005",
+    "name": "SQL cơ bản",
+    "text": "Course name: SQL cơ bản. Description: Làm quen với truy vấn SQL.. Skills outcomes: SQL, Database, Data Retrieval. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000006",
+    "name": "SQL nâng cao",
+    "text": "Course name: SQL nâng cao. Description: Tối ưu truy vấn và thiết kế CSDL.. Skills outcomes: SQL, Database Optimization. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000007",
+    "name": "Docker cơ bản",
+    "text": "Course name: Docker cơ bản. Description: Đóng gói ứng dụng bằng Docker.. Skills outcomes: Docker, Containerization. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000008",
+    "name": "Docker & CI/CD",
+    "text": "Course name: Docker & CI/CD. Description: Triển khai CI/CD với Docker.. Skills outcomes: Docker, CI/CD, DevOps. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000009",
+    "name": "Excel cho Data Analyst",
+    "text": "Course name: Excel cho Data Analyst. Description: Phân tích dữ liệu bằng Excel.. Skills outcomes: Excel, Data Analysis. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000010",
+    "name": "SQL cho Data Analyst",
+    "text": "Course name: SQL cho Data Analyst. Description: Truy vấn và phân tích dữ liệu bằng SQL.. Skills outcomes: SQL, Data Analysis. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000011",
+    "name": "Power BI cơ bản",
+    "text": "Course name: Power BI cơ bản. Description: Xây dựng dashboard với Power BI.. Skills outcomes: Power BI, Data Visualization. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000012",
+    "name": "Power BI nâng cao",
+    "text": "Course name: Power BI nâng cao. Description: Dashboard nâng cao cho doanh nghiệp.. Skills outcomes: Power BI, Business Intelligence. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000013",
+    "name": "Python cho Data Analyst",
+    "text": "Course name: Python cho Data Analyst. Description: Xử lý dữ liệu với Pandas.. Skills outcomes: Python, Pandas, Data Analysis. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000014",
+    "name": "Machine Learning cơ bản",
+    "text": "Course name: Machine Learning cơ bản. Description: Giới thiệu Machine Learning.. Skills outcomes: Machine Learning, Python. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000015",
+    "name": "Machine Learning nâng cao",
+    "text": "Course name: Machine Learning nâng cao. Description: Ứng dụng ML vào bài toán thực tế.. Skills outcomes: Machine Learning, Model Evaluation. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000016",
+    "name": "HTML & CSS",
+    "text": "Course name: HTML & CSS. Description: Nền tảng frontend.. Skills outcomes: HTML, CSS. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000017",
+    "name": "JavaScript cơ bản",
+    "text": "Course name: JavaScript cơ bản. Description: Lập trình JavaScript.. Skills outcomes: JavaScript. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000018",
+    "name": "React cơ bản",
+    "text": "Course name: React cơ bản. Description: Xây dựng UI với React.. Skills outcomes: React, JavaScript. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000019",
+    "name": "React nâng cao",
+    "text": "Course name: React nâng cao. Description: React cho ứng dụng lớn.. Skills outcomes: React, Frontend Architecture. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000020",
+    "name": "AWS cơ bản",
+    "text": "Course name: AWS cơ bản. Description: Nền tảng cloud AWS.. Skills outcomes: AWS, Cloud Computing. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000021",
+    "name": "AWS nâng cao",
+    "text": "Course name: AWS nâng cao. Description: Triển khai hệ thống cloud.. Skills outcomes: AWS, Infrastructure. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000022",
+    "name": "Business Analysis cơ bản",
+    "text": "Course name: Business Analysis cơ bản. Description: Phân tích nghiệp vụ.. Skills outcomes: Business Analysis, Communication. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000023",
+    "name": "Business Analysis nâng cao",
+    "text": "Course name: Business Analysis nâng cao. Description: Phân tích quy trình doanh nghiệp.. Skills outcomes: Business Analysis, Process Modeling. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000024",
+    "name": "Manual Testing",
+    "text": "Course name: Manual Testing. Description: Kiểm thử phần mềm thủ công.. Skills outcomes: Manual Testing, Test Case. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000025",
+    "name": "Automation Testing",
+    "text": "Course name: Automation Testing. Description: Kiểm thử tự động.. Skills outcomes: Selenium, Automation Testing. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000026",
+    "name": "Digital Marketing",
+    "text": "Course name: Digital Marketing. Description: Marketing số.. Skills outcomes: Digital Marketing, Content. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000027",
+    "name": "Node.js cơ bản",
+    "text": "Course name: Node.js cơ bản. Description: Xây dựng backend với Node.js.. Skills outcomes: Node.js, Backend Development, JavaScript. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000028",
+    "name": "Express.js & REST API",
+    "text": "Course name: Express.js & REST API. Description: Thiết kế REST API với Express.. Skills outcomes: Express, REST API, Node.js. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000029",
+    "name": "Java Spring Boot cơ bản",
+    "text": "Course name: Java Spring Boot cơ bản. Description: Xây dựng backend Java với Spring Boot.. Skills outcomes: Java, Spring Boot, Backend Development. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000030",
+    "name": "Microservices với Spring Boot",
+    "text": "Course name: Microservices với Spring Boot. Description: Thiết kế microservices backend.. Skills outcomes: Spring Boot, Microservices, Java. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000031",
+    "name": "MongoDB cơ bản",
+    "text": "Course name: MongoDB cơ bản. Description: Làm việc với NoSQL MongoDB.. Skills outcomes: MongoDB, NoSQL, Database. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000032",
+    "name": "PostgreSQL cho Backend",
+    "text": "Course name: PostgreSQL cho Backend. Description: Thiết kế và tối ưu PostgreSQL.. Skills outcomes: PostgreSQL, SQL, Database. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000033",
+    "name": "Git & GitHub",
+    "text": "Course name: Git & GitHub. Description: Quản lý mã nguồn với Git.. Skills outcomes: Git, Version Control. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000034",
+    "name": "DevOps cơ bản",
+    "text": "Course name: DevOps cơ bản. Description: Giới thiệu DevOps và pipeline.. Skills outcomes: DevOps, CI/CD, Docker. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000035",
+    "name": "Kubernetes cơ bản",
+    "text": "Course name: Kubernetes cơ bản. Description: Quản lý container với Kubernetes.. Skills outcomes: Kubernetes, Docker, Cloud Computing. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000036",
+    "name": "Terraform & Infrastructure as Code",
+    "text": "Course name: Terraform & Infrastructure as Code. Description: Quản lý hạ tầng bằng Terraform.. Skills outcomes: Terraform, Infrastructure, Cloud. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000037",
+    "name": "Data Visualization nâng cao",
+    "text": "Course name: Data Visualization nâng cao. Description: Trực quan dữ liệu chuyên sâu.. Skills outcomes: Data Visualization, Power BI, Analytics. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000038",
+    "name": "Statistics cho Data Analyst",
+    "text": "Course name: Statistics cho Data Analyst. Description: Thống kê cho phân tích dữ liệu.. Skills outcomes: Statistics, Data Analysis. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000039",
+    "name": "Deep Learning cơ bản",
+    "text": "Course name: Deep Learning cơ bản. Description: Giới thiệu Deep Learning.. Skills outcomes: Deep Learning, Neural Networks. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000040",
+    "name": "NLP với Python",
+    "text": "Course name: NLP với Python. Description: Xử lý ngôn ngữ tự nhiên.. Skills outcomes: NLP, Python, Machine Learning. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000041",
+    "name": "UI/UX Design Fundamentals",
+    "text": "Course name: UI/UX Design Fundamentals. Description: Thiết kế trải nghiệm người dùng.. Skills outcomes: UI Design, UX Research. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000042",
+    "name": "Figma cho UI/UX",
+    "text": "Course name: Figma cho UI/UX. Description: Thiết kế giao diện với Figma.. Skills outcomes: Figma, UI Design. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000043",
+    "name": "Testing API với Postman",
+    "text": "Course name: Testing API với Postman. Description: Kiểm thử API.. Skills outcomes: API Testing, Postman. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000044",
+    "name": "Automation Testing với Selenium",
+    "text": "Course name: Automation Testing với Selenium. Description: Tự động hóa kiểm thử web.. Skills outcomes: Selenium, Automation Testing. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000045",
+    "name": "Digital Marketing nâng cao",
+    "text": "Course name: Digital Marketing nâng cao. Description: Chiến lược marketing số.. Skills outcomes: Digital Marketing, Analytics. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000046",
+    "name": "SEO & Content Marketing",
+    "text": "Course name: SEO & Content Marketing. Description: Tối ưu SEO và nội dung.. Skills outcomes: SEO, Content Marketing. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000047",
+    "name": "Python nâng cao cho Backend",
+    "text": "Course name: Python nâng cao cho Backend. Description: Nâng cao Python cho xây dựng backend.. Skills outcomes: Python, Backend Development, API. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000048",
+    "name": "FastAPI & Microservices",
+    "text": "Course name: FastAPI & Microservices. Description: Xây dựng API tốc độ cao với FastAPI.. Skills outcomes: FastAPI, Python, Microservices. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000049",
+    "name": "Django REST Framework",
+    "text": "Course name: Django REST Framework. Description: Xây dựng REST API với Django.. Skills outcomes: Django, REST API, Python. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000050",
+    "name": "Clean Code cho Developer",
+    "text": "Course name: Clean Code cho Developer. Description: Viết code sạch và dễ bảo trì.. Skills outcomes: Clean Code, Software Design. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000051",
+    "name": "System Design cơ bản",
+    "text": "Course name: System Design cơ bản. Description: Thiết kế hệ thống backend.. Skills outcomes: System Design, Scalability. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000052",
+    "name": "Big Data Fundamentals",
+    "text": "Course name: Big Data Fundamentals. Description: Giới thiệu Big Data.. Skills outcomes: Big Data, Data Engineering. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000053",
+    "name": "Apache Spark cho Data",
+    "text": "Course name: Apache Spark cho Data. Description: Xử lý dữ liệu lớn với Spark.. Skills outcomes: Apache Spark, Big Data, Python. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000054",
+    "name": "ETL Pipeline cho Data Analyst",
+    "text": "Course name: ETL Pipeline cho Data Analyst. Description: Xây dựng pipeline dữ liệu.. Skills outcomes: ETL, Data Pipeline, SQL. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000055",
+    "name": "Business Intelligence Foundations",
+    "text": "Course name: Business Intelligence Foundations. Description: Nền tảng BI.. Skills outcomes: Business Intelligence, Power BI. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000056",
+    "name": "Advanced Power BI",
+    "text": "Course name: Advanced Power BI. Description: Power BI nâng cao.. Skills outcomes: Power BI, DAX, Data Modeling. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000057",
+    "name": "AWS EC2 & Networking",
+    "text": "Course name: AWS EC2 & Networking. Description: Triển khai server trên AWS.. Skills outcomes: AWS, EC2, Networking. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000058",
+    "name": "AWS Security Essentials",
+    "text": "Course name: AWS Security Essentials. Description: Bảo mật hệ thống AWS.. Skills outcomes: AWS Security, Cloud Security. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000059",
+    "name": "Linux cho DevOps",
+    "text": "Course name: Linux cho DevOps. Description: Quản trị Linux.. Skills outcomes: Linux, System Administration. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000060",
+    "name": "CI/CD với GitHub Actions",
+    "text": "Course name: CI/CD với GitHub Actions. Description: Tự động hóa CI/CD.. Skills outcomes: CI/CD, GitHub Actions. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000061",
+    "name": "Frontend Performance Optimization",
+    "text": "Course name: Frontend Performance Optimization. Description: Tối ưu hiệu năng frontend.. Skills outcomes: Frontend Performance, JavaScript. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000062",
+    "name": "Next.js cho Frontend",
+    "text": "Course name: Next.js cho Frontend. Description: Xây dựng frontend với Next.js.. Skills outcomes: Next.js, React, Frontend. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000063",
+    "name": "TypeScript cho React",
+    "text": "Course name: TypeScript cho React. Description: TypeScript trong React.. Skills outcomes: TypeScript, React. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000064",
+    "name": "Manual Testing Fundamentals",
+    "text": "Course name: Manual Testing Fundamentals. Description: Kiểm thử phần mềm thủ công.. Skills outcomes: Manual Testing, Test Case. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000065",
+    "name": "Performance Testing",
+    "text": "Course name: Performance Testing. Description: Kiểm thử hiệu năng.. Skills outcomes: Performance Testing, JMeter. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000066",
+    "name": "Agile & Scrum",
+    "text": "Course name: Agile & Scrum. Description: Phương pháp Agile Scrum.. Skills outcomes: Agile, Scrum. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000067",
+    "name": "Product Management cơ bản",
+    "text": "Course name: Product Management cơ bản. Description: Quản lý sản phẩm.. Skills outcomes: Product Management, Business. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000068",
+    "name": "Data Storytelling",
+    "text": "Course name: Data Storytelling. Description: Kể chuyện bằng dữ liệu.. Skills outcomes: Data Storytelling, Communication. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000069",
+    "name": "AI Ethics & Responsible AI",
+    "text": "Course name: AI Ethics & Responsible AI. Description: Đạo đức trong AI.. Skills outcomes: AI Ethics, Responsible AI. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000070",
+    "name": "MLOps Fundamentals",
+    "text": "Course name: MLOps Fundamentals. Description: Triển khai ML vào production.. Skills outcomes: MLOps, Machine Learning. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000071",
+    "name": "Advanced Backend Architecture",
+    "text": "Course name: Advanced Backend Architecture. Description: Thiết kế kiến trúc backend quy mô lớn.. Skills outcomes: Backend Architecture, System Design. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000072",
+    "name": "API Security & Authentication",
+    "text": "Course name: API Security & Authentication. Description: Bảo mật API và xác thực người dùng.. Skills outcomes: API Security, Authentication, JWT. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000073",
+    "name": "GraphQL cho Backend",
+    "text": "Course name: GraphQL cho Backend. Description: Xây dựng API GraphQL.. Skills outcomes: GraphQL, API Development. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000074",
+    "name": "NoSQL Databases",
+    "text": "Course name: NoSQL Databases. Description: Làm việc với MongoDB và NoSQL.. Skills outcomes: MongoDB, NoSQL, Database. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000075",
+    "name": "Data Warehousing Fundamentals",
+    "text": "Course name: Data Warehousing Fundamentals. Description: Nền tảng kho dữ liệu.. Skills outcomes: Data Warehouse, SQL, ETL. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000076",
+    "name": "Advanced SQL Optimization",
+    "text": "Course name: Advanced SQL Optimization. Description: Tối ưu truy vấn SQL.. Skills outcomes: SQL Optimization, Database Performance. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000077",
+    "name": "Python for Automation",
+    "text": "Course name: Python for Automation. Description: Tự động hóa công việc với Python.. Skills outcomes: Python, Automation, Scripting. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000078",
+    "name": "Statistics for Data Science",
+    "text": "Course name: Statistics for Data Science. Description: Thống kê cho khoa học dữ liệu.. Skills outcomes: Statistics, Data Science. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000079",
+    "name": "Deep Learning Fundamentals",
+    "text": "Course name: Deep Learning Fundamentals. Description: Nền tảng Deep Learning.. Skills outcomes: Deep Learning, Neural Networks. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000080",
+    "name": "TensorFlow cho AI",
+    "text": "Course name: TensorFlow cho AI. Description: Xây dựng mô hình với TensorFlow.. Skills outcomes: TensorFlow, Deep Learning. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000081",
+    "name": "Frontend Accessibility",
+    "text": "Course name: Frontend Accessibility. Description: Xây dựng web dễ tiếp cận.. Skills outcomes: Accessibility, Frontend. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000082",
+    "name": "UX Research cơ bản",
+    "text": "Course name: UX Research cơ bản. Description: Nghiên cứu trải nghiệm người dùng.. Skills outcomes: UX Research, User Experience. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000083",
+    "name": "Design System cho Product",
+    "text": "Course name: Design System cho Product. Description: Xây dựng Design System.. Skills outcomes: Design System, UI/UX. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000084",
+    "name": "Marketing Analytics",
+    "text": "Course name: Marketing Analytics. Description: Phân tích dữ liệu marketing.. Skills outcomes: Marketing Analytics, Data Analysis. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000085",
+    "name": "SEO Fundamentals",
+    "text": "Course name: SEO Fundamentals. Description: Tối ưu công cụ tìm kiếm.. Skills outcomes: SEO, Digital Marketing. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000086",
+    "name": "Content Marketing Strategy",
+    "text": "Course name: Content Marketing Strategy. Description: Chiến lược content marketing.. Skills outcomes: Content Marketing, Strategy. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000087",
+    "name": "Test Automation với Selenium",
+    "text": "Course name: Test Automation với Selenium. Description: Tự động hóa kiểm thử.. Skills outcomes: Selenium, Automation Testing. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000088",
+    "name": "API Testing với Postman",
+    "text": "Course name: API Testing với Postman. Description: Kiểm thử API.. Skills outcomes: API Testing, Postman. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000089",
+    "name": "Business Process Modeling",
+    "text": "Course name: Business Process Modeling. Description: Mô hình hóa quy trình nghiệp vụ.. Skills outcomes: Business Process, BPMN. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000090",
+    "name": "Requirement Engineering",
+    "text": "Course name: Requirement Engineering. Description: Kỹ thuật thu thập yêu cầu.. Skills outcomes: Requirement Analysis, Business Analysis. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000091",
+    "name": "Cloud Cost Optimization",
+    "text": "Course name: Cloud Cost Optimization. Description: Tối ưu chi phí cloud.. Skills outcomes: Cloud Cost, AWS. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000092",
+    "name": "Kubernetes Fundamentals",
+    "text": "Course name: Kubernetes Fundamentals. Description: Quản lý container với Kubernetes.. Skills outcomes: Kubernetes, Container Orchestration. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000093",
+    "name": "Advanced DevOps Practices",
+    "text": "Course name: Advanced DevOps Practices. Description: DevOps nâng cao.. Skills outcomes: DevOps, CI/CD, Automation. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000094",
+    "name": "Monitoring & Logging Systems",
+    "text": "Course name: Monitoring & Logging Systems. Description: Giám sát hệ thống.. Skills outcomes: Monitoring, Logging. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000095",
+    "name": "IT Project Management",
+    "text": "Course name: IT Project Management. Description: Quản lý dự án CNTT.. Skills outcomes: Project Management, IT. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000096",
+    "name": "Risk Management in IT",
+    "text": "Course name: Risk Management in IT. Description: Quản lý rủi ro CNTT.. Skills outcomes: Risk Management, IT Governance. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000097",
+    "name": "Soft Skills cho IT",
+    "text": "Course name: Soft Skills cho IT. Description: Kỹ năng mềm cho dân IT.. Skills outcomes: Communication, Teamwork. Provider: Funix."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000098",
+    "name": "Presentation Skills",
+    "text": "Course name: Presentation Skills. Description: Kỹ năng thuyết trình.. Skills outcomes: Presentation, Communication. Provider: Coursera."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000099",
+    "name": "Critical Thinking for Analyst",
+    "text": "Course name: Critical Thinking for Analyst. Description: Tư duy phản biện cho analyst.. Skills outcomes: Critical Thinking, Analysis. Provider: Udemy."
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000100",
+    "name": "Career Development in Tech",
+    "text": "Course name: Career Development in Tech. Description: Định hướng phát triển sự nghiệp CNTT.. Skills outcomes: Career Planning, Professional Development. Provider: Coursera."
+  }
+]

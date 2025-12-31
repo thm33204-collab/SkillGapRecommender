@@ -1,0 +1,239 @@
+[
+  {
+    "cv_id": "cv_user_abc",
+    "user_id": 1,
+    "filename": "NguyenVanA.pdf",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "uploaded_at": "2025-01-01T10:00:00",
+    "extraction_method": "deepseek"
+  },
+  {
+    "cv_id": "2b0b34d9-847a-4d78-99e8-1911c8445743",
+    "user_id": 3,
+    "filename": "Nguyễn-Thế-Phát-FlowCV-Resume-20251222.pdf",
+    "stored_as": "3_20251226_100651_2b0b34d9-847a-4d78-99e8-1911c8445743.pdf",
+    "upload_time": "2025-12-26T10:06:56.360712",
+    "skills": [
+      "analytical",
+      "business intelligence",
+      "communication",
+      "data analysis",
+      "data visualization",
+      "excel",
+      "numpy",
+      "pandas",
+      "power bi",
+      "problem solving",
+      "python",
+      "sql"
+    ],
+    "text_preview": "Nguyễn Thế Phát\nData Analyst\nnguyenthephat.da@gmail.com\n \n0987 654 321\n \nProfile\nSinh viên ngành Công nghệ Thông tin định hướng Data Analyst, mong muốn ứng dụng kỹ năng phân tích dữ \nliệu, SQL, Python và trực quan hóa dữ liệu để hỗ trợ doanh nghiệp ra quyết định dựa trên dữ liệu. Mong \nmuốn phát triển chuyên sâu trong lĩnh vực Data Analytics & Business Intelligence.\nProfessional Experience\nĐại học Công nghệ Thông tin, Cử nhân Công nghệ Thông tin 2021 – 2025\nProjects\n📊 Data Analysis Project – Sal",
+    "extraction_stats": {
+      "total_skills": 12,
+      "from_keyword_matching": 12,
+      "from_section_parsing": 3,
+      "from_regex_patterns": 1,
+      "text_length": 1257
+    },
+    "extraction_method": "local-nlp-rule-based"
+  },
+  {
+    "cv_id": "a7c3e30c-98f0-423c-a971-f44f72fb3a88",
+    "user_id": 3,
+    "filename": "Nguyễn-Thế-Phát-FlowCV-Resume-20251222.pdf",
+    "upload_date": "2025-12-29T10:33:21.313541",
+    "text": "Nguyễn Thế Phát\nData Analyst\nnguyenthephat.da@gmail.com\n \n0987 654 321\n \nProfile\nSinh viên ngành Công nghệ Thông tin định hướng Data Analyst, mong muốn ứng dụng kỹ năng phân tích dữ \nliệu, SQL, Python và trực quan hóa dữ liệu để hỗ trợ doanh nghiệp ra quyết định dựa trên dữ liệu. Mong \nmuốn phát triển chuyên sâu trong lĩnh vực Data Analytics & Business Intelligence.\nProfessional Experience\nĐại học Công nghệ Thông tin, Cử nhân Công nghệ Thông tin 2021 – 2025\nProjects\n📊 Data Analysis Project – Sales Dataset\n•Phân tích dữ liệu bán hàng bằng Python (Pandas, NumPy)\n•Truy vấn dữ liệu bằng SQL\n•Trực quan hóa dữ liệu bằng Power BI\n•Xây dựng dashboard thể hiện doanh thu, xu hướng bán hàng\n📈 Customer Behavior Analysis\n•Làm sạch dữ liệu với Python\n•Phân tích hành vi người dùng\n•Đề xuất chiến lược cải thiện trải nghiệm khách hàng dựa trên dữ liệu\nSkills\nData Analysis Skills:\n•SQL\n•Python\n•Data Analysis\n•Data Cleaning\n•Exploratory Data Analysis\nData Visualization:\n•Power BI\n•Excel\n•Data Visualizati",
+    "skills": [
+      "analytical",
+      "business intelligence",
+      "communication",
+      "data analysis",
+      "data cleaning",
+      "data visualization",
+      "excel",
+      "exploratory data analysis",
+      "numpy",
+      "pandas",
+      "power bi",
+      "problem solving",
+      "python",
+      "sql"
+    ],
+    "stats": {
+      "total_skills": 14,
+      "from_llm": 8,
+      "from_rules": 12,
+      "from_keyword": 12,
+      "from_section": 3,
+      "from_regex": 1,
+      "text_length": 1258,
+      "llm_success": true,
+      "extraction_method": "hybrid-llm-rules"
+    },
+    "skills_by_source": {
+      "llm": [
+        "data analysis",
+        "data cleaning",
+        "exploratory data analysis",
+        "numpy",
+        "pandas",
+        "power bi",
+        "python",
+        "sql"
+      ],
+      "rules": [
+        "analytical",
+        "business intelligence",
+        "communication",
+        "data analysis",
+        "data visualization",
+        "excel",
+        "numpy",
+        "pandas",
+        "power bi",
+        "problem solving",
+        "python",
+        "sql"
+      ],
+      "keyword": [
+        "analytical",
+        "business intelligence",
+        "communication",
+        "data analysis",
+        "data visualization",
+        "excel",
+        "numpy",
+        "pandas",
+        "power bi",
+        "problem solving",
+        "python",
+        "sql"
+      ],
+      "section": [
+        "data analysis",
+        "python",
+        "sql"
+      ],
+      "regex": [
+        "python"
+      ]
+    }
+  },
+  {
+    "cv_id": "9f605186-45cb-4a94-9804-d46ce771efc9",
+    "user_id": 3,
+    "filename": "Triệu-Huy-Mạnh-FlowCV-Resume-20251230.pdf",
+    "upload_date": "2025-12-30T10:07:16.133213",
+    "text": "Triệu Huy Mạnh\nBackend / Frontend Developer\ntrieuhuymanhok@gmail.com\n \n0987 654 321\n \n•\nĐịa chỉ liên lạc: TP. Thái Nguyên, tỉnh Thái Nguyên\n \nProfile\nSinh viên ngành Công nghệ Thông tin định hướng Web Developer (Backend / Frontend), có kiến thức nền \ntảng về lập trình web, cơ sở dữ liệu và xây dựng ứng dụng. Mong muốn phát triển sự nghiệp trong lĩnh vực \nphát triển phần mềm, tham gia xây dựng các sản phẩm thực tế, có khả năng mở rộng và dễ bảo trì.\nProfessional Experience\nĐại học Công nghệ Thông tin, Cử nhân Công nghệ Thông tin 2021 – 2025\nProjects\nWeb Application – Management System\n🌐 Web Application – Management System\n•Xây dựng ứng dụng web theo mô hình Client – Server\n•Backend: Thiết kế RESTful API, xử lý nghiệp vụ, kết nối cơ sở dữ liệu\n•Frontend: Xây dựng giao diện người dùng, xử lý logic phía client\n•Thực hiện các chức năng: CRUD, phân quyền người dùng, xác thực đăng nhập\n🧩 Personal Web Project\n•Phát triển website cá nhân / website demo bằng HTML, CSS, JavaScript\n•Áp dụng respon",
+    "skills": [
+      "api",
+      "authentication",
+      "authentication  authorization",
+      "communication",
+      "crud operations",
+      "css",
+      "data analysis",
+      "database",
+      "database design",
+      "git",
+      "github",
+      "html",
+      "java",
+      "javascript",
+      "mysql",
+      "problem solving",
+      "python",
+      "responsive web design",
+      "restful",
+      "restful api",
+      "sql",
+      "sql server",
+      "teamwork",
+      "ui",
+      "ux",
+      "web design"
+    ],
+    "stats": {
+      "total_skills": 26,
+      "from_llm": 10,
+      "from_rules": 22,
+      "from_keyword": 21,
+      "from_section": 0,
+      "from_regex": 4,
+      "text_length": 1585,
+      "llm_success": true,
+      "extraction_method": "hybrid-llm-rules"
+    },
+    "skills_by_source": {
+      "llm": [
+        "authentication & authorization",
+        "crud operations",
+        "css",
+        "database design",
+        "git",
+        "github",
+        "html",
+        "javascript",
+        "responsive web design",
+        "restful api"
+      ],
+      "rules": [
+        "api",
+        "authentication",
+        "communication",
+        "css",
+        "data analysis",
+        "database",
+        "git",
+        "github",
+        "html",
+        "java",
+        "javascript",
+        "mysql",
+        "problem solving",
+        "python",
+        "r",
+        "restful",
+        "sql",
+        "sql server",
+        "teamwork",
+        "ui",
+        "ux",
+        "web design"
+      ],
+      "keyword": [
+        "api",
+        "authentication",
+        "communication",
+        "css",
+        "data analysis",
+        "database",
+        "git",
+        "github",
+        "html",
+        "java",
+        "javascript",
+        "mysql",
+        "problem solving",
+        "python",
+        "restful",
+        "sql",
+        "sql server",
+        "teamwork",
+        "ui",
+        "ux",
+        "web design"
+      ],
+      "section": [],
+      "regex": [
+        "java",
+        "javascript",
+        "python",
+        "r"
+      ]
+    }
+  }
+]

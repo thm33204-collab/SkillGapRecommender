@@ -1,0 +1,1234 @@
+[
+  {
+    "cv_id": "cv-01",
+    "student_name": "Nguyễn Kế Lương",
+    "target_job": "Backend Developer",
+    "summary": "Backend Developer định hướng xây dựng API và hệ thống backend.",
+    "education": "Cử nhân CNTT – Đại học Kinh tế Quốc dân",
+    "experiences": "Xây dựng REST API bằng Python Flask, làm việc với MySQL và Docker.",
+    "skills": [
+      "Python",
+      "Flask",
+      "SQL",
+      "Docker",
+      "Git"
+    ]
+  },
+  {
+    "cv_id": "cv-02",
+    "student_name": "Trần Minh Đức",
+    "target_job": "Backend Developer",
+    "summary": "Junior Backend Developer yêu thích xử lý dữ liệu và logic hệ thống.",
+    "education": "Cử nhân CNTT – Đại học Kinh tế Quốc dân",
+    "experiences": "Phát triển backend API, xác thực người dùng, kết nối CSDL.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Git",
+      "Docker"
+    ]
+  },
+  {
+    "cv_id": "cv-03",
+    "student_name": "Lê Hoàng Long",
+    "target_job": "Backend Developer",
+    "summary": "Backend Developer fresher tập trung xây dựng hệ thống web.",
+    "education": "Cử nhân CNTT – Đại học Kinh tế Quốc dân",
+    "experiences": "Thiết kế API, xử lý business logic và logging.",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Git",
+      "Docker"
+    ]
+  },
+  {
+    "cv_id": "cv-04",
+    "student_name": "Phạm Quốc Bảo",
+    "target_job": "Backend Developer",
+    "summary": "Backend Developer với nền tảng OOP và database.",
+    "education": "Cử nhân CNTT – Đại học Kinh tế Quốc dân",
+    "experiences": "Xây dựng backend service cho dự án học tập.",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Git",
+      "REST API"
+    ]
+  },
+  {
+    "cv_id": "cv-05",
+    "student_name": "Vũ Anh Tuấn",
+    "target_job": "Backend Developer",
+    "summary": "Backend Developer định hướng microservices.",
+    "education": "Cử nhân CNTT – Đại học Kinh tế Quốc dân",
+    "experiences": "Triển khai API và tích hợp Docker.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Docker",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "cv_id": "cv-06",
+    "student_name": "Nguyễn Thị Thu Hà",
+    "target_job": "Frontend Developer",
+    "summary": "Frontend Developer tập trung phát triển giao diện React.",
+    "education": "Cử nhân CNTT – Đại học Kinh tế Quốc dân",
+    "experiences": "Xây dựng UI web responsive bằng React.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Git"
+    ]
+  },
+  {
+    "cv_id": "cv-07",
+    "student_name": "Trần Ngọc Anh",
+    "target_job": "Frontend Developer",
+    "summary": "Frontend Developer yêu thích UX/UI.",
+    "education": "Cử nhân CNTT – Đại học Kinh tế Quốc dân",
+    "experiences": "Thiết kế và phát triển giao diện web.",
+    "skills": [
+      "React",
+      "CSS",
+      "HTML",
+      "Figma",
+      "JavaScript"
+    ]
+  },
+  {
+    "cv_id": "cv-08",
+    "student_name": "Lê Minh Hiếu",
+    "target_job": "Frontend Developer",
+    "summary": "Frontend Developer fresher.",
+    "education": "Cử nhân CNTT – Đại học Kinh tế Quốc dân",
+    "experiences": "Phát triển UI và tối ưu hiệu suất frontend.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "cv_id": "cv-09",
+    "student_name": "Triệu Huy Mạnh",
+    "target_job": "Data Analyst",
+    "summary": "Data Analyst fresher tập trung phân tích dữ liệu.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Phân tích dữ liệu và xây dựng dashboard.",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python",
+      "Data Analysis"
+    ]
+  },
+  {
+    "cv_id": "cv-10",
+    "student_name": "Nguyễn Thị Mai Anh",
+    "target_job": "Data Analyst",
+    "summary": "Junior Data Analyst.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Xử lý dữ liệu và trực quan hóa báo cáo.",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python",
+      "Statistics"
+    ]
+  },
+  {
+    "cv_id": "cv-11",
+    "student_name": "Trần Đức Thành",
+    "target_job": "Data Analyst",
+    "summary": "Data Analyst hướng BI.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Xây dựng dashboard cho dữ liệu kinh doanh.",
+    "skills": [
+      "Power BI",
+      "SQL",
+      "Excel",
+      "Data Analysis",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-12",
+    "student_name": "Nguyễn Thị Phương Linh",
+    "target_job": "Business Analyst",
+    "summary": "Business Analyst intern.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Thu thập yêu cầu và phân tích nghiệp vụ.",
+    "skills": [
+      "Business Analysis",
+      "SQL",
+      "Excel",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-13",
+    "student_name": "Trần Minh Trang",
+    "target_job": "Business Analyst",
+    "summary": "Junior Business Analyst.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Làm việc với stakeholder và tài liệu hóa yêu cầu.",
+    "skills": [
+      "Business Analysis",
+      "Excel",
+      "Communication",
+      "Documentation",
+      "SQL"
+    ]
+  },
+  {
+    "cv_id": "cv-14",
+    "student_name": "Nguyễn Văn Phúc",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer fresher.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Triển khai hệ thống trên AWS.",
+    "skills": [
+      "AWS",
+      "Cloud Computing",
+      "Docker",
+      "Linux",
+      "Git"
+    ]
+  },
+  {
+    "cv_id": "cv-15",
+    "student_name": "Trần Quốc Khánh",
+    "target_job": "Cloud Engineer",
+    "summary": "Junior Cloud Engineer.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Quản lý hạ tầng cloud và container.",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Linux",
+      "CI/CD",
+      "Monitoring"
+    ]
+  },
+  {
+    "cv_id": "cv-16",
+    "student_name": "Nguyễn Thị Lan Anh",
+    "target_job": "QA Engineer",
+    "summary": "QA Engineer fresher.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Viết test case và test chức năng.",
+    "skills": [
+      "Manual Testing",
+      "Test Case",
+      "Bug Tracking",
+      "Communication",
+      "SQL"
+    ]
+  },
+  {
+    "cv_id": "cv-17",
+    "student_name": "Trần Văn Toàn",
+    "target_job": "QA Engineer",
+    "summary": "Junior QA Engineer.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Test web application.",
+    "skills": [
+      "Manual Testing",
+      "API Testing",
+      "Postman",
+      "Communication",
+      "SQL"
+    ]
+  },
+  {
+    "cv_id": "cv-18",
+    "student_name": "Nguyễn Thu Trang",
+    "target_job": "UI/UX Designer",
+    "summary": "UI/UX Designer tập trung trải nghiệm người dùng.",
+    "education": "Cử nhân Thiết kế – ĐH Mỹ thuật Công nghiệp",
+    "experiences": "Thiết kế wireframe và prototype.",
+    "skills": [
+      "Figma",
+      "UX Research",
+      "Wireframe",
+      "UI Design",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-19",
+    "student_name": "Trần Khánh Linh",
+    "target_job": "UI/UX Designer",
+    "summary": "Junior UI/UX Designer.",
+    "education": "Cử nhân Thiết kế – ĐH Mỹ thuật Công nghiệp",
+    "experiences": "Thiết kế giao diện web và mobile.",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Research",
+      "Prototype",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-20",
+    "student_name": "Nguyễn Hoàng Yến",
+    "target_job": "Marketing Specialist",
+    "summary": "Marketing Specialist tập trung Digital Marketing.",
+    "education": "Cử nhân Marketing – ĐH Kinh tế Quốc dân",
+    "experiences": "Triển khai chiến dịch marketing online.",
+    "skills": [
+      "Digital Marketing",
+      "Content",
+      "Data Analysis",
+      "Communication",
+      "Creativity"
+    ]
+  },
+  {
+    "cv_id": "cv-21",
+    "student_name": "Lê Thu Hương",
+    "target_job": "Data Analyst",
+    "summary": "Data Analyst fresher với nền tảng thống kê và phân tích dữ liệu.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Làm sạch dữ liệu, phân tích và trực quan hóa báo cáo.",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python",
+      "Statistics"
+    ]
+  },
+  {
+    "cv_id": "cv-22",
+    "student_name": "Phạm Minh Quân",
+    "target_job": "Data Analyst",
+    "summary": "Junior Data Analyst tập trung BI và báo cáo.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Xây dựng dashboard Power BI cho dữ liệu kinh doanh.",
+    "skills": [
+      "Power BI",
+      "SQL",
+      "Excel",
+      "Data Analysis",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-23",
+    "student_name": "Vũ Hoàng Nam",
+    "target_job": "Data Analyst",
+    "summary": "Data Analyst hướng phân tích dữ liệu doanh nghiệp.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Phân tích dữ liệu bán hàng và khách hàng.",
+    "skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Data Analysis",
+      "Visualization"
+    ]
+  },
+  {
+    "cv_id": "cv-24",
+    "student_name": "Nguyễn Quang Vinh",
+    "target_job": "Data Analyst",
+    "summary": "Data Analyst với khả năng xử lý và trực quan dữ liệu.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Xây dựng báo cáo và dashboard.",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python",
+      "Critical Thinking"
+    ]
+  },
+  {
+    "cv_id": "cv-25",
+    "student_name": "Lê Quốc Huy",
+    "target_job": "Business Analyst",
+    "summary": "Business Analyst fresher với tư duy nghiệp vụ.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Phân tích yêu cầu và hỗ trợ viết tài liệu nghiệp vụ.",
+    "skills": [
+      "Business Analysis",
+      "Excel",
+      "SQL",
+      "Communication",
+      "Documentation"
+    ]
+  },
+  {
+    "cv_id": "cv-26",
+    "student_name": "Phạm Thị Ngọc Mai",
+    "target_job": "Business Analyst",
+    "summary": "Junior Business Analyst tập trung phân tích quy trình.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Thu thập yêu cầu và phân tích workflow.",
+    "skills": [
+      "Business Analysis",
+      "Excel",
+      "Communication",
+      "SQL",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-27",
+    "student_name": "Vũ Thanh Tâm",
+    "target_job": "Business Analyst",
+    "summary": "Business Analyst với định hướng dữ liệu.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Phân tích dữ liệu hỗ trợ quyết định kinh doanh.",
+    "skills": [
+      "Business Analysis",
+      "SQL",
+      "Excel",
+      "Data Analysis",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-28",
+    "student_name": "Nguyễn Văn Phúc",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer fresher yêu thích hạ tầng cloud.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Triển khai ứng dụng trên AWS EC2 và Docker.",
+    "skills": [
+      "AWS",
+      "Cloud Computing",
+      "Docker",
+      "Linux",
+      "Git"
+    ]
+  },
+  {
+    "cv_id": "cv-29",
+    "student_name": "Lê Anh Dũng",
+    "target_job": "Cloud Engineer",
+    "summary": "Junior Cloud Engineer với nền tảng hệ thống.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Quản lý hạ tầng cloud và monitoring.",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Linux",
+      "Monitoring",
+      "CI/CD"
+    ]
+  },
+  {
+    "cv_id": "cv-30",
+    "student_name": "Phạm Hồng Quân",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer định hướng DevOps.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Thiết lập pipeline CI/CD và container.",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Linux",
+      "CI/CD",
+      "Terraform"
+    ]
+  },
+  {
+    "cv_id": "cv-31",
+    "student_name": "Nguyễn Thị Lan Anh",
+    "target_job": "QA Engineer",
+    "summary": "QA Engineer fresher tập trung manual testing.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Viết test case và thực hiện test chức năng.",
+    "skills": [
+      "Manual Testing",
+      "Test Case",
+      "Bug Tracking",
+      "Communication",
+      "SQL"
+    ]
+  },
+  {
+    "cv_id": "cv-32",
+    "student_name": "Lê Thị Thanh Nga",
+    "target_job": "QA Engineer",
+    "summary": "Junior QA Engineer với tư duy chi tiết.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Test web application và báo cáo lỗi.",
+    "skills": [
+      "Manual Testing",
+      "API Testing",
+      "Postman",
+      "SQL",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-33",
+    "student_name": "Phạm Minh Tân",
+    "target_job": "QA Engineer",
+    "summary": "QA Engineer định hướng automation testing.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Test chức năng và học automation test.",
+    "skills": [
+      "Manual Testing",
+      "Selenium",
+      "Test Case",
+      "Java",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-34",
+    "student_name": "Nguyễn Thu Trang",
+    "target_job": "UI/UX Designer",
+    "summary": "UI/UX Designer tập trung trải nghiệm người dùng.",
+    "education": "Cử nhân Thiết kế – ĐH Mỹ thuật Công nghiệp",
+    "experiences": "Thiết kế wireframe, prototype cho web app.",
+    "skills": [
+      "Figma",
+      "UX Research",
+      "Wireframe",
+      "UI Design",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-35",
+    "student_name": "Lê Phương Anh",
+    "target_job": "UI/UX Designer",
+    "summary": "Junior UI/UX Designer với tư duy sáng tạo.",
+    "education": "Cử nhân Thiết kế – ĐH Mỹ thuật Công nghiệp",
+    "experiences": "Thiết kế giao diện web và mobile.",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototype",
+      "UX Research",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-36",
+    "student_name": "Nguyễn Hoàng Yến",
+    "target_job": "Marketing Specialist",
+    "summary": "Marketing Specialist tập trung Digital Marketing.",
+    "education": "Cử nhân Marketing – ĐH Kinh tế Quốc dân",
+    "experiences": "Triển khai chiến dịch marketing online.",
+    "skills": [
+      "Digital Marketing",
+      "Content",
+      "Data Analysis",
+      "Communication",
+      "Creativity"
+    ]
+  },
+  {
+    "cv_id": "cv-37",
+    "student_name": "Trần Thị Bích Ngọc",
+    "target_job": "Marketing Specialist",
+    "summary": "Junior Marketing Specialist.",
+    "education": "Cử nhân Marketing – ĐH Kinh tế Quốc dân",
+    "experiences": "Quản lý nội dung và chiến dịch truyền thông.",
+    "skills": [
+      "Content Marketing",
+      "Social Media",
+      "Communication",
+      "Creativity",
+      "Analytics"
+    ]
+  },
+  {
+    "cv_id": "cv-38",
+    "student_name": "Vũ Thành Đạt",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer tập trung hạ tầng và bảo mật.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Triển khai và giám sát hệ thống cloud.",
+    "skills": [
+      "AWS",
+      "Cloud Security",
+      "Docker",
+      "Linux",
+      "Monitoring"
+    ]
+  },
+  {
+    "cv_id": "cv-39",
+    "student_name": "Đặng Quốc Việt",
+    "target_job": "QA Engineer",
+    "summary": "QA Engineer với định hướng chất lượng phần mềm.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Test chức năng và regression testing.",
+    "skills": [
+      "Manual Testing",
+      "Regression Testing",
+      "Bug Tracking",
+      "SQL",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-40",
+    "student_name": "Bùi Đức Cường",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer fresher.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Quản lý server và container.",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Linux",
+      "Git",
+      "Monitoring"
+    ]
+  },
+  {
+    "cv_id": "cv-21",
+    "student_name": "Lê Thu Hương",
+    "target_job": "Data Analyst",
+    "summary": "Data Analyst fresher với nền tảng thống kê và phân tích dữ liệu.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Làm sạch dữ liệu, phân tích và trực quan hóa báo cáo.",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python",
+      "Statistics"
+    ]
+  },
+  {
+    "cv_id": "cv-22",
+    "student_name": "Phạm Minh Quân",
+    "target_job": "Data Analyst",
+    "summary": "Junior Data Analyst tập trung BI và báo cáo.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Xây dựng dashboard Power BI cho dữ liệu kinh doanh.",
+    "skills": [
+      "Power BI",
+      "SQL",
+      "Excel",
+      "Data Analysis",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-23",
+    "student_name": "Vũ Hoàng Nam",
+    "target_job": "Data Analyst",
+    "summary": "Data Analyst hướng phân tích dữ liệu doanh nghiệp.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Phân tích dữ liệu bán hàng và khách hàng.",
+    "skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Data Analysis",
+      "Visualization"
+    ]
+  },
+  {
+    "cv_id": "cv-24",
+    "student_name": "Nguyễn Quang Vinh",
+    "target_job": "Data Analyst",
+    "summary": "Data Analyst với khả năng xử lý và trực quan dữ liệu.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Xây dựng báo cáo và dashboard.",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python",
+      "Critical Thinking"
+    ]
+  },
+  {
+    "cv_id": "cv-25",
+    "student_name": "Lê Quốc Huy",
+    "target_job": "Business Analyst",
+    "summary": "Business Analyst fresher với tư duy nghiệp vụ.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Phân tích yêu cầu và hỗ trợ viết tài liệu nghiệp vụ.",
+    "skills": [
+      "Business Analysis",
+      "Excel",
+      "SQL",
+      "Communication",
+      "Documentation"
+    ]
+  },
+  {
+    "cv_id": "cv-26",
+    "student_name": "Phạm Thị Ngọc Mai",
+    "target_job": "Business Analyst",
+    "summary": "Junior Business Analyst tập trung phân tích quy trình.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Thu thập yêu cầu và phân tích workflow.",
+    "skills": [
+      "Business Analysis",
+      "Excel",
+      "Communication",
+      "SQL",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-27",
+    "student_name": "Vũ Thanh Tâm",
+    "target_job": "Business Analyst",
+    "summary": "Business Analyst với định hướng dữ liệu.",
+    "education": "Cử nhân Hệ thống Thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Phân tích dữ liệu hỗ trợ quyết định kinh doanh.",
+    "skills": [
+      "Business Analysis",
+      "SQL",
+      "Excel",
+      "Data Analysis",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-28",
+    "student_name": "Nguyễn Văn Phúc",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer fresher yêu thích hạ tầng cloud.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Triển khai ứng dụng trên AWS EC2 và Docker.",
+    "skills": [
+      "AWS",
+      "Cloud Computing",
+      "Docker",
+      "Linux",
+      "Git"
+    ]
+  },
+  {
+    "cv_id": "cv-29",
+    "student_name": "Lê Anh Dũng",
+    "target_job": "Cloud Engineer",
+    "summary": "Junior Cloud Engineer với nền tảng hệ thống.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Quản lý hạ tầng cloud và monitoring.",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Linux",
+      "Monitoring",
+      "CI/CD"
+    ]
+  },
+  {
+    "cv_id": "cv-30",
+    "student_name": "Phạm Hồng Quân",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer định hướng DevOps.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Thiết lập pipeline CI/CD và container.",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Linux",
+      "CI/CD",
+      "Terraform"
+    ]
+  },
+  {
+    "cv_id": "cv-31",
+    "student_name": "Nguyễn Thị Lan Anh",
+    "target_job": "QA Engineer",
+    "summary": "QA Engineer fresher tập trung manual testing.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Viết test case và thực hiện test chức năng.",
+    "skills": [
+      "Manual Testing",
+      "Test Case",
+      "Bug Tracking",
+      "Communication",
+      "SQL"
+    ]
+  },
+  {
+    "cv_id": "cv-32",
+    "student_name": "Lê Thị Thanh Nga",
+    "target_job": "QA Engineer",
+    "summary": "Junior QA Engineer với tư duy chi tiết.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Test web application và báo cáo lỗi.",
+    "skills": [
+      "Manual Testing",
+      "API Testing",
+      "Postman",
+      "SQL",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-33",
+    "student_name": "Phạm Minh Tân",
+    "target_job": "QA Engineer",
+    "summary": "QA Engineer định hướng automation testing.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Test chức năng và học automation test.",
+    "skills": [
+      "Manual Testing",
+      "Selenium",
+      "Test Case",
+      "Java",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-34",
+    "student_name": "Nguyễn Thu Trang",
+    "target_job": "UI/UX Designer",
+    "summary": "UI/UX Designer tập trung trải nghiệm người dùng.",
+    "education": "Cử nhân Thiết kế – ĐH Mỹ thuật Công nghiệp",
+    "experiences": "Thiết kế wireframe, prototype cho web app.",
+    "skills": [
+      "Figma",
+      "UX Research",
+      "Wireframe",
+      "UI Design",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-35",
+    "student_name": "Lê Phương Anh",
+    "target_job": "UI/UX Designer",
+    "summary": "Junior UI/UX Designer với tư duy sáng tạo.",
+    "education": "Cử nhân Thiết kế – ĐH Mỹ thuật Công nghiệp",
+    "experiences": "Thiết kế giao diện web và mobile.",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototype",
+      "UX Research",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-36",
+    "student_name": "Nguyễn Hoàng Yến",
+    "target_job": "Marketing Specialist",
+    "summary": "Marketing Specialist tập trung Digital Marketing.",
+    "education": "Cử nhân Marketing – ĐH Kinh tế Quốc dân",
+    "experiences": "Triển khai chiến dịch marketing online.",
+    "skills": [
+      "Digital Marketing",
+      "Content",
+      "Data Analysis",
+      "Communication",
+      "Creativity"
+    ]
+  },
+  {
+    "cv_id": "cv-37",
+    "student_name": "Trần Thị Bích Ngọc",
+    "target_job": "Marketing Specialist",
+    "summary": "Junior Marketing Specialist.",
+    "education": "Cử nhân Marketing – ĐH Kinh tế Quốc dân",
+    "experiences": "Quản lý nội dung và chiến dịch truyền thông.",
+    "skills": [
+      "Content Marketing",
+      "Social Media",
+      "Communication",
+      "Creativity",
+      "Analytics"
+    ]
+  },
+  {
+    "cv_id": "cv-38",
+    "student_name": "Vũ Thành Đạt",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer tập trung hạ tầng và bảo mật.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Triển khai và giám sát hệ thống cloud.",
+    "skills": [
+      "AWS",
+      "Cloud Security",
+      "Docker",
+      "Linux",
+      "Monitoring"
+    ]
+  },
+  {
+    "cv_id": "cv-39",
+    "student_name": "Đặng Quốc Việt",
+    "target_job": "QA Engineer",
+    "summary": "QA Engineer với định hướng chất lượng phần mềm.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Test chức năng và regression testing.",
+    "skills": [
+      "Manual Testing",
+      "Regression Testing",
+      "Bug Tracking",
+      "SQL",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-40",
+    "student_name": "Bùi Đức Cường",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer fresher.",
+    "education": "Cử nhân CNTT – ĐH Kinh tế Quốc dân",
+    "experiences": "Quản lý server và container.",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Linux",
+      "Git",
+      "Monitoring"
+    ]
+  },
+  {
+    "id": "6f6d6f08-0386-4cc3-86a5-20c8beb3124b",
+    "cv_id": "f7918b9a-fe00-41e7-80c3-99a22b093388",
+    "student_name": "Triệu Huy Mạnh - Thuyết minh đề tài KH&CN cấp Sinh viên (1).docx",
+    "skills": [],
+    "education": "",
+    "experience": ""
+  },
+  {
+    "id": "3f61c270-8868-409d-9f9e-757e6f0348ae",
+    "cv_id": "99868961-090d-455e-b4e3-b650613be21a",
+    "student_name": "Nguyễn Kế Lương CV SS.docx",
+    "skills": [],
+    "education": "",
+    "experience": ""
+  },
+  {
+    "cv_id": "4846c99c-44a0-4218-8b83-0fc23a4d1074",
+    "user_id": 1,
+    "filename": "Triệu-Huy-Mạnh-CV.pdf",
+    "skills": [],
+    "uploaded_at": "2025-12-19T09:42:58.757115"
+  },
+  {
+    "cv_id": "4d1085c8-1981-45e6-975f-c4d292a5e771",
+    "user_id": 1,
+    "filename": "Triệu-Huy-Mạnh-CV.pdf",
+    "skills": [],
+    "uploaded_at": "2025-12-19T10:00:55.716368"
+  },
+  {
+    "cv_id": "cv-41",
+    "student_name": "Nguyễn Minh Quân",
+    "target_job": "System Operations Engineer",
+    "summary": "Kỹ sư vận hành hệ thống với định hướng ổn định và tối ưu hạ tầng CNTT.",
+    "education": "Cử nhân CNTT – ĐH Bách Khoa Hà Nội",
+    "experiences": "Giám sát server, xử lý sự cố hệ thống và bảo trì định kỳ.",
+    "skills": [
+      "Linux",
+      "System Monitoring",
+      "Troubleshooting",
+      "Networking",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-42",
+    "student_name": "Trần Hoàng Long",
+    "target_job": "Network Operations Specialist",
+    "summary": "Nhân sự vận hành mạng với kinh nghiệm xử lý sự cố mạng doanh nghiệp.",
+    "education": "Cử nhân CNTT – Học viện Công nghệ Bưu chính Viễn thông",
+    "experiences": "Giám sát mạng, cấu hình router/switch, xử lý sự cố kết nối.",
+    "skills": [
+      "Networking",
+      "Routing",
+      "Switching",
+      "Network Monitoring",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-43",
+    "student_name": "Phạm Thị Thu Trang",
+    "target_job": "IT Operations Analyst",
+    "summary": "Nhân sự phân tích và hỗ trợ vận hành hệ thống CNTT.",
+    "education": "Cử nhân Hệ thống thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Theo dõi hiệu suất hệ thống và lập báo cáo vận hành.",
+    "skills": [
+      "System Monitoring",
+      "Data Analysis",
+      "Excel",
+      "Problem Solving",
+      "Communication"
+    ]
+  },
+  {
+    "cv_id": "cv-44",
+    "student_name": "Lê Văn Hưng",
+    "target_job": "Data Center Operations Engineer",
+    "summary": "Kỹ sư vận hành trung tâm dữ liệu với khả năng làm việc ca kíp.",
+    "education": "Cử nhân CNTT – ĐH Công nghiệp Hà Nội",
+    "experiences": "Quản lý thiết bị server, giám sát hệ thống 24/7.",
+    "skills": [
+      "Server Hardware",
+      "Monitoring",
+      "Networking",
+      "Incident Handling",
+      "Discipline"
+    ]
+  },
+  {
+    "cv_id": "cv-45",
+    "student_name": "Nguyễn Thị Mai Anh",
+    "target_job": "IT Infrastructure Technician",
+    "summary": "Kỹ thuật viên hạ tầng CNTT với nền tảng phần cứng và mạng.",
+    "education": "Cao đẳng CNTT – Cao đẳng FPT Polytechnic",
+    "experiences": "Lắp đặt thiết bị CNTT và hỗ trợ kỹ thuật nội bộ.",
+    "skills": [
+      "Hardware",
+      "Networking",
+      "Windows Server",
+      "Troubleshooting",
+      "Teamwork"
+    ]
+  },
+  {
+    "cv_id": "cv-46",
+    "student_name": "Vũ Đức Thành",
+    "target_job": "Cloud Engineer",
+    "summary": "Cloud Engineer định hướng vận hành và tối ưu hạ tầng cloud.",
+    "education": "Cử nhân CNTT – ĐH Công nghệ – ĐHQGHN",
+    "experiences": "Triển khai server cloud và giám sát hệ thống.",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Cloud Computing",
+      "Monitoring",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-47",
+    "student_name": "Đỗ Minh Tuấn",
+    "target_job": "DevOps Engineer",
+    "summary": "DevOps Engineer với nền tảng CI/CD và vận hành hệ thống.",
+    "education": "Cử nhân CNTT – ĐH FPT",
+    "experiences": "Thiết lập pipeline CI/CD và tự động hóa triển khai.",
+    "skills": [
+      "Docker",
+      "CI/CD",
+      "Linux",
+      "Git",
+      "Monitoring"
+    ]
+  },
+  {
+    "cv_id": "cv-48",
+    "student_name": "Nguyễn Thanh Huyền",
+    "target_job": "IT Service Operations Engineer",
+    "summary": "Nhân sự vận hành dịch vụ CNTT theo quy trình ITIL.",
+    "education": "Cử nhân CNTT – ĐH Thương mại",
+    "experiences": "Xử lý incident, theo dõi SLA và hỗ trợ người dùng.",
+    "skills": [
+      "IT Operations",
+      "Incident Management",
+      "Monitoring",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-49",
+    "student_name": "Phan Quốc Bảo",
+    "target_job": "Infrastructure Monitoring Engineer",
+    "summary": "Kỹ sư giám sát hạ tầng với kinh nghiệm thiết lập hệ thống monitoring.",
+    "education": "Cử nhân CNTT – ĐH Giao thông Vận tải",
+    "experiences": "Thiết lập cảnh báo và phân tích sự cố hệ thống.",
+    "skills": [
+      "Monitoring Tools",
+      "Linux",
+      "Alerting",
+      "Troubleshooting",
+      "Networking"
+    ]
+  },
+  {
+    "cv_id": "cv-50",
+    "student_name": "Hoàng Gia Khánh",
+    "target_job": "NOC Engineer",
+    "summary": "NOC Engineer với khả năng giám sát và xử lý sự cố mạng.",
+    "education": "Cử nhân CNTT – Học viện Kỹ thuật Quân sự",
+    "experiences": "Giám sát hệ thống mạng và xử lý incident theo ca.",
+    "skills": [
+      "Network Monitoring",
+      "Incident Handling",
+      "Troubleshooting",
+      "Communication",
+      "Discipline"
+    ]
+  },
+  {
+    "cv_id": "cv-51",
+    "student_name": "Nguyễn Văn Phúc",
+    "target_job": "Network Engineer",
+    "summary": "Kỹ sư mạng với nền tảng triển khai và vận hành hệ thống mạng doanh nghiệp.",
+    "education": "Cử nhân CNTT – Học viện Công nghệ Bưu chính Viễn thông",
+    "experiences": "Cấu hình router, switch và xử lý sự cố mạng nội bộ.",
+    "skills": [
+      "Networking",
+      "Routing",
+      "Switching",
+      "Network Monitoring",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "cv_id": "cv-52",
+    "student_name": "Trịnh Thị Lan Anh",
+    "target_job": "IT Support Engineer",
+    "summary": "Nhân sự IT Support với khả năng hỗ trợ kỹ thuật người dùng.",
+    "education": "Cử nhân CNTT – ĐH Thương mại",
+    "experiences": "Hỗ trợ người dùng, xử lý sự cố phần mềm và phần cứng.",
+    "skills": [
+      "IT Support",
+      "Windows",
+      "Troubleshooting",
+      "Communication",
+      "Teamwork"
+    ]
+  },
+  {
+    "cv_id": "cv-53",
+    "student_name": "Lê Quang Minh",
+    "target_job": "System Administrator",
+    "summary": "Quản trị hệ thống với kinh nghiệm vận hành server Linux.",
+    "education": "Cử nhân CNTT – ĐH Công nghệ – ĐHQGHN",
+    "experiences": "Quản lý server, backup dữ liệu và giám sát hệ thống.",
+    "skills": [
+      "Linux",
+      "System Administration",
+      "Backup",
+      "Monitoring",
+      "Security Awareness"
+    ]
+  },
+  {
+    "cv_id": "cv-54",
+    "student_name": "Phạm Đức Thịnh",
+    "target_job": "Cloud Operations Engineer",
+    "summary": "Nhân sự vận hành cloud với định hướng tối ưu hạ tầng.",
+    "education": "Cử nhân CNTT – ĐH FPT",
+    "experiences": "Vận hành hệ thống cloud và hỗ trợ triển khai dịch vụ.",
+    "skills": [
+      "Cloud Computing",
+      "AWS",
+      "Linux",
+      "Monitoring",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-55",
+    "student_name": "Nguyễn Thị Hồng Nhung",
+    "target_job": "IT Operations Engineer",
+    "summary": "IT Operations Engineer tập trung vào ổn định hệ thống.",
+    "education": "Cử nhân Hệ thống thông tin – ĐH Kinh tế Quốc dân",
+    "experiences": "Theo dõi hệ thống và xử lý sự cố vận hành.",
+    "skills": [
+      "IT Operations",
+      "Incident Management",
+      "System Monitoring",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-56",
+    "student_name": "Đặng Hoàng Nam",
+    "target_job": "Infrastructure Engineer",
+    "summary": "Kỹ sư hạ tầng CNTT với nền tảng mạng và hệ thống.",
+    "education": "Cử nhân CNTT – ĐH Giao thông Vận tải",
+    "experiences": "Triển khai và bảo trì hạ tầng CNTT doanh nghiệp.",
+    "skills": [
+      "Infrastructure",
+      "Networking",
+      "Linux",
+      "Monitoring",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "cv_id": "cv-57",
+    "student_name": "Trần Minh Hòa",
+    "target_job": "Security Operations Engineer",
+    "summary": "Nhân sự vận hành bảo mật hệ thống CNTT.",
+    "education": "Cử nhân An toàn thông tin – Học viện Kỹ thuật Mật mã",
+    "experiences": "Giám sát an ninh và xử lý sự cố bảo mật.",
+    "skills": [
+      "Cyber Security",
+      "Security Monitoring",
+      "Incident Handling",
+      "Networking",
+      "Problem Solving"
+    ]
+  },
+  {
+    "cv_id": "cv-58",
+    "student_name": "Võ Thanh Tùng",
+    "target_job": "NOC Engineer",
+    "summary": "NOC Engineer với kinh nghiệm giám sát hệ thống mạng.",
+    "education": "Cử nhân CNTT – ĐH Công nghiệp TP.HCM",
+    "experiences": "Giám sát hệ thống và xử lý cảnh báo sự cố.",
+    "skills": [
+      "Network Monitoring",
+      "Alerting",
+      "Incident Handling",
+      "Troubleshooting",
+      "Discipline"
+    ]
+  },
+  {
+    "cv_id": "cv-59",
+    "student_name": "Nguyễn Hải Yến",
+    "target_job": "IT Service Desk Engineer",
+    "summary": "Nhân sự Service Desk với định hướng dịch vụ CNTT.",
+    "education": "Cử nhân CNTT – ĐH Mở Hà Nội",
+    "experiences": "Tiếp nhận và xử lý yêu cầu hỗ trợ IT.",
+    "skills": [
+      "IT Service Management",
+      "Incident Management",
+      "Communication",
+      "Documentation",
+      "Customer Support"
+    ]
+  },
+  {
+    "cv_id": "cv-60",
+    "student_name": "Bùi Quốc Thắng",
+    "target_job": "Infrastructure Monitoring Engineer",
+    "summary": "Kỹ sư giám sát hạ tầng với khả năng phân tích cảnh báo.",
+    "education": "Cử nhân CNTT – ĐH Bách Khoa TP.HCM",
+    "experiences": "Thiết lập hệ thống monitoring và xử lý cảnh báo.",
+    "skills": [
+      "Monitoring Tools",
+      "Alerting",
+      "Linux",
+      "Troubleshooting",
+      "Problem Solving"
+    ]
+  }
+]
+
+

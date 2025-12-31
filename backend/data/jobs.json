@@ -1,0 +1,2679 @@
+[
+{
+  "job_id": "db63df5b-6bcb-4cb8-9c84-d6ba6ee863c6",
+  "title": "Frontend Developer",
+  "company": "Shopee",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "18 – 30 triệu VNĐ/tháng",
+  "job_description": "Frontend Developer chịu trách nhiệm phát triển giao diện người dùng cho các hệ thống web thương mại điện tử.",
+  "responsibilities": [
+    "Phát triển giao diện web bằng React",
+    "Tối ưu hiệu suất và trải nghiệm người dùng",
+    "Làm việc với Backend và UI/UX Designer",
+    "Fix bug và cải tiến sản phẩm"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc ngành liên quan",
+    "experience": "Tối thiểu 1 năm kinh nghiệm Frontend",
+    "skills_required": ["JavaScript", "React", "HTML", "CSS", "Git"],
+    "nice_to_have": ["TypeScript", "Next.js"]
+  },
+  "benefits": [
+    "Lương thưởng cạnh tranh",
+    "Môi trường quốc tế",
+    "Cơ hội phát triển nghề nghiệp"
+  ]
+},
+{
+  "job_id": "2b2ee4a9-a35f-4848-806b-9110251b89b9",
+  "title": "Frontend Developer",
+  "company": "VNG",
+  "location": "Đà Nẵng",
+  "employment_type": "Full-time",
+  "experience_level": "Junior",
+  "salary_range": "15 – 25 triệu VNĐ/tháng",
+  "job_description": "Xây dựng và tối ưu giao diện người dùng cho các sản phẩm số của VNG.",
+  "responsibilities": [
+    "Phát triển UI bằng React",
+    "Tối ưu responsive cho nhiều thiết bị",
+    "Phối hợp với đội thiết kế",
+    "Đảm bảo chất lượng sản phẩm"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "0.5 – 1 năm kinh nghiệm",
+    "skills_required": ["JavaScript", "React", "HTML", "CSS", "Communication"],
+    "nice_to_have": ["Figma", "UI/UX cơ bản"]
+  },
+  "benefits": [
+    "Môi trường trẻ trung",
+    "Đào tạo chuyên môn",
+    "Thưởng theo hiệu suất"
+  ]
+},
+{
+  "job_id": "e504ccaa-3388-48ac-a63a-499feb8958c9",
+  "title": "UI/UX Designer",
+  "company": "Tiki",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "20 – 35 triệu VNĐ/tháng",
+  "job_description": "Thiết kế giao diện và trải nghiệm người dùng cho nền tảng thương mại điện tử.",
+  "responsibilities": [
+    "Thiết kế wireframe và prototype",
+    "Nghiên cứu hành vi người dùng",
+    "Làm việc với Product & Dev team",
+    "Cải tiến trải nghiệm người dùng"
+  ],
+  "requirements": {
+    "education": "Thiết kế, CNTT hoặc liên quan",
+    "experience": "Tối thiểu 2 năm UI/UX",
+    "skills_required": ["UI Design", "UX Research", "Figma", "Communication", "Problem Solving"],
+    "nice_to_have": ["Design System", "A/B Testing"]
+  },
+  "benefits": [
+    "Lương thưởng hấp dẫn",
+    "Chế độ phúc lợi tốt",
+    "Môi trường chuyên nghiệp"
+  ]
+},
+{
+  "job_id": "a9714916-3c47-4d9d-af77-a9a6b2443de2",
+  "title": "UI/UX Designer",
+  "company": "FPT",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "18 – 30 triệu VNĐ/tháng",
+  "job_description": "Thiết kế trải nghiệm người dùng cho các sản phẩm phần mềm doanh nghiệp.",
+  "responsibilities": [
+    "Thiết kế giao diện người dùng",
+    "Xây dựng prototype",
+    "Phối hợp với đội phát triển",
+    "Cải tiến usability"
+  ],
+  "requirements": {
+    "education": "Thiết kế hoặc liên quan",
+    "experience": "Ít nhất 1 năm kinh nghiệm",
+    "skills_required": ["UI Design", "UX Research", "Figma", "Wireframing", "Communication"],
+    "nice_to_have": ["Usability Testing"]
+  },
+  "benefits": [
+    "Làm việc remote",
+    "Cơ hội học hỏi",
+    "Môi trường chuyên nghiệp"
+  ]
+},
+{
+  "job_id": "39042b46-4606-4e2a-9740-a80408ea97db",
+  "title": "QA Engineer",
+  "company": "VNPT",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Junior",
+  "salary_range": "14 – 22 triệu VNĐ/tháng",
+  "job_description": "QA Engineer chịu trách nhiệm đảm bảo chất lượng phần mềm.",
+  "responsibilities": [
+    "Viết test case",
+    "Thực hiện test manual",
+    "Báo cáo lỗi",
+    "Phối hợp với Dev"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "Ưu tiên có kinh nghiệm QA",
+    "skills_required": ["Software Testing", "Test Case Design", "Bug Tracking", "Excel", "Communication"],
+    "nice_to_have": ["Automation Test"]
+  },
+  "benefits": [
+    "Làm việc từ xa",
+    "Đào tạo bài bản",
+    "Môi trường ổn định"
+  ]
+},
+{
+  "job_id": "4ba725b8-ccd1-449f-a548-7d2ad68f5e54",
+  "title": "QA Engineer",
+  "company": "Tiki",
+  "location": "Đà Nẵng",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "18 – 28 triệu VNĐ/tháng",
+  "job_description": "Đảm bảo chất lượng cho các hệ thống thương mại điện tử.",
+  "responsibilities": [
+    "Thiết kế test plan",
+    "Thực hiện kiểm thử hệ thống",
+    "Báo cáo lỗi chi tiết",
+    "Cải tiến quy trình test"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "Tối thiểu 2 năm QA",
+    "skills_required": ["Software Testing", "Test Planning", "Problem Solving", "Communication", "SQL"],
+    "nice_to_have": ["Automation Testing"]
+  },
+  "benefits": [
+    "Thu nhập cạnh tranh",
+    "Môi trường năng động",
+    "Phúc lợi tốt"
+  ]
+},
+{
+  "job_id": "55a028c2-6298-4a0e-9c3c-6aeb9fb62f81",
+  "title": "UI/UX Designer",
+  "company": "VNG",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "22 – 35 triệu VNĐ/tháng",
+  "job_description": "Thiết kế trải nghiệm người dùng cho các sản phẩm game và ứng dụng số.",
+  "responsibilities": [
+    "Thiết kế UI/UX",
+    "Nghiên cứu người dùng",
+    "Phối hợp với Product Team",
+    "Cải tiến trải nghiệm"
+  ],
+  "requirements": {
+    "education": "Thiết kế hoặc liên quan",
+    "experience": "2+ năm UI/UX",
+    "skills_required": ["UI Design", "UX Research", "Figma", "Communication", "Creativity"],
+    "nice_to_have": ["Game Design"]
+  },
+  "benefits": [
+    "Lương cao",
+    "Môi trường sáng tạo",
+    "Dự án lớn"
+  ]
+},
+{
+  "job_id": "48b3a31c-65ae-4f28-a58e-326a913aef37",
+  "title": "Data Analyst",
+  "company": "FPT",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "17 – 28 triệu VNĐ/tháng",
+  "job_description": "Phân tích dữ liệu và xây dựng báo cáo phục vụ kinh doanh.",
+  "responsibilities": [
+    "Thu thập dữ liệu",
+    "Xây dựng dashboard",
+    "Phân tích xu hướng",
+    "Hỗ trợ ra quyết định"
+  ],
+  "requirements": {
+    "education": "CNTT, Toán, Kinh tế",
+    "experience": "1+ năm phân tích dữ liệu",
+    "skills_required": ["SQL", "Excel", "Power BI", "Data Analysis", "Communication"],
+    "nice_to_have": ["Python"]
+  },
+  "benefits": [
+    "Lương cạnh tranh",
+    "Đào tạo nâng cao",
+    "Môi trường chuyên nghiệp"
+  ]
+},
+{
+  "job_id": "c13eb04a-f9e2-4152-a93d-24dcbbd265f1",
+  "title": "Data Analyst",
+  "company": "VNPT",
+  "location": "Đà Nẵng",
+  "employment_type": "Full-time",
+  "experience_level": "Junior",
+  "salary_range": "15 – 24 triệu VNĐ/tháng",
+  "job_description": "Hỗ trợ phân tích dữ liệu và báo cáo kinh doanh.",
+  "responsibilities": [
+    "Xử lý dữ liệu",
+    "Tạo báo cáo",
+    "Hỗ trợ phân tích",
+    "Phối hợp với các bộ phận"
+  ],
+  "requirements": {
+    "education": "CNTT, Toán, Kinh tế",
+    "experience": "Mới ra trường hoặc 1 năm",
+    "skills_required": ["Excel", "SQL", "Data Analysis", "Problem Solving", "Communication"],
+    "nice_to_have": ["Power BI"]
+  },
+  "benefits": [
+    "Môi trường ổn định",
+    "Đào tạo nội bộ",
+    "Cơ hội phát triển"
+  ]
+},
+{
+  "job_id": "9f76149a-8ea4-49a9-95fd-b9237f5eaeb7",
+  "title": "Data Analyst",
+  "company": "Tiki",
+  "location": "Hồ Chí Minh",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "18 – 30 triệu VNĐ/tháng",
+  "job_description": "Phân tích dữ liệu kinh doanh, hành vi người dùng nhằm hỗ trợ các quyết định chiến lược.",
+  "responsibilities": [
+    "Thu thập và làm sạch dữ liệu",
+    "Phân tích dữ liệu bán hàng và người dùng",
+    "Xây dựng báo cáo và dashboard",
+    "Đề xuất giải pháp cải thiện hiệu quả kinh doanh"
+  ],
+  "requirements": {
+    "education": "CNTT, Toán, Thống kê, Kinh tế",
+    "experience": "Tối thiểu 1–2 năm Data Analyst",
+    "skills_required": ["SQL", "Excel", "Data Analysis", "Power BI", "Communication"],
+    "nice_to_have": ["Python"]
+  },
+  "benefits": [
+    "Thu nhập cạnh tranh",
+    "Thưởng theo hiệu suất",
+    "Cơ hội thăng tiến"
+  ]
+},
+{
+  "job_id": "21259633-cfb8-4a20-bcfb-e522d3c69357",
+  "title": "Cloud Engineer",
+  "company": "Momo",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "22 – 35 triệu VNĐ/tháng",
+  "job_description": "Vận hành và tối ưu hệ thống cloud cho các sản phẩm tài chính số.",
+  "responsibilities": [
+    "Triển khai và quản lý hạ tầng cloud",
+    "Giám sát hiệu suất hệ thống",
+    "Đảm bảo bảo mật và tính sẵn sàng cao",
+    "Tự động hóa quy trình vận hành"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm Cloud Engineer",
+    "skills_required": ["AWS", "Cloud Computing", "Docker", "Linux", "Monitoring"],
+    "nice_to_have": ["Kubernetes"]
+  },
+  "benefits": [
+    "Lương thưởng hấp dẫn",
+    "Môi trường fintech năng động",
+    "Phúc lợi cao"
+  ]
+},
+{
+  "job_id": "df3b8488-0c12-4314-9e7c-580fec15ea3f",
+  "title": "Cloud Engineer",
+  "company": "Momo",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "18 – 30 triệu VNĐ/tháng",
+  "job_description": "Hỗ trợ triển khai và vận hành hệ thống cloud cho các dịch vụ online.",
+  "responsibilities": [
+    "Quản lý tài nguyên cloud",
+    "Hỗ trợ triển khai CI/CD",
+    "Giám sát hệ thống",
+    "Khắc phục sự cố"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "1+ năm Cloud/DevOps",
+    "skills_required": ["Cloud Computing", "AWS", "Docker", "Linux", "Git"],
+    "nice_to_have": ["Terraform"]
+  },
+  "benefits": [
+    "Làm việc remote",
+    "Đào tạo kỹ năng cloud",
+    "Cân bằng công việc – cuộc sống"
+  ]
+},
+{
+  "job_id": "571af73c-7759-47f8-966f-513da8bf7917",
+  "title": "Backend Developer",
+  "company": "FPT",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "16 – 28 triệu VNĐ/tháng",
+  "job_description": "Phát triển các dịch vụ backend cho hệ thống phần mềm doanh nghiệp.",
+  "responsibilities": [
+    "Phát triển RESTful API",
+    "Thiết kế cơ sở dữ liệu",
+    "Tối ưu hiệu suất hệ thống",
+    "Bảo trì và nâng cấp hệ thống"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "1+ năm Backend Developer",
+    "skills_required": ["Node.js", "SQL", "Docker", "Git", "Problem Solving"],
+    "nice_to_have": ["Microservices"]
+  },
+  "benefits": [
+    "Làm việc từ xa",
+    "Đào tạo chuyên môn",
+    "Dự án lớn"
+  ]
+},
+{
+  "job_id": "1d06cc89-e9b5-499d-a589-866aa322890b",
+  "title": "Cloud Engineer",
+  "company": "VNPT",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "20 – 32 triệu VNĐ/tháng",
+  "job_description": "Quản lý và tối ưu hạ tầng cloud cho các hệ thống viễn thông.",
+  "responsibilities": [
+    "Triển khai hạ tầng cloud",
+    "Giám sát hệ thống",
+    "Đảm bảo an toàn thông tin",
+    "Hỗ trợ các nhóm kỹ thuật"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm Cloud Engineer",
+    "skills_required": ["AWS", "Cloud Computing", "Linux", "Monitoring", "Security"],
+    "nice_to_have": ["DevOps"]
+  },
+  "benefits": [
+    "Làm việc ổn định",
+    "Phúc lợi nhà nước",
+    "Đào tạo dài hạn"
+  ]
+},
+{
+  "job_id": "720b2b80-56c1-453b-9a5c-6db9316197df",
+  "title": "Business Analyst",
+  "company": "FPT",
+  "location": "Hồ Chí Minh",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "16 – 26 triệu VNĐ/tháng",
+  "job_description": "Thu thập và phân tích yêu cầu nghiệp vụ cho các dự án phần mềm.",
+  "responsibilities": [
+    "Làm việc với khách hàng",
+    "Phân tích yêu cầu",
+    "Viết tài liệu nghiệp vụ",
+    "Hỗ trợ đội phát triển"
+  ],
+  "requirements": {
+    "education": "CNTT, Kinh tế",
+    "experience": "1+ năm BA",
+    "skills_required": ["Business Analysis", "Communication", "Documentation", "Problem Solving", "SQL"],
+    "nice_to_have": ["Agile/Scrum"]
+  },
+  "benefits": [
+    "Môi trường chuyên nghiệp",
+    "Lộ trình thăng tiến",
+    "Đào tạo kỹ năng"
+  ]
+},
+{
+  "job_id": "ec85ff2b-d3a4-4a01-a701-859382bde841",
+  "title": "QA Engineer",
+  "company": "VNPT",
+  "location": "Đà Nẵng",
+  "employment_type": "Full-time",
+  "experience_level": "Junior",
+  "salary_range": "14 – 22 triệu VNĐ/tháng",
+  "job_description": "Thực hiện kiểm thử phần mềm cho các hệ thống nội bộ.",
+  "responsibilities": [
+    "Viết test case",
+    "Thực hiện test manual",
+    "Phát hiện và báo cáo lỗi",
+    "Hỗ trợ cải tiến chất lượng"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "Ưu tiên có kinh nghiệm QA",
+    "skills_required": ["Software Testing", "Excel", "Problem Solving", "Communication", "Attention to Detail"],
+    "nice_to_have": ["Automation Testing"]
+  },
+  "benefits": [
+    "Công việc ổn định",
+    "Đào tạo nghiệp vụ",
+    "Môi trường thân thiện"
+  ]
+},
+{
+  "job_id": "acc58d96-4c49-4279-8743-af8914681c89",
+  "title": "Backend Developer",
+  "company": "Momo",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "22 – 35 triệu VNĐ/tháng",
+  "job_description": "Phát triển backend cho hệ thống thanh toán và tài chính số.",
+  "responsibilities": [
+    "Thiết kế API",
+    "Phát triển logic backend",
+    "Tối ưu hiệu suất",
+    "Đảm bảo bảo mật hệ thống"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm Backend",
+    "skills_required": ["Java", "SQL", "Docker", "AWS", "Git"],
+    "nice_to_have": ["Microservices"]
+  },
+  "benefits": [
+    "Lương cao",
+    "Làm việc remote",
+    "Môi trường fintech"
+  ]
+},
+{
+  "job_id": "6945b123-5d45-4d24-b52f-4b37b9b64d44",
+  "title": "Business Analyst",
+  "company": "VNPT",
+  "location": "Hybrid",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "18 – 28 triệu VNĐ/tháng",
+  "job_description": "Phân tích nghiệp vụ và đề xuất giải pháp cho các dự án CNTT.",
+  "responsibilities": [
+    "Thu thập yêu cầu nghiệp vụ",
+    "Phân tích quy trình",
+    "Viết tài liệu BA",
+    "Phối hợp các nhóm liên quan"
+  ],
+  "requirements": {
+    "education": "CNTT, Kinh tế",
+    "experience": "2+ năm BA",
+    "skills_required": ["Business Analysis", "Communication", "SQL", "Problem Solving", "Documentation"],
+    "nice_to_have": ["Agile"]
+  },
+  "benefits": [
+    "Lương ổn định",
+    "Hybrid linh hoạt",
+    "Phúc lợi tốt"
+  ]
+},
+{
+  "job_id": "7f43dd1f-65dc-40c4-878d-8d5ce146de82",
+  "title": "Business Analyst",
+  "company": "FPT",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Junior",
+  "salary_range": "14 – 22 triệu VNĐ/tháng",
+  "job_description": "Hỗ trợ phân tích nghiệp vụ cho các dự án phần mềm.",
+  "responsibilities": [
+    "Thu thập yêu cầu",
+    "Viết tài liệu nghiệp vụ",
+    "Hỗ trợ kiểm thử UAT",
+    "Làm việc với đội phát triển"
+  ],
+  "requirements": {
+    "education": "CNTT, Kinh tế",
+    "experience": "Mới ra trường hoặc 1 năm",
+    "skills_required": ["Communication", "Documentation", "Problem Solving", "SQL", "Teamwork"],
+    "nice_to_have": ["BA Tools"]
+  },
+  "benefits": [
+    "Đào tạo bài bản",
+    "Lộ trình nghề nghiệp",
+    "Môi trường lớn"
+  ]
+},
+{
+  "job_id": "796c19be-56a0-40e2-9b40-480bd6ff8d63",
+  "title": "Business Analyst",
+  "company": "VNPT",
+  "location": "Hồ Chí Minh",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "18 – 30 triệu VNĐ/tháng",
+  "job_description": "Phân tích nghiệp vụ và đề xuất giải pháp cho các hệ thống CNTT doanh nghiệp.",
+  "responsibilities": [
+    "Phân tích yêu cầu nghiệp vụ",
+    "Xây dựng tài liệu đặc tả",
+    "Phối hợp với Dev & QA",
+    "Hỗ trợ triển khai và UAT"
+  ],
+  "requirements": {
+    "education": "CNTT, Hệ thống thông tin, Kinh tế",
+    "experience": "2+ năm Business Analyst",
+    "skills_required": ["Business Analysis", "SQL", "Communication", "Problem Solving", "Documentation"],
+    "nice_to_have": ["Agile/Scrum"]
+  },
+  "benefits": [
+    "Thu nhập ổn định",
+    "Dự án lớn",
+    "Phúc lợi tốt"
+  ]
+},
+{
+  "job_id": "2b2ee4a9-a35f-4848-806b-9110251b89b9-2",
+  "title": "Frontend Developer",
+  "company": "VNG",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "20 – 32 triệu VNĐ/tháng",
+  "job_description": "Phát triển giao diện người dùng cho các sản phẩm số quy mô lớn.",
+  "responsibilities": [
+    "Phát triển UI bằng React",
+    "Tối ưu hiệu suất frontend",
+    "Phối hợp với Backend",
+    "Cải tiến UX"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm Frontend",
+    "skills_required": ["JavaScript", "React", "HTML", "CSS", "Git"],
+    "nice_to_have": ["TypeScript"]
+  },
+  "benefits": [
+    "Làm việc từ xa",
+    "Thu nhập cao",
+    "Môi trường sáng tạo"
+  ]
+},
+{
+  "job_id": "dfa89a87-76ef-4718-939c-0a18a8532856",
+  "title": "UI/UX Designer",
+  "company": "VNPT",
+  "location": "Hybrid",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "20 – 32 triệu VNĐ/tháng",
+  "job_description": "Thiết kế trải nghiệm người dùng cho các hệ thống dịch vụ số.",
+  "responsibilities": [
+    "Thiết kế wireframe & prototype",
+    "Nghiên cứu người dùng",
+    "Làm việc với Product Team",
+    "Cải tiến trải nghiệm"
+  ],
+  "requirements": {
+    "education": "Thiết kế, CNTT hoặc liên quan",
+    "experience": "2+ năm UI/UX",
+    "skills_required": ["UI Design", "UX Research", "Figma", "Problem Solving", "Communication"],
+    "nice_to_have": ["Design System"]
+  },
+  "benefits": [
+    "Hybrid linh hoạt",
+    "Môi trường ổn định",
+    "Đào tạo chuyên sâu"
+  ]
+},
+{
+  "job_id": "5c061594-c16a-47a1-8d41-e2bd299cd037",
+  "title": "QA Engineer",
+  "company": "Shopee",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "15 – 25 triệu VNĐ/tháng",
+  "job_description": "Đảm bảo chất lượng phần mềm cho các hệ thống thương mại điện tử.",
+  "responsibilities": [
+    "Viết test case",
+    "Thực hiện kiểm thử",
+    "Báo cáo lỗi",
+    "Phối hợp với Dev"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "1+ năm QA",
+    "skills_required": ["Software Testing", "Test Case Design", "Excel", "Problem Solving", "Communication"],
+    "nice_to_have": ["Automation Test"]
+  },
+  "benefits": [
+    "Làm việc remote",
+    "Thu nhập cạnh tranh",
+    "Môi trường quốc tế"
+  ]
+},
+{
+  "job_id": "94056a2b-79fc-4a14-a23a-a4f8267b5c98",
+  "title": "Backend Developer",
+  "company": "VNG",
+  "location": "Hybrid",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "22 – 35 triệu VNĐ/tháng",
+  "job_description": "Phát triển backend cho các hệ thống dịch vụ trực tuyến.",
+  "responsibilities": [
+    "Thiết kế và phát triển API",
+    "Quản lý cơ sở dữ liệu",
+    "Tối ưu hiệu suất",
+    "Đảm bảo bảo mật"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm Backend",
+    "skills_required": ["Node.js", "SQL", "Docker", "AWS", "Git"],
+    "nice_to_have": ["Microservices"]
+  },
+  "benefits": [
+    "Thu nhập cao",
+    "Hybrid linh hoạt",
+    "Dự án lớn"
+  ]
+},
+{
+  "job_id": "cecd0641-9acc-4ecb-8ea6-f750eaee879b",
+  "title": "Cloud Engineer",
+  "company": "FPT",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "18 – 28 triệu VNĐ/tháng",
+  "job_description": "Triển khai và vận hành hệ thống cloud cho các dự án doanh nghiệp.",
+  "responsibilities": [
+    "Quản lý hạ tầng cloud",
+    "Giám sát hệ thống",
+    "Hỗ trợ DevOps",
+    "Đảm bảo an toàn"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "1+ năm Cloud/DevOps",
+    "skills_required": ["AWS", "Cloud Computing", "Linux", "Docker", "Git"],
+    "nice_to_have": ["CI/CD"]
+  },
+  "benefits": [
+    "Môi trường chuyên nghiệp",
+    "Đào tạo kỹ năng",
+    "Lộ trình rõ ràng"
+  ]
+},
+{
+  "job_id": "d860154a-ddcf-41bb-b81d-215a47fa4758",
+  "title": "Marketing Specialist",
+  "company": "Shopee",
+  "location": "Hồ Chí Minh",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "15 – 25 triệu VNĐ/tháng",
+  "job_description": "Triển khai các chiến dịch marketing nhằm tăng trưởng người dùng.",
+  "responsibilities": [
+    "Lập kế hoạch marketing",
+    "Triển khai chiến dịch digital",
+    "Phân tích hiệu quả",
+    "Phối hợp các bộ phận"
+  ],
+  "requirements": {
+    "education": "Marketing, Kinh tế",
+    "experience": "1+ năm Marketing",
+    "skills_required": ["Digital Marketing", "Communication", "Data Analysis", "Creativity", "Content Creation"],
+    "nice_to_have": ["Performance Marketing"]
+  },
+  "benefits": [
+    "Môi trường năng động",
+    "Cơ hội phát triển",
+    "Thưởng theo KPI"
+  ]
+},
+{
+  "job_id": "627fb572-74be-4a25-8b6c-71fa701c1e42",
+  "title": "Cloud Engineer",
+  "company": "VNG",
+  "location": "Đà Nẵng",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "20 – 32 triệu VNĐ/tháng",
+  "job_description": "Vận hành hệ thống cloud cho các nền tảng số quy mô lớn.",
+  "responsibilities": [
+    "Quản lý tài nguyên cloud",
+    "Giám sát và tối ưu",
+    "Đảm bảo bảo mật",
+    "Hỗ trợ đội kỹ thuật"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm Cloud",
+    "skills_required": ["AWS", "Cloud Computing", "Linux", "Monitoring", "Docker"],
+    "nice_to_have": ["Kubernetes"]
+  },
+  "benefits": [
+    "Thu nhập hấp dẫn",
+    "Môi trường công nghệ cao",
+    "Phúc lợi tốt"
+  ]
+},
+{
+  "job_id": "21255427-40da-4b78-8461-06ac8b5d013a",
+  "title": "Data Analyst",
+  "company": "Shopee",
+  "location": "Đà Nẵng",
+  "employment_type": "Full-time",
+  "experience_level": "Junior",
+  "salary_range": "14 – 22 triệu VNĐ/tháng",
+  "job_description": "Hỗ trợ phân tích dữ liệu vận hành và kinh doanh.",
+  "responsibilities": [
+    "Xử lý dữ liệu",
+    "Tạo báo cáo",
+    "Hỗ trợ phân tích",
+    "Phối hợp team"
+  ],
+  "requirements": {
+    "education": "CNTT, Toán, Kinh tế",
+    "experience": "Mới ra trường hoặc 1 năm",
+    "skills_required": ["Excel", "SQL", "Data Analysis", "Problem Solving", "Communication"],
+    "nice_to_have": ["Power BI"]
+  },
+  "benefits": [
+    "Đào tạo bài bản",
+    "Môi trường trẻ",
+    "Lộ trình nghề nghiệp"
+  ]
+},
+{
+  "job_id": "57ae83d0-dcca-4973-8c18-5dec46812f76",
+  "title": "UI/UX Designer",
+  "company": "VNG",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "18 – 30 triệu VNĐ/tháng",
+  "job_description": "Thiết kế trải nghiệm người dùng cho các sản phẩm số.",
+  "responsibilities": [
+    "Thiết kế UI/UX",
+    "Nghiên cứu người dùng",
+    "Phối hợp Product Team",
+    "Cải tiến usability"
+  ],
+  "requirements": {
+    "education": "Thiết kế hoặc liên quan",
+    "experience": "1+ năm UI/UX",
+    "skills_required": ["UI Design", "UX Research", "Figma", "Communication", "Problem Solving"],
+    "nice_to_have": ["Design Thinking"]
+  },
+  "benefits": [
+    "Làm việc remote",
+    "Môi trường sáng tạo",
+    "Thu nhập cạnh tranh"
+  ]
+},
+{
+  "job_id": "7c111903-cd0a-49ff-ae39-3245134c1dcc",
+  "title": "UI/UX Designer",
+  "company": "VNG",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "20 – 32 triệu VNĐ/tháng",
+  "job_description": "Thiết kế giao diện và trải nghiệm người dùng cho các sản phẩm số quy mô lớn.",
+  "responsibilities": [
+    "Thiết kế UI/UX cho web và mobile",
+    "Xây dựng wireframe, prototype",
+    "Nghiên cứu hành vi người dùng",
+    "Phối hợp với Product & Dev"
+  ],
+  "requirements": {
+    "education": "Thiết kế, CNTT hoặc liên quan",
+    "experience": "2+ năm UI/UX",
+    "skills_required": ["UI Design", "UX Research", "Figma", "Communication", "Problem Solving"],
+    "nice_to_have": ["Design System"]
+  },
+  "benefits": [
+    "Làm việc từ xa",
+    "Thu nhập hấp dẫn",
+    "Môi trường sáng tạo"
+  ]
+},
+{
+  "job_id": "00b0e54b-9077-47d8-8f41-dd3dd5ee9f26",
+  "title": "Marketing Specialist",
+  "company": "VNG",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "18 – 30 triệu VNĐ/tháng",
+  "job_description": "Triển khai các chiến dịch marketing nhằm tăng trưởng người dùng và thương hiệu.",
+  "responsibilities": [
+    "Lập kế hoạch marketing",
+    "Triển khai chiến dịch digital",
+    "Phân tích hiệu quả chiến dịch",
+    "Quản lý nội dung truyền thông"
+  ],
+  "requirements": {
+    "education": "Marketing, Truyền thông",
+    "experience": "2+ năm Marketing",
+    "skills_required": ["Digital Marketing", "Content Creation", "Communication", "Data Analysis", "Creativity"],
+    "nice_to_have": ["SEO/SEM"]
+  },
+  "benefits": [
+    "Remote linh hoạt",
+    "Thưởng theo KPI",
+    "Môi trường năng động"
+  ]
+},
+{
+  "job_id": "8cac9464-a62d-405a-98b6-b10fa8d88587",
+  "title": "QA Engineer",
+  "company": "FPT",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "15 – 25 triệu VNĐ/tháng",
+  "job_description": "Đảm bảo chất lượng phần mềm cho các dự án CNTT.",
+  "responsibilities": [
+    "Viết test case",
+    "Thực hiện test manual",
+    "Báo cáo và theo dõi bug",
+    "Hỗ trợ kiểm thử UAT"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "1+ năm QA",
+    "skills_required": ["Software Testing", "Excel", "Problem Solving", "Communication", "Attention to Detail"],
+    "nice_to_have": ["Automation Testing"]
+  },
+  "benefits": [
+    "Làm việc từ xa",
+    "Đào tạo chuyên môn",
+    "Lộ trình nghề nghiệp rõ ràng"
+  ]
+},
+{
+  "job_id": "62869116-9e40-49e6-8019-b2367d6c2f8e",
+  "title": "UI/UX Designer",
+  "company": "Shopee",
+  "location": "Hybrid",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "18 – 28 triệu VNĐ/tháng",
+  "job_description": "Thiết kế giao diện người dùng cho các sản phẩm thương mại điện tử.",
+  "responsibilities": [
+    "Thiết kế UI/UX",
+    "Xây dựng prototype",
+    "Phối hợp với Product Team",
+    "Cải tiến trải nghiệm người dùng"
+  ],
+  "requirements": {
+    "education": "Thiết kế hoặc liên quan",
+    "experience": "1+ năm UI/UX",
+    "skills_required": ["Figma", "UI Design", "UX Research", "Communication", "Creativity"],
+    "nice_to_have": ["A/B Testing"]
+  },
+  "benefits": [
+    "Hybrid linh hoạt",
+    "Môi trường quốc tế",
+    "Cơ hội phát triển"
+  ]
+},
+{
+  "job_id": "9584c1c8-2037-4aaa-a174-62a06641fbe6",
+  "title": "Backend Developer",
+  "company": "VNPT",
+  "location": "Hồ Chí Minh",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "20 – 32 triệu VNĐ/tháng",
+  "job_description": "Phát triển backend cho các hệ thống dịch vụ CNTT.",
+  "responsibilities": [
+    "Thiết kế API",
+    "Phát triển backend service",
+    "Tối ưu cơ sở dữ liệu",
+    "Đảm bảo bảo mật hệ thống"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm Backend",
+    "skills_required": ["Java", "SQL", "Docker", "Git", "Problem Solving"],
+    "nice_to_have": ["Microservices"]
+  },
+  "benefits": [
+    "Thu nhập ổn định",
+    "Môi trường lớn",
+    "Phúc lợi tốt"
+  ]
+},
+{
+  "job_id": "e3ee2c72-ba5b-48dd-b523-9b4533540753",
+  "title": "Marketing Specialist",
+  "company": "FPT",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "15 – 25 triệu VNĐ/tháng",
+  "job_description": "Thực hiện các chiến dịch marketing cho sản phẩm và dịch vụ CNTT.",
+  "responsibilities": [
+    "Triển khai chiến dịch marketing",
+    "Quản lý nội dung",
+    "Phân tích hiệu quả",
+    "Hỗ trợ truyền thông"
+  ],
+  "requirements": {
+    "education": "Marketing, Truyền thông",
+    "experience": "1+ năm Marketing",
+    "skills_required": ["Content Creation", "Communication", "Digital Marketing", "Teamwork", "Creativity"],
+    "nice_to_have": ["Performance Marketing"]
+  },
+  "benefits": [
+    "Remote",
+    "Đào tạo kỹ năng",
+    "Cơ hội phát triển"
+  ]
+},
+{
+  "job_id": "6bab15f5-64cb-4516-a2bf-9ce007d08e63",
+  "title": "Data Analyst",
+  "company": "VNPT",
+  "location": "Hybrid",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "18 – 30 triệu VNĐ/tháng",
+  "job_description": "Phân tích dữ liệu vận hành và kinh doanh cho các hệ thống viễn thông.",
+  "responsibilities": [
+    "Thu thập và xử lý dữ liệu",
+    "Phân tích xu hướng",
+    "Xây dựng dashboard",
+    "Hỗ trợ ra quyết định"
+  ],
+  "requirements": {
+    "education": "CNTT, Toán, Thống kê",
+    "experience": "2+ năm Data Analyst",
+    "skills_required": ["SQL", "Python", "Power BI", "Data Analysis", "Communication"],
+    "nice_to_have": ["Big Data"]
+  },
+  "benefits": [
+    "Thu nhập tốt",
+    "Hybrid linh hoạt",
+    "Phúc lợi ổn định"
+  ]
+},
+{
+  "job_id": "db63df5b-6bcb-4cb8-9c84-d6ba6ee863c6-2",
+  "title": "Frontend Developer",
+  "company": "Shopee",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "20 – 32 triệu VNĐ/tháng",
+  "job_description": "Phát triển giao diện web cho các nền tảng thương mại điện tử.",
+  "responsibilities": [
+    "Phát triển frontend bằng React",
+    "Tối ưu UX/UI",
+    "Fix bug và cải tiến",
+    "Làm việc với Backend"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm Frontend",
+    "skills_required": ["JavaScript", "React", "HTML", "CSS", "Git"],
+    "nice_to_have": ["Next.js"]
+  },
+  "benefits": [
+    "Remote",
+    "Thu nhập cạnh tranh",
+    "Dự án quốc tế"
+  ]
+},
+{
+  "job_id": "571af73c-7759-47f8-966f-513da8bf7917-2",
+  "title": "Backend Developer",
+  "company": "FPT",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Senior",
+  "salary_range": "30 – 45 triệu VNĐ/tháng",
+  "job_description": "Dẫn dắt phát triển backend cho các hệ thống doanh nghiệp.",
+  "responsibilities": [
+    "Thiết kế kiến trúc backend",
+    "Review code",
+    "Hướng dẫn junior",
+    "Tối ưu hệ thống"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "4+ năm Backend",
+    "skills_required": ["Java", "Spring Boot", "SQL", "Docker", "AWS"],
+    "nice_to_have": ["Microservices Architecture"]
+  },
+  "benefits": [
+    "Lương cao",
+    "Vai trò lead",
+    "Dự án lớn"
+  ]
+},
+{
+  "job_id": "21259633-cfb8-4a20-bcfb-e522d3c69357-2",
+  "title": "Cloud Engineer",
+  "company": "Momo",
+  "location": "Hồ Chí Minh",
+  "employment_type": "Full-time",
+  "experience_level": "Senior",
+  "salary_range": "35 – 50 triệu VNĐ/tháng",
+  "job_description": "Dẫn dắt triển khai và tối ưu hệ thống cloud cho nền tảng fintech.",
+  "responsibilities": [
+    "Thiết kế kiến trúc cloud",
+    "Tối ưu hiệu suất",
+    "Đảm bảo bảo mật",
+    "Hướng dẫn team kỹ thuật"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "4+ năm Cloud Engineer",
+    "skills_required": ["AWS", "Cloud Architecture", "Docker", "Kubernetes", "Security"],
+    "nice_to_have": ["Fintech Experience"]
+  },
+  "benefits": [
+    "Lương top thị trường",
+    "Dự án fintech lớn",
+    "Phúc lợi cao"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0001",
+  "title": "Data Scientist",
+  "company": "Momo",
+  "location": "Hồ Chí Minh",
+  "employment_type": "Full-time",
+  "experience_level": "Senior",
+  "salary_range": "35 – 55 triệu VNĐ/tháng",
+  "job_description": "Phân tích dữ liệu lớn và xây dựng mô hình machine learning phục vụ sản phẩm fintech.",
+  "responsibilities": [
+    "Xây dựng mô hình ML",
+    "Phân tích dữ liệu lớn",
+    "Tối ưu thuật toán",
+    "Phối hợp Product Team"
+  ],
+  "requirements": {
+    "education": "CNTT, Toán, Khoa học dữ liệu",
+    "experience": "4+ năm Data Science",
+    "skills_required": ["Python", "Machine Learning", "SQL", "Data Analysis", "Statistics"],
+    "nice_to_have": ["Deep Learning"]
+  },
+  "benefits": [
+    "Lương top thị trường",
+    "Dự án fintech lớn",
+    "Môi trường sáng tạo"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0002",
+  "title": "DevOps Engineer",
+  "company": "FPT",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Middle – Senior",
+  "salary_range": "25 – 40 triệu VNĐ/tháng",
+  "job_description": "Xây dựng và vận hành hệ thống CI/CD cho các dự án doanh nghiệp.",
+  "responsibilities": [
+    "Thiết kế pipeline CI/CD",
+    "Quản lý hạ tầng",
+    "Tự động hóa triển khai",
+    "Giám sát hệ thống"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "3+ năm DevOps",
+    "skills_required": ["Docker", "Kubernetes", "Linux", "CI/CD", "AWS"],
+    "nice_to_have": ["Terraform"]
+  },
+  "benefits": [
+    "Thu nhập cạnh tranh",
+    "Dự án lớn",
+    "Đào tạo chuyên sâu"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0003",
+  "title": "Product Manager",
+  "company": "Shopee",
+  "location": "Hồ Chí Minh",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "30 – 45 triệu VNĐ/tháng",
+  "job_description": "Quản lý và phát triển sản phẩm thương mại điện tử.",
+  "responsibilities": [
+    "Xây dựng roadmap sản phẩm",
+    "Thu thập yêu cầu",
+    "Phối hợp Dev & Design",
+    "Theo dõi hiệu quả sản phẩm"
+  ],
+  "requirements": {
+    "education": "CNTT, Kinh tế",
+    "experience": "3+ năm Product",
+    "skills_required": ["Product Management", "Communication", "Data Analysis", "Problem Solving", "Agile"],
+    "nice_to_have": ["E-commerce"]
+  },
+  "benefits": [
+    "Thu nhập cao",
+    "Sản phẩm quy mô lớn",
+    "Môi trường quốc tế"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0004",
+  "title": "AI Engineer",
+  "company": "VNG",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Middle – Senior",
+  "salary_range": "30 – 50 triệu VNĐ/tháng",
+  "job_description": "Phát triển các hệ thống AI cho sản phẩm giải trí và dịch vụ số.",
+  "responsibilities": [
+    "Xây dựng mô hình AI",
+    "Xử lý dữ liệu",
+    "Triển khai mô hình",
+    "Tối ưu hiệu năng"
+  ],
+  "requirements": {
+    "education": "CNTT, AI, Khoa học dữ liệu",
+    "experience": "3+ năm AI",
+    "skills_required": ["Python", "Machine Learning", "Deep Learning", "Data Analysis", "Problem Solving"],
+    "nice_to_have": ["NLP"]
+  },
+  "benefits": [
+    "Dự án AI lớn",
+    "Thu nhập cao",
+    "Môi trường sáng tạo"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0005",
+  "title": "System Administrator",
+  "company": "VNPT",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "18 – 30 triệu VNĐ/tháng",
+  "job_description": "Quản trị và vận hành hệ thống máy chủ doanh nghiệp.",
+  "responsibilities": [
+    "Quản lý server",
+    "Giám sát hệ thống",
+    "Xử lý sự cố",
+    "Đảm bảo an toàn"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm SysAdmin",
+    "skills_required": ["Linux", "Networking", "Security", "Monitoring", "Problem Solving"],
+    "nice_to_have": ["Cloud Computing"]
+  },
+  "benefits": [
+    "Ổn định lâu dài",
+    "Phúc lợi tốt",
+    "Đào tạo nâng cao"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0006",
+  "title": "Mobile App Developer",
+  "company": "Momo",
+  "location": "Hồ Chí Minh",
+  "employment_type": "Full-time",
+  "experience_level": "Middle",
+  "salary_range": "22 – 35 triệu VNĐ/tháng",
+  "job_description": "Phát triển ứng dụng mobile cho nền tảng fintech.",
+  "responsibilities": [
+    "Phát triển app Android/iOS",
+    "Tối ưu hiệu năng",
+    "Fix bug",
+    "Phối hợp Backend"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "2+ năm Mobile",
+    "skills_required": ["Android", "iOS", "Flutter", "Problem Solving", "Git"],
+    "nice_to_have": ["Fintech Experience"]
+  },
+  "benefits": [
+    "Thu nhập tốt",
+    "Sản phẩm lớn",
+    "Môi trường năng động"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0007",
+  "title": "IT Support Engineer",
+  "company": "FPT",
+  "location": "Đà Nẵng",
+  "employment_type": "Full-time",
+  "experience_level": "Junior",
+  "salary_range": "10 – 18 triệu VNĐ/tháng",
+  "job_description": "Hỗ trợ kỹ thuật CNTT cho người dùng nội bộ.",
+  "responsibilities": [
+    "Hỗ trợ người dùng",
+    "Xử lý sự cố phần mềm",
+    "Cài đặt thiết bị",
+    "Báo cáo sự cố"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc liên quan",
+    "experience": "Mới ra trường hoặc 1 năm",
+    "skills_required": ["IT Support", "Communication", "Problem Solving", "Windows", "Networking"],
+    "nice_to_have": ["Helpdesk Experience"]
+  },
+  "benefits": [
+    "Phù hợp sinh viên mới ra trường",
+    "Đào tạo bài bản",
+    "Môi trường chuyên nghiệp"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0008",
+  "title": "Security Engineer",
+  "company": "VNPT",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Middle – Senior",
+  "salary_range": "28 – 45 triệu VNĐ/tháng",
+  "job_description": "Đảm bảo an toàn thông tin cho hệ thống CNTT.",
+  "responsibilities": [
+    "Đánh giá bảo mật",
+    "Giám sát an ninh",
+    "Xử lý sự cố",
+    "Xây dựng chính sách bảo mật"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc An toàn thông tin",
+    "experience": "3+ năm Security",
+    "skills_required": ["Cyber Security", "Networking", "Linux", "Monitoring", "Problem Solving"],
+    "nice_to_have": ["CEH, Security+"]
+  },
+  "benefits": [
+    "Thu nhập cao",
+    "Làm việc từ xa",
+    "Dự án lớn"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0009",
+  "title": "Technical Writer",
+  "company": "VNG",
+  "location": "Remote",
+  "employment_type": "Full-time",
+  "experience_level": "Junior – Middle",
+  "salary_range": "15 – 25 triệu VNĐ/tháng",
+  "job_description": "Viết tài liệu kỹ thuật cho sản phẩm và hệ thống.",
+  "responsibilities": [
+    "Viết tài liệu kỹ thuật",
+    "Chuẩn hóa hướng dẫn",
+    "Phối hợp Dev",
+    "Cập nhật tài liệu"
+  ],
+  "requirements": {
+    "education": "CNTT hoặc Ngôn ngữ",
+    "experience": "1+ năm Technical Writing",
+    "skills_required": ["Technical Writing", "Communication", "Documentation", "Problem Solving", "English"],
+    "nice_to_have": ["API Documentation"]
+  },
+  "benefits": [
+    "Remote",
+    "Môi trường quốc tế",
+    "Ổn định"
+  ]
+},
+{
+  "job_id": "41a1d2e4-6b8c-4d72-8b5a-0a2d0d1a0010",
+  "title": "AI Product Owner",
+  "company": "FPT",
+  "location": "Hà Nội",
+  "employment_type": "Full-time",
+  "experience_level": "Senior",
+  "salary_range": "40 – 60 triệu VNĐ/tháng",
+  "job_description": "Quản lý sản phẩm AI và định hướng phát triển chiến lược.",
+  "responsibilities": [
+    "Định hướng sản phẩm AI",
+    "Làm việc với team AI",
+    "Phân tích yêu cầu",
+    "Theo dõi hiệu quả sản phẩm"
+  ],
+  "requirements": {
+    "education": "CNTT, AI, Kinh tế",
+    "experience": "5+ năm Product/AI",
+    "skills_required": ["Product Management", "AI Knowledge", "Communication", "Data Analysis", "Leadership"],
+    "nice_to_have": ["AI Project Experience"]
+  },
+  "benefits": [
+    "Lương rất cao",
+    "Vai trò chiến lược",
+    "Dự án AI lớn"
+  ]
+},
+
+  {
+    "job_id": "a3f8c1a2-1b44-4e3d-9a1f-8a2d1c4e6b11",
+    "title": "Frontend Developer",
+    "company": "Techcombank",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "18 – 30 triệu VNĐ/tháng",
+    "job_description": "Phát triển giao diện người dùng cho các ứng dụng ngân hàng số.",
+    "responsibilities": [
+      "Xây dựng giao diện bằng React",
+      "Tối ưu UX/UI",
+      "Phối hợp Backend",
+      "Fix bug frontend"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "1+ năm Frontend",
+      "skills_required": ["JavaScript", "React", "HTML", "CSS", "Git"],
+      "nice_to_have": ["TypeScript"]
+    },
+    "benefits": [
+      "Thu nhập cạnh tranh",
+      "Môi trường fintech",
+      "Đào tạo chuyên môn"
+    ]
+  },
+  {
+    "job_id": "c1e5a912-8f1c-4f0c-8a0a-21e93e9c1b22",
+    "title": "Backend Developer",
+    "company": "Viettel",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 35 triệu VNĐ/tháng",
+    "job_description": "Phát triển backend cho các hệ thống viễn thông.",
+    "responsibilities": [
+      "Thiết kế RESTful API",
+      "Xử lý logic nghiệp vụ",
+      "Tối ưu database",
+      "Đảm bảo bảo mật"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Backend",
+      "skills_required": ["Java", "SQL", "Spring Boot", "Git", "Problem Solving"],
+      "nice_to_have": ["Microservices"]
+    },
+    "benefits": [
+      "Môi trường lớn",
+      "Thu nhập ổn định",
+      "Phúc lợi tốt"
+    ]
+  },
+  {
+    "job_id": "9b7a4c2d-9e1f-4c4b-8d7a-5c91d2e8f333",
+    "title": "Fullstack Developer",
+    "company": "FPT Software",
+    "location": "Đà Nẵng",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 34 triệu VNĐ/tháng",
+    "job_description": "Phát triển frontend và backend cho dự án doanh nghiệp.",
+    "responsibilities": [
+      "Phát triển frontend và backend",
+      "Thiết kế API",
+      "Tối ưu hiệu suất",
+      "Fix bug"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Fullstack",
+      "skills_required": ["JavaScript", "React", "Node.js", "SQL", "Git"],
+      "nice_to_have": ["Docker"]
+    },
+    "benefits": [
+      "Dự án quốc tế",
+      "Đào tạo chuyên sâu",
+      "Môi trường chuyên nghiệp"
+    ]
+  },
+
+  {
+    "job_id": "5e8c1a7f-4a2d-4c9a-9b5f-7f2e6a9c0444",
+    "title": "Mobile App Developer",
+    "company": "Momo",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 36 triệu VNĐ/tháng",
+    "job_description": "Phát triển ứng dụng mobile cho nền tảng fintech.",
+    "responsibilities": [
+      "Phát triển app Android/iOS",
+      "Tối ưu hiệu năng",
+      "Fix bug",
+      "Phối hợp Backend"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Mobile",
+      "skills_required": ["Flutter", "Android", "iOS", "Git", "Problem Solving"],
+      "nice_to_have": ["Fintech"]
+    },
+    "benefits": [
+      "Lương cao",
+      "Sản phẩm lớn",
+      "Môi trường năng động"
+    ]
+  },
+
+  {
+    "job_id": "1a4f8d2b-3c9e-4a7f-bd9e-1a0c2b5d0555",
+    "title": "QA Engineer",
+    "company": "Shopee",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Junior",
+    "salary_range": "15 – 25 triệu VNĐ/tháng",
+    "job_description": "Đảm bảo chất lượng phần mềm cho hệ thống thương mại điện tử.",
+    "responsibilities": [
+      "Viết test case",
+      "Thực hiện test manual",
+      "Báo cáo lỗi",
+      "Phối hợp Dev"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "Ưu tiên có kinh nghiệm QA",
+      "skills_required": ["Software Testing", "Excel", "Bug Tracking", "Communication", "Attention to Detail"],
+      "nice_to_have": ["Automation Testing"]
+    },
+    "benefits": [
+      "Remote",
+      "Đào tạo bài bản",
+      "Môi trường quốc tế"
+    ]
+  },
+
+  {
+    "job_id": "d9b1e3f4-7a5c-4e2f-8b3a-0c6f9d7e0666",
+    "title": "Data Analyst",
+    "company": "VNG",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "17 – 28 triệu VNĐ/tháng",
+    "job_description": "Phân tích dữ liệu kinh doanh và hành vi người dùng.",
+    "responsibilities": [
+      "Thu thập và xử lý dữ liệu",
+      "Phân tích xu hướng",
+      "Xây dựng báo cáo",
+      "Hỗ trợ ra quyết định"
+    ],
+    "requirements": {
+      "education": "CNTT, Toán, Kinh tế",
+      "experience": "1+ năm Data Analyst",
+      "skills_required": ["SQL", "Excel", "Power BI", "Data Analysis", "Communication"],
+      "nice_to_have": ["Python"]
+    },
+    "benefits": [
+      "Môi trường trẻ",
+      "Thu nhập cạnh tranh",
+      "Cơ hội phát triển"
+    ]
+  },
+
+  {
+    "job_id": "7c2e1b9a-4f6d-4c1a-9e8b-12f4c9a10777",
+    "title": "Data Engineer",
+    "company": "Shopee",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "24 – 38 triệu VNĐ/tháng",
+    "job_description": "Xây dựng và vận hành hệ thống xử lý dữ liệu lớn cho thương mại điện tử.",
+    "responsibilities": [
+      "Xây dựng pipeline dữ liệu",
+      "Xử lý dữ liệu lớn",
+      "Tối ưu hiệu suất",
+      "Phối hợp Data Team"
+    ],
+    "requirements": {
+      "education": "CNTT, Khoa học dữ liệu",
+      "experience": "2+ năm Data Engineer",
+      "skills_required": ["Python", "SQL", "ETL", "Data Warehousing", "Problem Solving"],
+      "nice_to_have": ["Big Data", "Spark"]
+    },
+    "benefits": [
+      "Thu nhập cạnh tranh",
+      "Dự án lớn",
+      "Môi trường quốc tế"
+    ]
+  },
+  {
+    "job_id": "2d9f3a7c-6b4e-4a1f-8c2e-3a9b8d210888",
+    "title": "Cloud Engineer",
+    "company": "VNPT",
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 34 triệu VNĐ/tháng",
+    "job_description": "Quản lý và tối ưu hạ tầng cloud cho hệ thống viễn thông.",
+    "responsibilities": [
+      "Triển khai hạ tầng cloud",
+      "Giám sát hệ thống",
+      "Tối ưu tài nguyên",
+      "Đảm bảo an toàn"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Cloud",
+      "skills_required": ["AWS", "Linux", "Cloud Computing", "Monitoring", "Problem Solving"],
+      "nice_to_have": ["Kubernetes"]
+    },
+    "benefits": [
+      "Hybrid linh hoạt",
+      "Thu nhập ổn định",
+      "Phúc lợi tốt"
+    ]
+  },
+  {
+    "job_id": "8a7c6f2e-1b5d-4a9c-9e71-0c8b4d310999",
+    "title": "DevOps Engineer",
+    "company": "FPT Software",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "25 – 40 triệu VNĐ/tháng",
+    "job_description": "Xây dựng và vận hành hệ thống CI/CD cho dự án doanh nghiệp.",
+    "responsibilities": [
+      "Thiết kế CI/CD pipeline",
+      "Tự động hóa triển khai",
+      "Giám sát hệ thống",
+      "Hỗ trợ Dev Team"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm DevOps",
+      "skills_required": ["Docker", "CI/CD", "Linux", "AWS", "Monitoring"],
+      "nice_to_have": ["Terraform"]
+    },
+    "benefits": [
+      "Dự án lớn",
+      "Đào tạo chuyên sâu",
+      "Thu nhập cao"
+    ]
+  },
+  {
+    "job_id": "4b2e7c9a-5d6f-4a3b-8e1c-9a3d7f411000",
+    "title": "UI/UX Designer",
+    "company": "VNG",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 34 triệu VNĐ/tháng",
+    "job_description": "Thiết kế giao diện và trải nghiệm người dùng cho sản phẩm số.",
+    "responsibilities": [
+      "Thiết kế UI/UX",
+      "Xây dựng prototype",
+      "Nghiên cứu người dùng",
+      "Cải tiến usability"
+    ],
+    "requirements": {
+      "education": "Thiết kế hoặc liên quan",
+      "experience": "2+ năm UI/UX",
+      "skills_required": ["Figma", "UI Design", "UX Research", "Communication", "Problem Solving"],
+      "nice_to_have": ["Design System"]
+    },
+    "benefits": [
+      "Remote",
+      "Môi trường sáng tạo",
+      "Thu nhập hấp dẫn"
+    ]
+  },
+  {
+    "job_id": "c1a7f9e4-8b2d-4e6a-9f21-7d8b9a511111",
+    "title": "Business Analyst",
+    "company": "FPT",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "16 – 26 triệu VNĐ/tháng",
+    "job_description": "Thu thập và phân tích yêu cầu nghiệp vụ cho dự án phần mềm.",
+    "responsibilities": [
+      "Làm việc với khách hàng",
+      "Phân tích yêu cầu",
+      "Viết tài liệu nghiệp vụ",
+      "Hỗ trợ Dev Team"
+    ],
+    "requirements": {
+      "education": "CNTT, Kinh tế",
+      "experience": "1+ năm BA",
+      "skills_required": ["Business Analysis", "Communication", "Documentation", "Problem Solving", "SQL"],
+      "nice_to_have": ["Agile/Scrum"]
+    },
+    "benefits": [
+      "Môi trường chuyên nghiệp",
+      "Lộ trình thăng tiến",
+      "Đào tạo kỹ năng"
+    ]
+  },
+  {
+    "job_id": "9e3b2a4c-1f8d-4c7a-8b51-0f2d6a611222",
+    "title": "AI Engineer",
+    "company": "Momo",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "30 – 48 triệu VNĐ/tháng",
+    "job_description": "Phát triển các mô hình AI phục vụ sản phẩm fintech.",
+    "responsibilities": [
+      "Xây dựng mô hình AI",
+      "Xử lý dữ liệu",
+      "Triển khai mô hình",
+      "Tối ưu hiệu năng"
+    ],
+    "requirements": {
+      "education": "CNTT, AI, Khoa học dữ liệu",
+      "experience": "3+ năm AI",
+      "skills_required": ["Python", "Machine Learning", "Data Analysis", "Problem Solving", "SQL"],
+      "nice_to_have": ["Deep Learning"]
+    },
+    "benefits": [
+      "Thu nhập cao",
+      "Dự án fintech lớn",
+      "Môi trường sáng tạo"
+    ]
+  },
+  {
+    "job_id": "3f8a2c1d-6b4e-4a9f-8c21-9e2a7d1b1001",
+    "title": "System Operations Engineer",
+    "company": "VNPT",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "18 – 30 triệu VNĐ/tháng",
+    "job_description": "Vận hành và giám sát hệ thống CNTT đảm bảo hoạt động ổn định.",
+    "responsibilities": [
+      "Giám sát hệ thống server",
+      "Xử lý sự cố hệ thống",
+      "Thực hiện bảo trì định kỳ",
+      "Phối hợp các đội kỹ thuật"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm vận hành hệ thống",
+      "skills_required": ["Linux", "System Monitoring", "Troubleshooting", "Networking", "Communication"],
+      "nice_to_have": ["Cloud Computing"]
+    },
+    "benefits": [
+      "Thu nhập ổn định",
+      "Phúc lợi tốt",
+      "Môi trường chuyên nghiệp"
+    ]
+  },
+  {
+    "job_id": "a1c4b7e9-2d5f-4a8c-9e31-7b9f0d2a1002",
+    "title": "Network Operations Specialist",
+    "company": "Viettel",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "20 – 32 triệu VNĐ/tháng",
+    "job_description": "Vận hành và đảm bảo hệ thống mạng hoạt động liên tục.",
+    "responsibilities": [
+      "Giám sát hệ thống mạng",
+      "Xử lý sự cố mạng",
+      "Cấu hình thiết bị mạng",
+      "Báo cáo tình trạng hệ thống"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Network",
+      "skills_required": ["Networking", "Routing", "Switching", "Monitoring", "Problem Solving"],
+      "nice_to_have": ["CCNA"]
+    },
+    "benefits": [
+      "Môi trường lớn",
+      "Thu nhập cạnh tranh",
+      "Đào tạo chuyên môn"
+    ]
+  },
+  {
+    "job_id": "d2e7f4a9-8b1c-4f5a-9d6e-1c7b8a321003",
+    "title": "IT Infrastructure Technician",
+    "company": "FPT",
+    "location": "Đà Nẵng",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "15 – 25 triệu VNĐ/tháng",
+    "job_description": "Hỗ trợ triển khai và bảo trì hạ tầng CNTT doanh nghiệp.",
+    "responsibilities": [
+      "Lắp đặt thiết bị CNTT",
+      "Bảo trì hạ tầng",
+      "Hỗ trợ kỹ thuật nội bộ",
+      "Xử lý sự cố phần cứng"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "1+ năm IT Infrastructure",
+      "skills_required": ["Hardware", "Networking", "Windows Server", "Troubleshooting", "Teamwork"],
+      "nice_to_have": ["Virtualization"]
+    },
+    "benefits": [
+      "Đào tạo bài bản",
+      "Môi trường ổn định",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "9b3a1d6f-4c7e-4a8b-8f21-0d2e7c9a1004",
+    "title": "Data Center Operations Engineer",
+    "company": "VNG",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "20 – 34 triệu VNĐ/tháng",
+    "job_description": "Vận hành và giám sát hệ thống tại trung tâm dữ liệu.",
+    "responsibilities": [
+      "Quản lý thiết bị Data Center",
+      "Giám sát hệ thống 24/7",
+      "Xử lý sự cố hạ tầng",
+      "Báo cáo vận hành"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Data Center",
+      "skills_required": ["Server Hardware", "Networking", "Monitoring", "Troubleshooting", "Discipline"],
+      "nice_to_have": ["NOC Experience"]
+    },
+    "benefits": [
+      "Thu nhập tốt",
+      "Môi trường chuyên nghiệp",
+      "Phúc lợi đầy đủ"
+    ]
+  },
+  {
+    "job_id": "4f8e9b2c-7d1a-4e6f-9c3b-2a5d1caa1005",
+    "title": "IT Operations Analyst",
+    "company": "Shopee",
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "17 – 28 triệu VNĐ/tháng",
+    "job_description": "Phân tích và hỗ trợ vận hành hệ thống CNTT.",
+    "responsibilities": [
+      "Theo dõi hiệu suất hệ thống",
+      "Phân tích sự cố",
+      "Lập báo cáo vận hành",
+      "Hỗ trợ cải tiến quy trình"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "1+ năm IT Operations",
+      "skills_required": ["System Monitoring", "Data Analysis", "Excel", "Problem Solving", "Communication"],
+      "nice_to_have": ["Power BI"]
+    },
+    "benefits": [
+      "Hybrid linh hoạt",
+      "Môi trường quốc tế",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "e6c1b4a9-5f2d-4c8e-8a71-9b3d0fbb1006",
+    "title": "Infrastructure Monitoring Engineer",
+    "company": "Momo",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 35 triệu VNĐ/tháng",
+    "job_description": "Giám sát và đảm bảo hệ thống hạ tầng hoạt động ổn định.",
+    "responsibilities": [
+      "Thiết lập hệ thống monitoring",
+      "Theo dõi cảnh báo",
+      "Phân tích sự cố",
+      "Phối hợp xử lý lỗi"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Monitoring",
+      "skills_required": ["Monitoring Tools", "Linux", "Networking", "Troubleshooting", "Alerting"],
+      "nice_to_have": ["Prometheus", "Grafana"]
+    },
+    "benefits": [
+      "Remote",
+      "Thu nhập cạnh tranh",
+      "Cân bằng công việc"
+    ]
+  },
+  {
+    "job_id": "1d9e4b6a-7c2f-4a5e-8b31-0f8c2d9a1007",
+    "title": "Network & System Support Engineer",
+    "company": "FPT Software",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "16 – 26 triệu VNĐ/tháng",
+    "job_description": "Hỗ trợ kỹ thuật mạng và hệ thống cho doanh nghiệp.",
+    "responsibilities": [
+      "Hỗ trợ người dùng",
+      "Xử lý sự cố mạng",
+      "Bảo trì hệ thống",
+      "Cập nhật tài liệu kỹ thuật"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "1+ năm IT Support",
+      "skills_required": ["Networking", "System Support", "Windows", "Troubleshooting", "Communication"],
+      "nice_to_have": ["ITIL"]
+    },
+    "benefits": [
+      "Môi trường chuyên nghiệp",
+      "Đào tạo kỹ năng",
+      "Ổn định lâu dài"
+    ]
+  },
+  {
+    "job_id": "7b8a9c2d-4f1e-4b6a-9d31-2e0c5aab1008",
+    "title": "Infrastructure Operations Specialist",
+    "company": "VNPT",
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "20 – 32 triệu VNĐ/tháng",
+    "job_description": "Vận hành và tối ưu hạ tầng CNTT doanh nghiệp.",
+    "responsibilities": [
+      "Vận hành hạ tầng",
+      "Giám sát hệ thống",
+      "Tối ưu tài nguyên",
+      "Đảm bảo an toàn"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Infrastructure",
+      "skills_required": ["Linux", "Networking", "Monitoring", "Security", "Problem Solving"],
+      "nice_to_have": ["Cloud Infrastructure"]
+    },
+    "benefits": [
+      "Hybrid linh hoạt",
+      "Phúc lợi tốt",
+      "Thu nhập ổn định"
+    ]
+  },
+  {
+    "job_id": "5e1c9a8b-4f2d-4e7a-8c31-9d6f2bcd1009",
+    "title": "NOC Engineer",
+    "company": "Viettel",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "16 – 27 triệu VNĐ/tháng",
+    "job_description": "Giám sát và xử lý sự cố hệ thống mạng tại NOC.",
+    "responsibilities": [
+      "Giám sát hệ thống 24/7",
+      "Tiếp nhận và xử lý sự cố",
+      "Escalate khi cần",
+      "Lập báo cáo sự cố"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "1+ năm NOC",
+      "skills_required": ["Network Monitoring", "Incident Handling", "Troubleshooting", "Discipline", "Communication"],
+      "nice_to_have": ["CCNA"]
+    },
+    "benefits": [
+      "Thu nhập ổn định",
+      "Môi trường viễn thông lớn",
+      "Đào tạo chứng chỉ"
+    ]
+  },
+  {
+    "job_id": "c2b7d1a9-8e4f-4c5a-9b31-6f0d8eaa1010",
+    "title": "IT Service Operations Engineer",
+    "company": "Tiki",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "18 – 30 triệu VNĐ/tháng",
+    "job_description": "Đảm bảo dịch vụ CNTT hoạt động ổn định và hiệu quả.",
+    "responsibilities": [
+      "Vận hành dịch vụ IT",
+      "Xử lý incident",
+      "Theo dõi SLA",
+      "Cải tiến quy trình"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm IT Operations",
+      "skills_required": ["IT Operations", "Incident Management", "Monitoring", "Communication", "Problem Solving"],
+      "nice_to_have": ["ITIL"]
+    },
+    "benefits": [
+      "Thu nhập cạnh tranh",
+      "Môi trường năng động",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "0a1b2c3d-1111-4aaa-9b31-aaa000000001",
+    "title": "IT Operations Specialist",
+    "company": "VNPT",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "18 – 30 triệu VNĐ/tháng",
+    "job_description": "Vận hành và hỗ trợ hoạt động hệ thống CNTT doanh nghiệp.",
+    "responsibilities": [
+      "Theo dõi hệ thống CNTT",
+      "Xử lý sự cố vận hành",
+      "Hỗ trợ người dùng nội bộ",
+      "Báo cáo tình trạng hệ thống"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm IT Operations",
+      "skills_required": ["IT Operations", "Monitoring", "Incident Management", "Communication", "Problem Solving"],
+      "nice_to_have": ["ITIL"]
+    },
+    "benefits": ["Thu nhập ổn định", "Phúc lợi tốt", "Môi trường chuyên nghiệp"]
+  },
+  {
+    "job_id": "0a1b2c3d-2222-4bbb-9b31-aaa000000002",
+    "title": "Network Operations Engineer",
+    "company": "Viettel",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "20 – 32 triệu VNĐ/tháng",
+    "job_description": "Giám sát và đảm bảo hệ thống mạng hoạt động ổn định.",
+    "responsibilities": [
+      "Giám sát hệ thống mạng",
+      "Xử lý sự cố kết nối",
+      "Cấu hình thiết bị mạng",
+      "Báo cáo sự cố"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Network",
+      "skills_required": ["Networking", "Network Monitoring", "Troubleshooting", "Communication", "Problem Solving"],
+      "nice_to_have": ["CCNA"]
+    },
+    "benefits": ["Môi trường lớn", "Đào tạo chứng chỉ", "Thu nhập cạnh tranh"]
+  },
+  {
+    "job_id": "0a1b2c3d-3333-4ccc-9b31-aaa000000003",
+    "title": "System Operations Analyst",
+    "company": "FPT",
+    "location": "Đà Nẵng",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "16 – 26 triệu VNĐ/tháng",
+    "job_description": "Theo dõi, phân tích và hỗ trợ vận hành hệ thống CNTT.",
+    "responsibilities": [
+      "Theo dõi hiệu suất hệ thống",
+      "Phân tích sự cố",
+      "Lập báo cáo vận hành",
+      "Hỗ trợ cải tiến quy trình"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "1+ năm vận hành hệ thống",
+      "skills_required": ["System Monitoring", "Analysis", "Excel", "Problem Solving", "Communication"],
+      "nice_to_have": ["Power BI"]
+    },
+    "benefits": ["Đào tạo bài bản", "Ổn định lâu dài", "Cơ hội phát triển"]
+  },
+
+  {
+    "job_id": "0a1b2c3d-4444-4ddd-9b31-aaa000000004",
+    "title": "Infrastructure Operations Engineer",
+    "company": "Shopee",
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 34 triệu VNĐ/tháng",
+    "job_description": "Vận hành và tối ưu hạ tầng CNTT doanh nghiệp.",
+    "responsibilities": [
+      "Vận hành hạ tầng",
+      "Giám sát hệ thống",
+      "Tối ưu tài nguyên",
+      "Đảm bảo an toàn"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Infrastructure",
+      "skills_required": ["Infrastructure", "Linux", "Monitoring", "Networking", "Problem Solving"],
+      "nice_to_have": ["Cloud Infrastructure"]
+    },
+    "benefits": ["Hybrid linh hoạt", "Thu nhập cạnh tranh", "Môi trường quốc tế"]
+  },
+
+  {
+    "job_id": "0a1b2c3d-5555-4eee-9b31-aaa000000005",
+    "title": "Data Center Operations Engineer",
+    "company": "VNG",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "20 – 34 triệu VNĐ/tháng",
+    "job_description": "Vận hành và giám sát hệ thống tại trung tâm dữ liệu.",
+    "responsibilities": [
+      "Giám sát Data Center",
+      "Xử lý sự cố phần cứng",
+      "Theo dõi hệ thống 24/7",
+      "Lập báo cáo vận hành"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Data Center",
+      "skills_required": ["Server Hardware", "Monitoring", "Incident Handling", "Discipline", "Problem Solving"],
+      "nice_to_have": ["NOC Experience"]
+    },
+    "benefits": ["Thu nhập tốt", "Môi trường chuyên nghiệp", "Phúc lợi đầy đủ"]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000201",
+    "title": "Platform Engineer",
+    "company": "Shopee",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "25 – 40 triệu VNĐ/tháng",
+    "job_description": "Xây dựng và duy trì nền tảng kỹ thuật phục vụ các đội phát triển.",
+    "responsibilities": [
+      "Phát triển công cụ nội bộ",
+      "Tối ưu nền tảng hệ thống",
+      "Hỗ trợ team kỹ thuật",
+      "Tự động hóa quy trình"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Platform/Software",
+      "skills_required": ["Python", "JavaScript", "System Design", "Linux", "Problem Solving"],
+      "nice_to_have": ["C++", "Cloud Computing"]
+    },
+    "benefits": [
+      "Thu nhập cạnh tranh",
+      "Môi trường công nghệ cao",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000202",
+    "title": "Automation Engineer",
+    "company": "FPT",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 35 triệu VNĐ/tháng",
+    "job_description": "Phát triển các hệ thống và script tự động hóa.",
+    "responsibilities": [
+      "Xây dựng script tự động",
+      "Tối ưu quy trình vận hành",
+      "Phân tích lỗi hệ thống",
+      "Hỗ trợ IT Operations"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Automation",
+      "skills_required": ["Python", "JavaScript", "Scripting", "Linux", "Problem Solving"],
+      "nice_to_have": ["CI/CD"]
+    },
+    "benefits": [
+      "Đào tạo nâng cao",
+      "Dự án đa dạng",
+      "Thu nhập ổn định"
+    ]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000203",
+    "title": "Data Operations Engineer",
+    "company": "Tiki",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "23 – 36 triệu VNĐ/tháng",
+    "job_description": "Vận hành và tối ưu hệ thống xử lý dữ liệu.",
+    "responsibilities": [
+      "Xử lý dữ liệu định kỳ",
+      "Tự động hóa pipeline dữ liệu",
+      "Giám sát chất lượng dữ liệu",
+      "Hỗ trợ Data Team"
+    ],
+    "requirements": {
+      "education": "CNTT, Toán hoặc liên quan",
+      "experience": "2+ năm Data Ops",
+      "skills_required": ["Python", "SQL", "Data Processing", "Monitoring", "Problem Solving"],
+      "nice_to_have": ["JavaScript"]
+    },
+    "benefits": [
+      "Môi trường năng động",
+      "Thu nhập cạnh tranh",
+      "Cơ hội học hỏi"
+    ]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000204",
+    "title": "System Tooling Engineer",
+    "company": "VNPT",
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "20 – 34 triệu VNĐ/tháng",
+    "job_description": "Phát triển các công cụ hỗ trợ vận hành hệ thống.",
+    "responsibilities": [
+      "Xây dựng tool nội bộ",
+      "Tối ưu công cụ vận hành",
+      "Phân tích log hệ thống",
+      "Hỗ trợ System Team"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm System/Tooling",
+      "skills_required": ["Python", "C++", "Linux", "System Monitoring", "Problem Solving"],
+      "nice_to_have": ["JavaScript"]
+    },
+    "benefits": [
+      "Hybrid linh hoạt",
+      "Phúc lợi tốt",
+      "Môi trường ổn định"
+    ]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000205",
+    "title": "Integration Engineer",
+    "company": "Momo",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "25 – 38 triệu VNĐ/tháng",
+    "job_description": "Phát triển và duy trì các hệ thống tích hợp.",
+    "responsibilities": [
+      "Xây dựng hệ thống tích hợp",
+      "Xử lý dữ liệu giữa các hệ thống",
+      "Giám sát luồng dữ liệu",
+      "Khắc phục sự cố tích hợp"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Integration",
+      "skills_required": ["Python", "JavaScript", "System Integration", "Problem Solving", "Communication"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Sản phẩm fintech lớn",
+      "Thu nhập cao",
+      "Môi trường sáng tạo"
+    ]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000206",
+    "title": "Monitoring & Observability Engineer",
+    "company": "VNG",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "24 – 38 triệu VNĐ/tháng",
+    "job_description": "Xây dựng hệ thống giám sát và quan sát hệ thống.",
+    "responsibilities": [
+      "Phát triển tool monitoring",
+      "Phân tích metric và log",
+      "Tối ưu cảnh báo",
+      "Hỗ trợ xử lý sự cố"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Monitoring",
+      "skills_required": ["Python", "JavaScript", "Monitoring Tools", "Linux", "Problem Solving"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Remote",
+      "Thu nhập hấp dẫn",
+      "Công nghệ hiện đại"
+    ]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000207",
+    "title": "Security Automation Engineer",
+    "company": "Viettel",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "26 – 42 triệu VNĐ/tháng",
+    "job_description": "Tự động hóa các quy trình an toàn thông tin.",
+    "responsibilities": [
+      "Xây dựng script bảo mật",
+      "Tự động hóa kiểm tra an ninh",
+      "Phân tích log bảo mật",
+      "Hỗ trợ Security Team"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc An toàn thông tin",
+      "experience": "2+ năm Security",
+      "skills_required": ["Python", "JavaScript", "Security Automation", "Problem Solving", "Linux"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Thu nhập cao",
+      "Đào tạo chuyên sâu",
+      "Dự án lớn"
+    ]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000208",
+    "title": "Technical Operations Engineer",
+    "company": "Tiki",
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "18 – 30 triệu VNĐ/tháng",
+    "job_description": "Hỗ trợ kỹ thuật và phát triển công cụ cho vận hành CNTT.",
+    "responsibilities": [
+      "Hỗ trợ vận hành hệ thống",
+      "Viết script hỗ trợ",
+      "Theo dõi hệ thống",
+      "Báo cáo sự cố"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "1+ năm IT/Technical Ops",
+      "skills_required": ["Python", "JavaScript", "Linux", "Monitoring", "Communication"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Hybrid linh hoạt",
+      "Môi trường năng động",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000209",
+    "title": "Research Software Engineer",
+    "company": "FPT",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "26 – 40 triệu VNĐ/tháng",
+    "job_description": "Nghiên cứu và phát triển các giải pháp phần mềm thử nghiệm.",
+    "responsibilities": [
+      "Phát triển prototype",
+      "Nghiên cứu thuật toán",
+      "Thử nghiệm giải pháp mới",
+      "Viết tài liệu kỹ thuật"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Software/Research",
+      "skills_required": ["C++", "Python", "Algorithms", "Problem Solving", "Documentation"],
+      "nice_to_have": ["JavaScript"]
+    },
+    "benefits": [
+      "Dự án nghiên cứu",
+      "Môi trường học thuật",
+      "Thu nhập cạnh tranh"
+    ]
+  },
+  {
+    "job_id": "7a9c2e1b-1a2b-4c3d-9e11-000000000210",
+    "title": "Internal Tools Engineer",
+    "company": "Shopee",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "24 – 38 triệu VNĐ/tháng",
+    "job_description": "Xây dựng công cụ nội bộ hỗ trợ vận hành và phân tích.",
+    "responsibilities": [
+      "Phát triển tool nội bộ",
+      "Tối ưu workflow",
+      "Phối hợp với các team",
+      "Bảo trì công cụ"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Tooling",
+      "skills_required": ["Python", "JavaScript", "System Design", "Problem Solving", "Communication"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Thu nhập cạnh tranh",
+      "Môi trường quốc tế",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000211",
+    "title": "Software Tooling Engineer",
+    "company": "VNPT",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 36 triệu VNĐ/tháng",
+    "job_description": "Phát triển các công cụ phần mềm phục vụ vận hành và quản trị hệ thống.",
+    "responsibilities": [
+      "Xây dựng công cụ nội bộ",
+      "Tự động hóa quy trình",
+      "Phân tích log hệ thống",
+      "Hỗ trợ team vận hành"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Tooling/Software",
+      "skills_required": ["Python", "JavaScript", "Linux", "Problem Solving", "System Design"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Môi trường ổn định",
+      "Phúc lợi tốt",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000212",
+    "title": "Infrastructure Automation Engineer",
+    "company": "FPT Software",
+    "location": "Đà Nẵng",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "24 – 38 triệu VNĐ/tháng",
+    "job_description": "Tự động hóa quản lý và vận hành hạ tầng CNTT.",
+    "responsibilities": [
+      "Viết script tự động hóa",
+      "Quản lý hạ tầng",
+      "Tối ưu vận hành",
+      "Giám sát hệ thống"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Automation/Infrastructure",
+      "skills_required": ["Python", "JavaScript", "Linux", "Automation", "Problem Solving"],
+      "nice_to_have": ["C++", "Cloud Infrastructure"]
+    },
+    "benefits": [
+      "Dự án lớn",
+      "Đào tạo chuyên sâu",
+      "Thu nhập cạnh tranh"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000213",
+    "title": "System Integration Engineer",
+    "company": "Momo",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "26 – 40 triệu VNĐ/tháng",
+    "job_description": "Thiết kế và phát triển các hệ thống tích hợp giữa nhiều nền tảng.",
+    "responsibilities": [
+      "Phát triển luồng tích hợp",
+      "Xử lý dữ liệu giữa hệ thống",
+      "Giám sát tích hợp",
+      "Khắc phục lỗi"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Integration",
+      "skills_required": ["Python", "JavaScript", "System Integration", "Problem Solving", "Communication"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Sản phẩm fintech lớn",
+      "Thu nhập cao",
+      "Môi trường sáng tạo"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000211",
+    "title": "Software Tooling Engineer",
+    "company": "VNPT",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "22 – 36 triệu VNĐ/tháng",
+    "job_description": "Phát triển các công cụ phần mềm phục vụ vận hành và quản trị hệ thống.",
+    "responsibilities": [
+      "Xây dựng công cụ nội bộ",
+      "Tự động hóa quy trình",
+      "Phân tích log hệ thống",
+      "Hỗ trợ team vận hành"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Tooling/Software",
+      "skills_required": ["Python", "JavaScript", "Linux", "Problem Solving", "System Design"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Môi trường ổn định",
+      "Phúc lợi tốt",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000212",
+    "title": "Infrastructure Automation Engineer",
+    "company": "FPT Software",
+    "location": "Đà Nẵng",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "24 – 38 triệu VNĐ/tháng",
+    "job_description": "Tự động hóa quản lý và vận hành hạ tầng CNTT.",
+    "responsibilities": [
+      "Viết script tự động hóa",
+      "Quản lý hạ tầng",
+      "Tối ưu vận hành",
+      "Giám sát hệ thống"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Automation/Infrastructure",
+      "skills_required": ["Python", "JavaScript", "Linux", "Automation", "Problem Solving"],
+      "nice_to_have": ["C++", "Cloud Infrastructure"]
+    },
+    "benefits": [
+      "Dự án lớn",
+      "Đào tạo chuyên sâu",
+      "Thu nhập cạnh tranh"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000213",
+    "title": "System Integration Engineer",
+    "company": "Momo",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "26 – 40 triệu VNĐ/tháng",
+    "job_description": "Thiết kế và phát triển các hệ thống tích hợp giữa nhiều nền tảng.",
+    "responsibilities": [
+      "Phát triển luồng tích hợp",
+      "Xử lý dữ liệu giữa hệ thống",
+      "Giám sát tích hợp",
+      "Khắc phục lỗi"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Integration",
+      "skills_required": ["Python", "JavaScript", "System Integration", "Problem Solving", "Communication"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Sản phẩm fintech lớn",
+      "Thu nhập cao",
+      "Môi trường sáng tạo"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000214",
+    "title": "Data Processing Engineer",
+    "company": "Tiki",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "23 – 37 triệu VNĐ/tháng",
+    "job_description": "Xử lý và tối ưu luồng dữ liệu cho hệ thống phân tích.",
+    "responsibilities": [
+      "Xử lý dữ liệu định kỳ",
+      "Viết script xử lý dữ liệu",
+      "Đảm bảo chất lượng dữ liệu",
+      "Hỗ trợ Data Team"
+    ],
+    "requirements": {
+      "education": "CNTT, Toán hoặc liên quan",
+      "experience": "2+ năm Data Processing",
+      "skills_required": ["Python", "Data Processing", "SQL", "Problem Solving", "Monitoring"],
+      "nice_to_have": ["JavaScript", "C++"]
+    },
+    "benefits": [
+      "Thu nhập cạnh tranh",
+      "Môi trường năng động",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000215",
+    "title": "Embedded Software Engineer",
+    "company": "Viettel",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "25 – 42 triệu VNĐ/tháng",
+    "job_description": "Phát triển phần mềm cho hệ thống nhúng và thiết bị mạng.",
+    "responsibilities": [
+      "Phát triển phần mềm nhúng",
+      "Tối ưu hiệu năng",
+      "Debug hệ thống",
+      "Viết tài liệu kỹ thuật"
+    ],
+    "requirements": {
+      "education": "CNTT, Điện tử hoặc liên quan",
+      "experience": "2+ năm Embedded",
+      "skills_required": ["C++", "Embedded Systems", "Linux", "Debugging", "Problem Solving"],
+      "nice_to_have": ["Python"]
+    },
+    "benefits": [
+      "Dự án công nghệ cao",
+      "Thu nhập tốt",
+      "Đào tạo chuyên sâu"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000216",
+    "title": "Security Tooling Engineer",
+    "company": "VNG",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "28 – 45 triệu VNĐ/tháng",
+    "job_description": "Phát triển công cụ hỗ trợ giám sát và phân tích bảo mật.",
+    "responsibilities": [
+      "Xây dựng tool bảo mật",
+      "Phân tích log an ninh",
+      "Tự động hóa kiểm tra",
+      "Hỗ trợ Security Team"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc An toàn thông tin",
+      "experience": "2+ năm Security",
+      "skills_required": ["Python", "JavaScript", "Security Monitoring", "Linux", "Problem Solving"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Remote",
+      "Thu nhập cao",
+      "Công nghệ hiện đại"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000217",
+    "title": "Technical Platform Analyst",
+    "company": "Shopee",
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "18 – 30 triệu VNĐ/tháng",
+    "job_description": "Phân tích và hỗ trợ kỹ thuật cho nền tảng hệ thống.",
+    "responsibilities": [
+      "Phân tích dữ liệu hệ thống",
+      "Theo dõi hiệu suất",
+      "Hỗ trợ cải tiến nền tảng",
+      "Báo cáo kỹ thuật"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "1+ năm Technical/Platform",
+      "skills_required": ["Python", "JavaScript", "Analysis", "Monitoring", "Communication"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Hybrid linh hoạt",
+      "Môi trường quốc tế",
+      "Cơ hội phát triển"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000218",
+    "title": "Automation Platform Engineer",
+    "company": "Tiki",
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "24 – 38 triệu VNĐ/tháng",
+    "job_description": "Xây dựng nền tảng tự động hóa cho vận hành hệ thống.",
+    "responsibilities": [
+      "Thiết kế nền tảng automation",
+      "Viết script và tool",
+      "Giám sát hệ thống",
+      "Cải tiến workflow"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Automation",
+      "skills_required": ["Python", "JavaScript", "Automation", "System Design", "Problem Solving"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Thu nhập cạnh tranh",
+      "Môi trường năng động",
+      "Cơ hội học hỏi"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000219",
+    "title": "System Performance Engineer",
+    "company": "VNPT",
+    "location": "Hà Nội",
+    "employment_type": "Full-time",
+    "experience_level": "Middle",
+    "salary_range": "25 – 40 triệu VNĐ/tháng",
+    "job_description": "Phân tích và tối ưu hiệu năng hệ thống CNTT.",
+    "responsibilities": [
+      "Phân tích hiệu năng",
+      "Tối ưu tài nguyên",
+      "Phát triển công cụ đo lường",
+      "Báo cáo cải tiến"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "2+ năm Performance/System",
+      "skills_required": ["Python", "C++", "Performance Tuning", "Linux", "Problem Solving"],
+      "nice_to_have": ["JavaScript"]
+    },
+    "benefits": [
+      "Thu nhập tốt",
+      "Môi trường kỹ thuật cao",
+      "Đào tạo chuyên sâu"
+    ]
+  },
+  {
+    "job_id": "9b2c1d4e-5a6f-4c7b-8e11-000000000220",
+    "title": "Internal Automation Developer",
+    "company": "FPT",
+    "location": "Hồ Chí Minh",
+    "employment_type": "Full-time",
+    "experience_level": "Junior – Middle",
+    "salary_range": "18 – 32 triệu VNĐ/tháng",
+    "job_description": "Phát triển các script và công cụ tự động hóa nội bộ.",
+    "responsibilities": [
+      "Viết script hỗ trợ",
+      "Tự động hóa tác vụ",
+      "Hỗ trợ IT Operations",
+      "Bảo trì công cụ"
+    ],
+    "requirements": {
+      "education": "CNTT hoặc liên quan",
+      "experience": "1+ năm Automation",
+      "skills_required": ["Python", "JavaScript", "Scripting", "Linux", "Problem Solving"],
+      "nice_to_have": ["C++"]
+    },
+    "benefits": [
+      "Môi trường chuyên nghiệp",
+      "Đào tạo kỹ năng",
+      "Lộ trình phát triển"
+    ]
+  }
+]
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+

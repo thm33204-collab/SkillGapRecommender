@@ -1,0 +1,900 @@
+[
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000001",
+    "name": "Lập trình Python cơ bản",
+    "provider": "Coursera",
+    "description": "Nền tảng lập trình Python cho người mới.",
+    "skills_outcomes": ["Python", "Programming Basics", "Problem Solving"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000002",
+    "name": "Python nâng cao cho Backend",
+    "provider": "Udemy",
+    "description": "Xây dựng hệ thống backend chuyên sâu với Python.",
+    "skills_outcomes": ["Python", "Backend Development", "API"],
+    "level": "Advanced"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000003",
+    "name": "Flask REST API",
+    "provider": "Coursera",
+    "description": "Thiết kế REST API bằng Flask.",
+    "skills_outcomes": ["Flask", "REST API", "Python"],
+    "level": "Intermediate"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000004",
+    "name": "Django cho Backend Developer",
+    "provider": "Udemy",
+    "description": "Xây dựng backend với Django Framework.",
+    "skills_outcomes": ["Django", "Python", "Backend"],
+    "level": "Intermediate"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000005",
+    "name": "SQL cơ bản",
+    "provider": "Funix",
+    "description": "Làm quen với truy vấn SQL.",
+    "skills_outcomes": ["SQL", "Database", "Data Retrieval"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000006",
+    "name": "SQL nâng cao",
+    "provider": "Coursera",
+    "description": "Tối ưu truy vấn và thiết kế CSDL.",
+    "skills_outcomes": ["SQL", "Database Optimization"],
+    "level": "Advanced"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000007",
+    "name": "Docker cơ bản",
+    "provider": "Funix",
+    "description": "Đóng gói ứng dụng bằng Docker.",
+    "skills_outcomes": ["Docker", "Containerization"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000008",
+    "name": "Docker & CI/CD",
+    "provider": "Udemy",
+    "description": "Triển khai CI/CD với Docker.",
+    "skills_outcomes": ["Docker", "CI/CD", "DevOps"],
+    "level": "Intermediate"
+  },
+
+
+
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000009",
+    "name": "Excel cho Data Analyst",
+    "provider": "Coursera",
+    "description": "Phân tích dữ liệu bằng Excel.",
+    "skills_outcomes": ["Excel", "Data Analysis"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000010",
+    "name": "SQL cho Data Analyst",
+    "provider": "Coursera",
+    "description": "Truy vấn và phân tích dữ liệu bằng SQL.",
+    "skills_outcomes": ["SQL", "Data Analysis"],
+    "level": "Intermediate"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000011",
+    "name": "Power BI cơ bản",
+    "provider": "Funix",
+    "description": "Xây dựng dashboard với Power BI.",
+    "skills_outcomes": ["Power BI", "Data Visualization"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000012",
+    "name": "Power BI nâng cao",
+    "provider": "Udemy",
+    "description": "Dashboard nâng cao cho doanh nghiệp.",
+    "skills_outcomes": ["Power BI", "Business Intelligence"],
+    "level": "Advanced"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000013",
+    "name": "Python cho Data Analyst",
+    "provider": "Funix",
+    "description": "Xử lý dữ liệu với Pandas.",
+    "skills_outcomes": ["Python", "Pandas", "Data Analysis"],
+    "level": "Intermediate"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000014",
+    "name": "Machine Learning cơ bản",
+    "provider": "Coursera",
+    "description": "Giới thiệu Machine Learning.",
+    "skills_outcomes": ["Machine Learning", "Python"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000015",
+    "name": "Machine Learning nâng cao",
+    "provider": "Coursera",
+    "description": "Ứng dụng ML vào bài toán thực tế.",
+    "skills_outcomes": ["Machine Learning", "Model Evaluation"],
+    "level": "Advanced"
+  },
+
+
+
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000016",
+    "name": "HTML & CSS",
+    "provider": "Coursera",
+    "description": "Nền tảng frontend.",
+    "skills_outcomes": ["HTML", "CSS"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000017",
+    "name": "JavaScript cơ bản",
+    "provider": "Udemy",
+    "description": "Lập trình JavaScript.",
+    "skills_outcomes": ["JavaScript"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000018",
+    "name": "React cơ bản",
+    "provider": "Udemy",
+    "description": "Xây dựng UI với React.",
+    "skills_outcomes": ["React", "JavaScript"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000019",
+    "name": "React nâng cao",
+    "provider": "Coursera",
+    "description": "React cho ứng dụng lớn.",
+    "skills_outcomes": ["React", "Frontend Architecture"],
+    "level": "Advanced"
+  },
+
+ 
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000020",
+    "name": "AWS cơ bản",
+    "provider": "Coursera",
+    "description": "Nền tảng cloud AWS.",
+    "skills_outcomes": ["AWS", "Cloud Computing"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000021",
+    "name": "AWS nâng cao",
+    "provider": "Udemy",
+    "description": "Triển khai hệ thống cloud.",
+    "skills_outcomes": ["AWS", "Infrastructure"],
+    "level": "Advanced"
+  },
+
+  
+
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000022",
+    "name": "Business Analysis cơ bản",
+    "provider": "Coursera",
+    "description": "Phân tích nghiệp vụ.",
+    "skills_outcomes": ["Business Analysis", "Communication"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000023",
+    "name": "Business Analysis nâng cao",
+    "provider": "Udemy",
+    "description": "Phân tích quy trình doanh nghiệp.",
+    "skills_outcomes": ["Business Analysis", "Process Modeling"],
+    "level": "Advanced"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000024",
+    "name": "Manual Testing",
+    "provider": "Funix",
+    "description": "Kiểm thử phần mềm thủ công.",
+    "skills_outcomes": ["Manual Testing", "Test Case"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000025",
+    "name": "Automation Testing",
+    "provider": "Udemy",
+    "description": "Kiểm thử tự động.",
+    "skills_outcomes": ["Selenium", "Automation Testing"],
+    "level": "Intermediate"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000026",
+    "name": "Digital Marketing",
+    "provider": "Coursera",
+    "description": "Marketing số.",
+    "skills_outcomes": ["Digital Marketing", "Content"],
+    "level": "Beginner"
+  },
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000027",
+  "name": "Node.js cơ bản",
+  "provider": "Udemy",
+  "description": "Xây dựng backend với Node.js.",
+  "skills_outcomes": ["Node.js", "Backend Development", "JavaScript"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000028",
+  "name": "Express.js & REST API",
+  "provider": "Coursera",
+  "description": "Thiết kế REST API với Express.",
+  "skills_outcomes": ["Express", "REST API", "Node.js"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000029",
+  "name": "Java Spring Boot cơ bản",
+  "provider": "Udemy",
+  "description": "Xây dựng backend Java với Spring Boot.",
+  "skills_outcomes": ["Java", "Spring Boot", "Backend Development"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000030",
+  "name": "Microservices với Spring Boot",
+  "provider": "Coursera",
+  "description": "Thiết kế microservices backend.",
+  "skills_outcomes": ["Spring Boot", "Microservices", "Java"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000031",
+  "name": "MongoDB cơ bản",
+  "provider": "Udemy",
+  "description": "Làm việc với NoSQL MongoDB.",
+  "skills_outcomes": ["MongoDB", "NoSQL", "Database"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000032",
+  "name": "PostgreSQL cho Backend",
+  "provider": "Coursera",
+  "description": "Thiết kế và tối ưu PostgreSQL.",
+  "skills_outcomes": ["PostgreSQL", "SQL", "Database"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000033",
+  "name": "Git & GitHub",
+  "provider": "Funix",
+  "description": "Quản lý mã nguồn với Git.",
+  "skills_outcomes": ["Git", "Version Control"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000034",
+  "name": "DevOps cơ bản",
+  "provider": "Udemy",
+  "description": "Giới thiệu DevOps và pipeline.",
+  "skills_outcomes": ["DevOps", "CI/CD", "Docker"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000035",
+  "name": "Kubernetes cơ bản",
+  "provider": "Coursera",
+  "description": "Quản lý container với Kubernetes.",
+  "skills_outcomes": ["Kubernetes", "Docker", "Cloud Computing"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000036",
+  "name": "Terraform & Infrastructure as Code",
+  "provider": "Udemy",
+  "description": "Quản lý hạ tầng bằng Terraform.",
+  "skills_outcomes": ["Terraform", "Infrastructure", "Cloud"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000037",
+  "name": "Data Visualization nâng cao",
+  "provider": "Coursera",
+  "description": "Trực quan dữ liệu chuyên sâu.",
+  "skills_outcomes": ["Data Visualization", "Power BI", "Analytics"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000038",
+  "name": "Statistics cho Data Analyst",
+  "provider": "Coursera",
+  "description": "Thống kê cho phân tích dữ liệu.",
+  "skills_outcomes": ["Statistics", "Data Analysis"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000039",
+  "name": "Deep Learning cơ bản",
+  "provider": "Coursera",
+  "description": "Giới thiệu Deep Learning.",
+  "skills_outcomes": ["Deep Learning", "Neural Networks"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000040",
+  "name": "NLP với Python",
+  "provider": "Udemy",
+  "description": "Xử lý ngôn ngữ tự nhiên.",
+  "skills_outcomes": ["NLP", "Python", "Machine Learning"],
+  "level": "Intermediate"
+},
+
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000041",
+  "name": "UI/UX Design Fundamentals",
+  "provider": "Coursera",
+  "description": "Thiết kế trải nghiệm người dùng.",
+  "skills_outcomes": ["UI Design", "UX Research"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000042",
+  "name": "Figma cho UI/UX",
+  "provider": "Udemy",
+  "description": "Thiết kế giao diện với Figma.",
+  "skills_outcomes": ["Figma", "UI Design"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000043",
+  "name": "Testing API với Postman",
+  "provider": "Funix",
+  "description": "Kiểm thử API.",
+  "skills_outcomes": ["API Testing", "Postman"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000044",
+  "name": "Automation Testing với Selenium",
+  "provider": "Udemy",
+  "description": "Tự động hóa kiểm thử web.",
+  "skills_outcomes": ["Selenium", "Automation Testing"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000045",
+  "name": "Digital Marketing nâng cao",
+  "provider": "Coursera",
+  "description": "Chiến lược marketing số.",
+  "skills_outcomes": ["Digital Marketing", "Analytics"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000046",
+  "name": "SEO & Content Marketing",
+  "provider": "Udemy",
+  "description": "Tối ưu SEO và nội dung.",
+  "skills_outcomes": ["SEO", "Content Marketing"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000047",
+  "name": "Python nâng cao cho Backend",
+  "provider": "Coursera",
+  "description": "Nâng cao Python cho xây dựng backend.",
+  "skills_outcomes": ["Python", "Backend Development", "API"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000048",
+  "name": "FastAPI & Microservices",
+  "provider": "Udemy",
+  "description": "Xây dựng API tốc độ cao với FastAPI.",
+  "skills_outcomes": ["FastAPI", "Python", "Microservices"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000049",
+  "name": "Django REST Framework",
+  "provider": "Coursera",
+  "description": "Xây dựng REST API với Django.",
+  "skills_outcomes": ["Django", "REST API", "Python"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000050",
+  "name": "Clean Code cho Developer",
+  "provider": "Udemy",
+  "description": "Viết code sạch và dễ bảo trì.",
+  "skills_outcomes": ["Clean Code", "Software Design"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000051",
+  "name": "System Design cơ bản",
+  "provider": "Coursera",
+  "description": "Thiết kế hệ thống backend.",
+  "skills_outcomes": ["System Design", "Scalability"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000052",
+  "name": "Big Data Fundamentals",
+  "provider": "Coursera",
+  "description": "Giới thiệu Big Data.",
+  "skills_outcomes": ["Big Data", "Data Engineering"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000053",
+  "name": "Apache Spark cho Data",
+  "provider": "Udemy",
+  "description": "Xử lý dữ liệu lớn với Spark.",
+  "skills_outcomes": ["Apache Spark", "Big Data", "Python"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000054",
+  "name": "ETL Pipeline cho Data Analyst",
+  "provider": "Funix",
+  "description": "Xây dựng pipeline dữ liệu.",
+  "skills_outcomes": ["ETL", "Data Pipeline", "SQL"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000055",
+  "name": "Business Intelligence Foundations",
+  "provider": "Coursera",
+  "description": "Nền tảng BI.",
+  "skills_outcomes": ["Business Intelligence", "Power BI"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000056",
+  "name": "Advanced Power BI",
+  "provider": "Udemy",
+  "description": "Power BI nâng cao.",
+  "skills_outcomes": ["Power BI", "DAX", "Data Modeling"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000057",
+  "name": "AWS EC2 & Networking",
+  "provider": "Coursera",
+  "description": "Triển khai server trên AWS.",
+  "skills_outcomes": ["AWS", "EC2", "Networking"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000058",
+  "name": "AWS Security Essentials",
+  "provider": "Udemy",
+  "description": "Bảo mật hệ thống AWS.",
+  "skills_outcomes": ["AWS Security", "Cloud Security"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000059",
+  "name": "Linux cho DevOps",
+  "provider": "Funix",
+  "description": "Quản trị Linux.",
+  "skills_outcomes": ["Linux", "System Administration"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000060",
+  "name": "CI/CD với GitHub Actions",
+  "provider": "Udemy",
+  "description": "Tự động hóa CI/CD.",
+  "skills_outcomes": ["CI/CD", "GitHub Actions"],
+  "level": "Intermediate"
+},
+
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000061",
+  "name": "Frontend Performance Optimization",
+  "provider": "Coursera",
+  "description": "Tối ưu hiệu năng frontend.",
+  "skills_outcomes": ["Frontend Performance", "JavaScript"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000062",
+  "name": "Next.js cho Frontend",
+  "provider": "Udemy",
+  "description": "Xây dựng frontend với Next.js.",
+  "skills_outcomes": ["Next.js", "React", "Frontend"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000063",
+  "name": "TypeScript cho React",
+  "provider": "Coursera",
+  "description": "TypeScript trong React.",
+  "skills_outcomes": ["TypeScript", "React"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000064",
+  "name": "Manual Testing Fundamentals",
+  "provider": "Funix",
+  "description": "Kiểm thử phần mềm thủ công.",
+  "skills_outcomes": ["Manual Testing", "Test Case"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000065",
+  "name": "Performance Testing",
+  "provider": "Udemy",
+  "description": "Kiểm thử hiệu năng.",
+  "skills_outcomes": ["Performance Testing", "JMeter"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000066",
+  "name": "Agile & Scrum",
+  "provider": "Coursera",
+  "description": "Phương pháp Agile Scrum.",
+  "skills_outcomes": ["Agile", "Scrum"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000067",
+  "name": "Product Management cơ bản",
+  "provider": "Udemy",
+  "description": "Quản lý sản phẩm.",
+  "skills_outcomes": ["Product Management", "Business"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000068",
+  "name": "Data Storytelling",
+  "provider": "Coursera",
+  "description": "Kể chuyện bằng dữ liệu.",
+  "skills_outcomes": ["Data Storytelling", "Communication"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000069",
+  "name": "AI Ethics & Responsible AI",
+  "provider": "Coursera",
+  "description": "Đạo đức trong AI.",
+  "skills_outcomes": ["AI Ethics", "Responsible AI"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000070",
+  "name": "MLOps Fundamentals",
+  "provider": "Udemy",
+  "description": "Triển khai ML vào production.",
+  "skills_outcomes": ["MLOps", "Machine Learning"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000071",
+  "name": "Advanced Backend Architecture",
+  "provider": "Coursera",
+  "description": "Thiết kế kiến trúc backend quy mô lớn.",
+  "skills_outcomes": ["Backend Architecture", "System Design"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000072",
+  "name": "API Security & Authentication",
+  "provider": "Udemy",
+  "description": "Bảo mật API và xác thực người dùng.",
+  "skills_outcomes": ["API Security", "Authentication", "JWT"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000073",
+  "name": "GraphQL cho Backend",
+  "provider": "Coursera",
+  "description": "Xây dựng API GraphQL.",
+  "skills_outcomes": ["GraphQL", "API Development"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000074",
+  "name": "NoSQL Databases",
+  "provider": "Udemy",
+  "description": "Làm việc với MongoDB và NoSQL.",
+  "skills_outcomes": ["MongoDB", "NoSQL", "Database"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000075",
+  "name": "Data Warehousing Fundamentals",
+  "provider": "Coursera",
+  "description": "Nền tảng kho dữ liệu.",
+  "skills_outcomes": ["Data Warehouse", "SQL", "ETL"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000076",
+  "name": "Advanced SQL Optimization",
+  "provider": "Udemy",
+  "description": "Tối ưu truy vấn SQL.",
+  "skills_outcomes": ["SQL Optimization", "Database Performance"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000077",
+  "name": "Python for Automation",
+  "provider": "Funix",
+  "description": "Tự động hóa công việc với Python.",
+  "skills_outcomes": ["Python", "Automation", "Scripting"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000078",
+  "name": "Statistics for Data Science",
+  "provider": "Coursera",
+  "description": "Thống kê cho khoa học dữ liệu.",
+  "skills_outcomes": ["Statistics", "Data Science"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000079",
+  "name": "Deep Learning Fundamentals",
+  "provider": "Coursera",
+  "description": "Nền tảng Deep Learning.",
+  "skills_outcomes": ["Deep Learning", "Neural Networks"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000080",
+  "name": "TensorFlow cho AI",
+  "provider": "Udemy",
+  "description": "Xây dựng mô hình với TensorFlow.",
+  "skills_outcomes": ["TensorFlow", "Deep Learning"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000081",
+  "name": "Frontend Accessibility",
+  "provider": "Coursera",
+  "description": "Xây dựng web dễ tiếp cận.",
+  "skills_outcomes": ["Accessibility", "Frontend"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000082",
+  "name": "UX Research cơ bản",
+  "provider": "Udemy",
+  "description": "Nghiên cứu trải nghiệm người dùng.",
+  "skills_outcomes": ["UX Research", "User Experience"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000083",
+  "name": "Design System cho Product",
+  "provider": "Coursera",
+  "description": "Xây dựng Design System.",
+  "skills_outcomes": ["Design System", "UI/UX"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000084",
+  "name": "Marketing Analytics",
+  "provider": "Coursera",
+  "description": "Phân tích dữ liệu marketing.",
+  "skills_outcomes": ["Marketing Analytics", "Data Analysis"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000085",
+  "name": "SEO Fundamentals",
+  "provider": "Udemy",
+  "description": "Tối ưu công cụ tìm kiếm.",
+  "skills_outcomes": ["SEO", "Digital Marketing"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000086",
+  "name": "Content Marketing Strategy",
+  "provider": "Coursera",
+  "description": "Chiến lược content marketing.",
+  "skills_outcomes": ["Content Marketing", "Strategy"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000087",
+  "name": "Test Automation với Selenium",
+  "provider": "Udemy",
+  "description": "Tự động hóa kiểm thử.",
+  "skills_outcomes": ["Selenium", "Automation Testing"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000088",
+  "name": "API Testing với Postman",
+  "provider": "Funix",
+  "description": "Kiểm thử API.",
+  "skills_outcomes": ["API Testing", "Postman"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000089",
+  "name": "Business Process Modeling",
+  "provider": "Coursera",
+  "description": "Mô hình hóa quy trình nghiệp vụ.",
+  "skills_outcomes": ["Business Process", "BPMN"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000090",
+  "name": "Requirement Engineering",
+  "provider": "Udemy",
+  "description": "Kỹ thuật thu thập yêu cầu.",
+  "skills_outcomes": ["Requirement Analysis", "Business Analysis"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000091",
+  "name": "Cloud Cost Optimization",
+  "provider": "Coursera",
+  "description": "Tối ưu chi phí cloud.",
+  "skills_outcomes": ["Cloud Cost", "AWS"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000092",
+  "name": "Kubernetes Fundamentals",
+  "provider": "Udemy",
+  "description": "Quản lý container với Kubernetes.",
+  "skills_outcomes": ["Kubernetes", "Container Orchestration"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000093",
+  "name": "Advanced DevOps Practices",
+  "provider": "Coursera",
+  "description": "DevOps nâng cao.",
+  "skills_outcomes": ["DevOps", "CI/CD", "Automation"],
+  "level": "Advanced"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000094",
+  "name": "Monitoring & Logging Systems",
+  "provider": "Udemy",
+  "description": "Giám sát hệ thống.",
+  "skills_outcomes": ["Monitoring", "Logging"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000095",
+  "name": "IT Project Management",
+  "provider": "Coursera",
+  "description": "Quản lý dự án CNTT.",
+  "skills_outcomes": ["Project Management", "IT"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000096",
+  "name": "Risk Management in IT",
+  "provider": "Udemy",
+  "description": "Quản lý rủi ro CNTT.",
+  "skills_outcomes": ["Risk Management", "IT Governance"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000097",
+  "name": "Soft Skills cho IT",
+  "provider": "Funix",
+  "description": "Kỹ năng mềm cho dân IT.",
+  "skills_outcomes": ["Communication", "Teamwork"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000098",
+  "name": "Presentation Skills",
+  "provider": "Coursera",
+  "description": "Kỹ năng thuyết trình.",
+  "skills_outcomes": ["Presentation", "Communication"],
+  "level": "Beginner"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000099",
+  "name": "Critical Thinking for Analyst",
+  "provider": "Udemy",
+  "description": "Tư duy phản biện cho analyst.",
+  "skills_outcomes": ["Critical Thinking", "Analysis"],
+  "level": "Intermediate"
+},
+{
+  "course_id": "8fe3c2bc-452e-49e8-8af1-000000000100",
+  "name": "Career Development in Tech",
+  "provider": "Coursera",
+  "description": "Định hướng phát triển sự nghiệp CNTT.",
+  "skills_outcomes": ["Career Planning", "Professional Development"],
+  "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000101",
+    "name": "Effective Communication in IT",
+    "provider": "Coursera",
+    "description": "Kỹ năng giao tiếp hiệu quả trong môi trường CNTT.",
+    "skills_outcomes": ["Communication", "Teamwork"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000102",
+    "name": "Problem Solving for IT Professionals",
+    "provider": "Udemy",
+    "description": "Phát triển kỹ năng giải quyết vấn đề trong CNTT.",
+    "skills_outcomes": ["Problem Solving", "Critical Thinking"],
+    "level": "Intermediate"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000103",
+    "name": "Linux System Administration Basics",
+    "provider": "edX",
+    "description": "Kiến thức cơ bản về quản trị hệ điều hành Linux.",
+    "skills_outcomes": ["Linux", "System Administration"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000104",
+    "name": "Networking Fundamentals",
+    "provider": "Cisco Networking Academy",
+    "description": "Nền tảng về mạng máy tính và hệ thống mạng.",
+    "skills_outcomes": ["Networking", "Troubleshooting"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000105",
+    "name": "IT Operations and Monitoring",
+    "provider": "Udemy",
+    "description": "Quản lý và giám sát vận hành hệ thống CNTT.",
+    "skills_outcomes": ["IT Operations", "System Monitoring"],
+    "level": "Intermediate"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000106",
+    "name": "Cloud Computing Fundamentals",
+    "provider": "Coursera",
+    "description": "Kiến thức nền tảng về điện toán đám mây.",
+    "skills_outcomes": ["Cloud Computing", "Infrastructure"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000107",
+    "name": "Cyber Security Basics",
+    "provider": "edX",
+    "description": "Kiến thức cơ bản về an toàn thông tin và bảo mật hệ thống.",
+    "skills_outcomes": ["Cyber Security", "Security Awareness"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000108",
+    "name": "IT Service Management with ITIL",
+    "provider": "Udemy",
+    "description": "Quản lý dịch vụ CNTT theo chuẩn ITIL.",
+    "skills_outcomes": ["IT Service Management", "ITIL"],
+    "level": "Intermediate"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000109",
+    "name": "Time Management for Tech Professionals",
+    "provider": "Coursera",
+    "description": "Quản lý thời gian hiệu quả cho người làm CNTT.",
+    "skills_outcomes": ["Time Management", "Productivity"],
+    "level": "Beginner"
+  },
+  {
+    "course_id": "8fe3c2bc-452e-49e8-8af1-000000000110",
+    "name": "Incident Management in IT Operations",
+    "provider": "Udemy",
+    "description": "Quy trình xử lý sự cố trong vận hành CNTT.",
+    "skills_outcomes": ["Incident Management", "IT Operations", "Problem Solving"],
+    "level": "Intermediate"
+  }
+]
+
+
+
+  
+
