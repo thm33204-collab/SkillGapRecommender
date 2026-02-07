@@ -7,26 +7,40 @@ import {
   LogIn,
   UserPlus,
   LogOut,
-  Upload,
-  User, // ✅ THÊM ICON USER
+  User,
+  Eye,
+  Sparkles,
+  LucideIcon,
 } from "lucide-react";
 
 // ✅ UI utils
 import { cn } from "@/lib/utils";
 
-// ✅ AUTH utils (JWT) - SỬ DỤNG getValidToken thay vì isLoggedIn
+// ✅ AUTH utils (JWT)
 import { getValidToken, logout } from "@/lib/auth";
+
+// ✅ TYPE: Navigation Item
+interface NavItem {
+  path: string;
+  label: string;
+  icon: LucideIcon;
+  badge?: string;
+  badgeColor?: string;
+}
 
 export const Navigation = () => {
   const location = useLocation();
   const navigate = useNavigate();
 
-  const loggedIn = !!getValidToken(); // ✅ CHECK TOKEN HỢP LỆ
+  const token = getValidToken();
+  const loggedIn = !!token;
 
-  // ===== MENU ITEMS - PHÂN BIỆT THEO TRẠNG THÁI ĐĂNG NHẬP =====
-  
-  // Menu chung (luôn hiển thị)
-  const publicNavItems = [
+  // =============================================
+  // 🎯 MENU ITEMS - TÁCH RIÊNG THEO USER TYPE
+  // =============================================
+
+  // ✅ Menu cho GUEST (chưa đăng nhập)
+  const guestNavItems: NavItem[] = [
     {
       path: "/",
       label: "Trang chủ",
@@ -37,21 +51,38 @@ export const Navigation = () => {
       label: "Danh sách công việc",
       icon: Briefcase,
     },
-  ];
-
-  // Menu riêng cho user đã đăng nhập
-  const authenticatedNavItems = [
     {
-      path: "/matching",
-      label: "Phân tích CV",
-      icon: FileText,
+      path: "/analysis",  // ✅ Route riêng cho demo
+      label: "Demo phân tích CV",
+      icon: Eye,
+      badge: "Demo",
+      badgeColor: "bg-blue-500"
     },
   ];
 
-  // Kết hợp menu dựa trên trạng thái
-  const navItems = loggedIn 
-    ? [...publicNavItems, ...authenticatedNavItems]
-    : publicNavItems;
+  // ✅ Menu cho USER (đã đăng nhập)
+  const userNavItems: NavItem[] = [
+    {
+      path: "/",
+      label: "Trang chủ",
+      icon: Home,
+    },
+    {
+      path: "/jobs",
+      label: "Danh sách công việc",
+      icon: Briefcase,
+    },
+    {
+      path: "/analysis",  // ✅ Route riêng cho personal
+      label: "Phân tích CV cá nhân",
+      icon: Sparkles,
+      badge: "Cá nhân",
+      badgeColor: "bg-green-500"
+    },
+  ];
+
+  // ✅ Chọn menu dựa trên trạng thái đăng nhập
+  const navItems = loggedIn ? userNavItems : guestNavItems;
 
   return (
     <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
@@ -60,10 +91,10 @@ export const Navigation = () => {
 
           {/* ===== LOGO ===== */}
           <Link to="/" className="flex items-center space-x-3">
-            <div className="bg-gradient-primary rounded-lg p-2">
-              <GraduationCap className="h-6 w-6 text-primary-foreground" />
+            <div className="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-lg p-2">
+              <GraduationCap className="h-6 w-6 text-white" />
             </div>
-            <span className="font-bold text-xl bg-gradient-primary bg-clip-text text-transparent">
+            <span className="font-bold text-xl bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
               Career Guide
             </span>
           </Link>
@@ -79,17 +110,27 @@ export const Navigation = () => {
 
               return (
                 <button
-                  key={item.label}
+                  key={item.path}
                   onClick={() => navigate(item.path)}
                   className={cn(
-                    "flex items-center space-x-2 px-5 py-2.5 rounded-xl text-lg font-semibold transition-all duration-300",
+                    "flex items-center space-x-2 px-4 py-2 rounded-xl text-sm font-semibold transition-all duration-300 relative",
                     isActive
                       ? "bg-accent text-accent-foreground shadow-sm"
                       : "text-muted-foreground hover:text-foreground hover:bg-accent/50"
                   )}
                 >
-                  <Icon className="h-6 w-6" />
+                  <Icon className="h-5 w-5" />
                   <span>{item.label}</span>
+                  
+                  {/* BADGE (nếu có) */}
+                  {item.badge && (
+                    <span className={cn(
+                      "text-[10px] font-bold px-1.5 py-0.5 rounded text-white ml-1",
+                      item.badgeColor
+                    )}>
+                      {item.badge}
+                    </span>
+                  )}
                 </button>
               );
             })}
@@ -97,6 +138,8 @@ export const Navigation = () => {
 
           {/* ===== MENU RIGHT (AUTH) ===== */}
           <div className="flex items-center space-x-2">
+            
+            {/* ✅ MODE: GUEST (Chưa đăng nhập) */}
             {!loggedIn && (
               <>
                 <button
@@ -109,7 +152,7 @@ export const Navigation = () => {
 
                 <button
                   onClick={() => navigate("/register")}
-                  className="flex items-center space-x-1.5 px-3 py-2 rounded-md bg-primary text-primary-foreground text-sm hover:opacity-90 transition"
+                  className="flex items-center space-x-1.5 px-3 py-2 rounded-md bg-gradient-to-r from-blue-600 to-indigo-600 text-white text-sm hover:from-blue-700 hover:to-indigo-700 transition"
                 >
                   <UserPlus className="h-4 w-4" />
                   <span>Đăng ký</span>
@@ -117,23 +160,15 @@ export const Navigation = () => {
               </>
             )}
 
+            {/* ✅ MODE: USER (Đã đăng nhập) */}
             {loggedIn && (
               <>
-                {/* ✅ THÊM NÚT PROFILE */}
                 <button
                   onClick={() => navigate("/profile")}
                   className="flex items-center space-x-1.5 px-3 py-2 rounded-md text-sm bg-blue-100 text-blue-700 hover:bg-blue-200 transition"
                 >
                   <User className="h-4 w-4" />
                   <span>Trang cá nhân</span>
-                </button>
-
-                <button
-                  onClick={() => navigate("/upload-cv")}
-                  className="flex items-center space-x-1.5 px-3 py-2 rounded-md text-sm bg-green-600 text-white hover:bg-green-700 transition"
-                >
-                  <Upload className="h-4 w-4" />
-                  <span>Upload CV</span>
                 </button>
 
                 <button

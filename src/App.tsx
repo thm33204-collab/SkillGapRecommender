@@ -8,22 +8,22 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { Navigation } from "./components/layout/Navigation";
 import ProtectedRoute from "./components/ProtectedRoute";
 
-// Pages
+// ==================== PAGES ====================
 import Home from "./pages/Home";
 import JobList from "./pages/JobList";
 import JobDetail from "./pages/JobDetail";
-import JobCVMatching from "./pages/JobCVMatching";
-import UploadCV from "./pages/UploadCV";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Profile from "./pages/Profile";
 import NotFound from "./pages/NotFound";
 
-// ✅ Create QueryClient with better defaults
+// ✅ CHỈ 1 PAGE PHÂN TÍCH – TỰ XỬ LÝ DEMO / PERSONAL
+import JobCVMatching from "./pages/JobCVMatching";
+
 const queryClient = new QueryClient({
   defaultOptions: {
     queries: {
-      staleTime: 1000 * 60 * 5, // 5 minutes
+      staleTime: 1000 * 60 * 5,
       retry: 1,
       refetchOnWindowFocus: false,
     },
@@ -38,28 +38,24 @@ const App = () => {
           <Navigation />
 
           <Routes>
-            {/* ==================== PUBLIC ROUTES ==================== */}
+            {/* ================= PUBLIC ================= */}
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
 
-            {/* ==================== JOBS ROUTES ==================== */}
+            {/* ================= JOBS ================= */}
             <Route path="/jobs" element={<JobList />} />
             <Route path="/jobs/:id" element={<JobDetail />} />
 
-            {/* ==================== MATCHING ROUTE ==================== */}
-            <Route path="/matching" element={<JobCVMatching />} />
+            {/* ================= ANALYSIS ================= */}
+            {/* 
+              Guest  -> Demo Mode
+              Logged -> Personal Mode
+              (Xử lý bên trong JobCVMatching)
+            */}
+            <Route path="/analysis" element={<JobCVMatching />} />
 
-            {/* ==================== PROTECTED ROUTES ==================== */}
-            <Route
-              path="/upload-cv"
-              element={
-                <ProtectedRoute>
-                  <UploadCV />
-                </ProtectedRoute>
-              }
-            />
-
+            {/* ================= PROFILE ================= */}
             <Route
               path="/profile"
               element={
@@ -69,12 +65,11 @@ const App = () => {
               }
             />
 
-            {/* ==================== FALLBACK ==================== */}
+            {/* ================= FALLBACK ================= */}
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>
 
-        {/* ✅ Move Toasters outside BrowserRouter to avoid re-renders */}
         <Toaster />
         <Sonner />
       </TooltipProvider>

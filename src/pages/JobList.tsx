@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
-import { Search, AlertCircle, Loader2 } from "lucide-react";
+import { Search, AlertCircle, Loader2, ChevronLeft, ChevronRight } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { JobCard } from "@/components/jobs/JobCard";
 import { Alert, AlertDescription } from "@/components/ui/alert";
+import { Button } from "@/components/ui/button";
 
 /**
  * 🔧 Type definitions matching backend response
@@ -37,6 +38,10 @@ const JobList = () => {
   const [jobs, setJobs] = useState<Job[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string>("");
+  
+  // Pagination states
+  const [currentPage, setCurrentPage] = useState(1);
+  const jobsPerPage = 50;
 
   // =====================================
   // 🔥 FETCH JOBS FROM BACKEND
@@ -60,7 +65,6 @@ const JobList = () => {
 
         const data: JobsResponse = await res.json();
 
-        // ✅ Backend trả về format: { jobs: [...], total: 123 }
         if (data.jobs && Array.isArray(data.jobs)) {
           setJobs(data.jobs);
           console.log(`✅ Đã tải ${data.total} công việc`);
@@ -99,6 +103,55 @@ const JobList = () => {
       skills.some((skill) => skill.toLowerCase().includes(term))
     );
   });
+
+  // =====================================
+  // 📄 PAGINATION LOGIC
+  // =====================================
+  const totalPages = Math.ceil(filteredJobs.length / jobsPerPage);
+  const startIndex = (currentPage - 1) * jobsPerPage;
+  const endIndex = startIndex + jobsPerPage;
+  const currentJobs = filteredJobs.slice(startIndex, endIndex);
+
+  // Reset to page 1 when search changes
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [searchTerm]);
+
+  const goToPage = (page: number) => {
+    setCurrentPage(page);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const getPageNumbers = () => {
+    const pages: (number | string)[] = [];
+    const maxVisible = 5;
+
+    if (totalPages <= maxVisible) {
+      for (let i = 1; i <= totalPages; i++) {
+        pages.push(i);
+      }
+    } else {
+      if (currentPage <= 3) {
+        for (let i = 1; i <= 4; i++) pages.push(i);
+        pages.push('...');
+        pages.push(totalPages);
+      } else if (currentPage >= totalPages - 2) {
+        pages.push(1);
+        pages.push('...');
+        for (let i = totalPages - 3; i <= totalPages; i++) pages.push(i);
+      } else {
+        pages.push(1);
+        pages.push('...');
+        pages.push(currentPage - 1);
+        pages.push(currentPage);
+        pages.push(currentPage + 1);
+        pages.push('...');
+        pages.push(totalPages);
+      }
+    }
+
+    return pages;
+  };
 
   // =====================================
   // ⏳ LOADING STATE
@@ -143,8 +196,7 @@ const JobList = () => {
             Tìm kiếm công việc phù hợp với kỹ năng của bạn
           </p>
           <p className="text-sm text-muted-foreground mt-2">
-            Tổng số: <span className="font-semibold">{jobs.length}</span> công
-            việc
+            Tổng số: <span className="font-semibold">{jobs.length}</span> công việc
           </p>
         </div>
 
@@ -176,12 +228,20 @@ const JobList = () => {
           </div>
         )}
 
+        {/* Pagination info */}
+        {filteredJobs.length > 0 && (
+          <div className="mb-4 text-sm text-muted-foreground">
+            Hiển thị {startIndex + 1}–{Math.min(endIndex, filteredJobs.length)} trong tổng số{" "}
+            <span className="font-semibold">{filteredJobs.length}</span> công việc
+          </div>
+        )}
+
         {/* Job Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filteredJobs.map((job, index) => (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+          {currentJobs.map((job, index) => (
             <JobCard
               key={job.job_id}
-              index={index}
+              index={startIndex + index}
               job={{
                 id: job.job_id,
                 title: job.title,
@@ -192,6 +252,52 @@ const JobList = () => {
             />
           ))}
         </div>
+
+        {/* Pagination Controls */}
+        {filteredJobs.length > jobsPerPage && (
+          <div className="flex flex-col items-center gap-4 mt-8">
+            <div className="flex items-center gap-2">
+              <Button
+                variant="outline"
+                size="icon"
+                onClick={() => goToPage(currentPage - 1)}
+                disabled={currentPage === 1}
+              >
+                <ChevronLeft className="h-4 w-4" />
+              </Button>
+
+              {getPageNumbers().map((page, idx) => (
+                page === '...' ? (
+                  <span key={`ellipsis-${idx}`} className="px-2 text-muted-foreground">
+                    ...
+                  </span>
+                ) : (
+                  <Button
+                    key={page}
+                    variant={currentPage === page ? "default" : "outline"}
+                    size="icon"
+                    onClick={() => goToPage(page as number)}
+                  >
+                    {page}
+                  </Button>
+                )
+              ))}
+
+              <Button
+                variant="outline"
+                size="icon"
+                onClick={() => goToPage(currentPage + 1)}
+                disabled={currentPage === totalPages}
+              >
+                <ChevronRight className="h-4 w-4" />
+              </Button>
+            </div>
+
+            <p className="text-sm text-muted-foreground">
+              Trang {currentPage} / {totalPages}
+            </p>
+          </div>
+        )}
 
         {/* Empty State */}
         {filteredJobs.length === 0 && (

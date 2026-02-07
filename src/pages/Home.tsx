@@ -53,7 +53,7 @@ const Home = () => {
 
               <button
                 className="px-6 py-3 bg-white text-purple-600 hover:bg-yellow-400 hover:text-gray-900 font-semibold shadow-xl rounded-lg flex items-center gap-2 transition-all transform hover:scale-105"
-                onClick={() => navigate("/matching")} // ✅ NAVIGATE ĐÚNG
+                onClick={() => navigate("/analysis")} // ✅ NAVIGATE ĐÚNG
               >
                 <FileText className="h-5 w-5" />
                 Phân tích CV ngay
@@ -113,7 +113,7 @@ const Home = () => {
 
             {/* CARD 2 */}
             <div
-              onClick={() => navigate("/matching")} // ✅ NAVIGATE ĐÚNG
+              onClick={() => navigate("/analysis")} // ✅ NAVIGATE ĐÚNG
               className="group cursor-pointer p-8 bg-gradient-to-br from-green-500 to-emerald-400 rounded-2xl text-white
               transition-all duration-300 ease-out
               hover:-translate-y-4 hover:shadow-2xl"

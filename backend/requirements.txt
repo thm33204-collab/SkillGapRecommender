@@ -1,0 +1,24 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+email-validator
+sqlalchemy
+passlib[bcrypt]
+python-jose
+python-multipart
+numpy
+scikit-learn
+sentence-transformers
+PyMuPDF
+requests
+
+# === Qwen 2.5-3B model dependencies (CPU) ===
+transformers
+torch
+accelerate
+tiktoken
+
+# === Optional utilities ===
+pandas
+joblib

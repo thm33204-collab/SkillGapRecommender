@@ -80,6 +80,7 @@ const UploadCV = () => {
     setFile(selectedFile);
     setUploadResult(null);
     toast.success(`Đã chọn file: ${selectedFile.name}`);
+    
   };
 
   /* ======================
@@ -137,8 +138,9 @@ const UploadCV = () => {
       setFile(null);
 
       toast.success(
-        `✅ Đã trích xuất ${data.skills_detected} kỹ năng bằng DeepSeek OCR!`,
+        `✅ Đã trích xuất ${data.skills_detected} kỹ năng bằng LLM Qwen`,
         { id: toastId }
+      
       );
     } catch (error: any) {
       console.error("Upload CV error:", error);
@@ -308,33 +310,46 @@ const UploadCV = () => {
                 </Alert>
 
                 {/* CV Info */}
-                <Card className="bg-blue-50 border-blue-200">
-                  <CardHeader>
-                    <CardTitle className="text-lg text-blue-900">
-                      📄 Thông tin CV
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent className="space-y-2">
-                    <div className="flex justify-between text-sm">
-                      <span className="text-gray-600">File:</span>
-                      <span className="font-medium text-gray-900">
-                        {uploadResult.cv.filename}
-                      </span>
-                    </div>
-                    <div className="flex justify-between text-sm">
-                      <span className="text-gray-600">Ngày tải:</span>
-                      <span className="font-medium text-gray-900">
-                        {new Date(uploadResult.cv.uploaded_at).toLocaleString("vi-VN")}
-                      </span>
-                    </div>
-                    <div className="flex justify-between text-sm">
-                      <span className="text-gray-600">Phương thức:</span>
-                      <Badge className="bg-blue-600">
-                        {uploadResult.cv.extraction_method}
-                      </Badge>
-                    </div>
-                  </CardContent>
-                </Card>
+                {uploadResult?.cv && (
+                  <Card className="bg-blue-50 border-blue-200">
+                <CardHeader>
+              <CardTitle className="text-lg text-blue-900">
+        📄 Thông tin CV
+      </CardTitle>
+    </CardHeader>
+
+    <CardContent className="space-y-2">
+      {/* Filename */}
+      <div className="flex justify-between text-sm">
+        <span className="text-gray-600">File:</span>
+        <span className="font-medium text-gray-900">
+          {uploadResult.cv.filename}
+        </span>
+      </div>
+
+      {/* Uploaded at */}
+      {uploadResult.cv.uploaded_at && (
+        <div className="flex justify-between text-sm">
+          <span className="text-gray-600">Ngày tải:</span>
+          <span className="font-medium text-gray-900">
+            {new Date(uploadResult.cv.uploaded_at).toLocaleString("vi-VN")}
+          </span>
+        </div>
+      )}
+
+      {/* Extraction method */}
+      {uploadResult.cv.extraction_method && (
+        <div className="flex justify-between text-sm">
+          <span className="text-gray-600">Phương thức:</span>
+          <Badge className="bg-blue-600">
+            {uploadResult.cv.extraction_method}
+          </Badge>
+        </div>
+      )}
+    </CardContent>
+  </Card>
+)}
+
 
                 {/* Extracted Skills */}
                 {uploadResult.skills.length > 0 && (

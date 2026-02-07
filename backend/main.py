@@ -729,8 +729,8 @@ def match_demo(request: DemoMatchRequest):
                     
                     recommended_courses.append({
                         "course_id": c.get("course_id"),
-                        "title": c.get("title"),
-                        "platform": c.get("platform"),
+                        "title": c.get("name"),
+                        "platform": c.get("provider"),
                         "url": c.get("url"),
                         "rating": c.get("rating"),
                         "duration": c.get("duration"),
@@ -1008,8 +1008,8 @@ def match_user_cv(
 
                     recommended_courses.append({
                         "course_id": c.get("course_id"),
-                        "title": c.get("title"),
-                        "platform": c.get("platform"),
+                        "title": c.get("name"),
+                        "platform": c.get("provider"),
                         "url": c.get("url"),
                         "level": c.get("level"),
                         "relevance_score": round(float(sims[i]) * 100, 2),
@@ -1107,8 +1107,8 @@ def recommend_courses_by_skills(skills: List[str]):
                 
                 recommended.append({
                     "course_id": c.get("course_id"),
-                    "title": c.get("title"),
-                    "platform": c.get("platform"),
+                    "title": c.get("name"),
+                    "platform": c.get("provider"),
                     "url": c.get("url"),
                     "rating": c.get("rating"),
                     "duration": c.get("duration"),

@@ -69,7 +69,7 @@ const Profile = () => {
       setUserInfo(userData);
 
       // 2. Fetch CVs
-      const cvRes = await fetch("http://127.0.0.1:8000/my-cvs", {
+      const cvRes = await fetch("http://127.0.0.1:8000/user-cvs", {
         headers: {
           "Authorization": `Bearer ${token}`
         }
@@ -146,7 +146,7 @@ const Profile = () => {
       toast.success(`✅ Đã xóa CV "${filename}" thành công!`);
       
       // Refetch CVs to update the list
-      const cvRes = await fetch("http://127.0.0.1:8000/my-cvs", {
+      const cvRes = await fetch("http://127.0.0.1:8000/user-cvs", {
         headers: {
           "Authorization": `Bearer ${token}`
         }
@@ -335,7 +335,7 @@ const Profile = () => {
                     Danh sách CV
                   </CardTitle>
                   <Button
-                    onClick={() => navigate("/matching")}
+                    onClick={() => navigate("/analysis")}
                     className="bg-green-600 hover:bg-green-700"
                   >
                     + Tải CV mới
@@ -350,7 +350,7 @@ const Profile = () => {
                       Bạn chưa có CV nào
                     </p>
                     <Button
-                      onClick={() => navigate("/matching")}
+                      onClick={() => navigate("/analysis")}
                       className="bg-blue-600 hover:bg-blue-700"
                     >
                       Tải lên CV đầu tiên

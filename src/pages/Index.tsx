@@ -22,7 +22,7 @@ const Index = () => {
             </Button>
           </Link>
 
-          <Link to="/matching">
+          <Link to="/analysis">
             <Button size="lg" variant="secondary" className="w-full sm:w-auto">
               <Target className="mr-2 h-5 w-5" />
               Phân tích Job - CV
